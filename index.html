@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AeroIntel Daily</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="sky-grid" aria-hidden="true"></div>
+    <div class="constellation" aria-hidden="true"></div>
+
+    <main class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="#top" aria-label="AeroIntel Daily 首页">
+          <span class="brand-mark">
+            <svg viewBox="0 0 48 48" role="img" aria-label="AeroIntel 标志">
+              <path d="M24 4 41 40 24 32 7 40 24 4Z" />
+              <path d="M24 14 31 29 24 26 17 29 24 14Z" />
+            </svg>
+          </span>
+          <span>
+            <strong>AeroIntel Daily</strong>
+            <small>航空科技情报看板</small>
+          </span>
+        </a>
+
+        <nav class="nav-pills" aria-label="新闻板块">
+          <button class="active" data-filter="all" type="button">全部</button>
+          <button data-filter="aerospace" type="button">航空航天</button>
+          <button data-filter="automation" type="button">自动化</button>
+          <button data-filter="electronics" type="button">电子信息</button>
+          <button data-filter="computing" type="button">计算机</button>
+          <button data-filter="finance" type="button">金融</button>
+          <button data-filter="security" type="button">战争安全</button>
+        </nav>
+      </header>
+
+      <section class="hero" id="top">
+        <div class="hero-copy">
+          <p class="eyebrow">Daily Signals / Mission Brief</p>
+          <h1>每天追踪你关心的科技、金融与安全动态</h1>
+          <p>
+            聚合公开资讯源，按国内外、领域和关键词归档。第一版重点打通
+            “自动更新数据 + 分类展示 + 快速检索 + 原文跳转”。
+          </p>
+          <div class="hero-actions" aria-label="快捷操作">
+            <a class="primary-action" href="#feed">查看今日简报</a>
+            <a class="secondary-action" href="#automation">更新方案</a>
+          </div>
+        </div>
+
+        <div class="radar-panel" aria-label="航空科技雷达图">
+          <div class="radar">
+            <span class="radar-sweep"></span>
+            <span class="orbit orbit-one"></span>
+            <span class="orbit orbit-two"></span>
+            <span class="orbit orbit-three"></span>
+            <span class="signal s1"></span>
+            <span class="signal s2"></span>
+            <span class="signal s3"></span>
+            <span class="signal s4"></span>
+            <span class="aircraft"></span>
+          </div>
+          <div class="telemetry">
+            <span>Update Window</span>
+            <strong id="lastUpdated">Loading</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="mission-strip" aria-label="今日统计">
+        <article>
+          <span>今日收录</span>
+          <strong id="totalCount">0</strong>
+        </article>
+        <article>
+          <span>国内资讯</span>
+          <strong id="domesticCount">0</strong>
+        </article>
+        <article>
+          <span>国外资讯</span>
+          <strong id="globalCount">0</strong>
+        </article>
+        <article>
+          <span>高优先级</span>
+          <strong id="priorityCount">0</strong>
+        </article>
+      </section>
+
+      <section class="control-deck" id="feed">
+        <div class="deck-head">
+          <div>
+            <p class="eyebrow">Signal Feed</p>
+            <h2>情报流</h2>
+          </div>
+          <label class="search-box">
+            <span>搜索</span>
+            <input id="searchInput" type="search" placeholder="输入关键词、来源、领域..." />
+          </label>
+        </div>
+
+        <div class="tool-row" aria-label="筛选器">
+          <button class="chip active" data-region="all" type="button">全部地区</button>
+          <button class="chip" data-region="domestic" type="button">国内</button>
+          <button class="chip" data-region="global" type="button">国外</button>
+          <button class="chip" data-priority="high" type="button">只看重点</button>
+        </div>
+
+        <div class="content-grid">
+          <section class="brief-board" aria-label="今日重点">
+            <div class="section-title">
+              <span></span>
+              <h3>今日重点</h3>
+            </div>
+            <div id="briefList" class="brief-list"></div>
+          </section>
+
+          <section class="news-board" aria-label="新闻列表">
+            <div id="newsGrid" class="news-grid"></div>
+            <p id="emptyState" class="empty-state" hidden>没有匹配的内容，换个关键词或筛选条件试试。</p>
+          </section>
+        </div>
+      </section>
+
+      <section class="automation-panel" id="automation">
+        <div>
+          <p class="eyebrow">Automation Plan</p>
+          <h2>每日自动更新方案</h2>
+          <p>
+            后台脚本每天定时抓取 RSS / 公开源，解析标题、时间、摘要和链接，
+            去重后写入 <code>data/news.json</code>。网页部署后会自动读取最新数据。
+          </p>
+        </div>
+        <ol class="steps">
+          <li><span>01</span>配置 <code>feeds.json</code> 新闻源</li>
+          <li><span>02</span>运行 <code>python scripts/update_news.py</code></li>
+          <li><span>03</span>部署到 GitHub Pages / Cloudflare Pages</li>
+          <li><span>04</span>用 GitHub Actions 每天自动更新</li>
+        </ol>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

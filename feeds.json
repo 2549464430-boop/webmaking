@@ -1,0 +1,149 @@
+[
+  {
+    "name": "NASA Breaking News",
+    "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "category": "aerospace",
+    "region": "global",
+    "tags": ["NASA", "航天"]
+  },
+  {
+    "name": "ESA Space News",
+    "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+    "category": "aerospace",
+    "region": "global",
+    "tags": ["ESA", "航天"]
+  },
+  {
+    "name": "Aviation Week",
+    "url": "https://aviationweek.com/rss.xml",
+    "category": "aerospace",
+    "region": "global",
+    "tags": ["航空", "航天", "防务"]
+  },
+  {
+    "name": "Spaceflight Now",
+    "url": "https://spaceflightnow.com/feed/",
+    "category": "aerospace",
+    "region": "global",
+    "tags": ["火箭", "发射", "航天"]
+  },
+  {
+    "name": "Robotics & Automation News",
+    "url": "https://roboticsandautomationnews.com/feed/",
+    "category": "automation",
+    "region": "global",
+    "tags": ["机器人", "自动化"]
+  },
+  {
+    "name": "36氪",
+    "url": "https://36kr.com/feed",
+    "category": "automation",
+    "region": "domestic",
+    "tags": ["创业", "智能制造", "产业"]
+  },
+  {
+    "name": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/rss/fulltext",
+    "category": "electronics",
+    "region": "global",
+    "tags": ["电子信息", "工程"]
+  },
+  {
+    "name": "EE Times",
+    "url": "https://www.eetimes.com/feed/",
+    "category": "electronics",
+    "region": "global",
+    "tags": ["芯片", "电子工程"]
+  },
+  {
+    "name": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/feed/",
+    "category": "electronics",
+    "region": "global",
+    "tags": ["半导体", "芯片"]
+  },
+  {
+    "name": "人民网 IT",
+    "url": "https://www.people.com.cn/rss/it.xml",
+    "category": "computing",
+    "region": "domestic",
+    "tags": ["国内科技", "互联网"]
+  },
+  {
+    "name": "Solidot",
+    "url": "https://www.solidot.org/index.rss",
+    "category": "computing",
+    "region": "domestic",
+    "tags": ["计算机", "开源", "科技"]
+  },
+  {
+    "name": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "category": "computing",
+    "region": "global",
+    "tags": ["计算机", "科技"]
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/",
+    "category": "computing",
+    "region": "global",
+    "tags": ["创业", "AI", "软件"]
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "category": "computing",
+    "region": "global",
+    "tags": ["科技", "软件", "硬件"]
+  },
+  {
+    "name": "人民网财经",
+    "url": "https://www.people.com.cn/rss/finance.xml",
+    "category": "finance",
+    "region": "domestic",
+    "tags": ["国内金融", "财经"]
+  },
+  {
+    "name": "中新网财经",
+    "url": "https://www.chinanews.com.cn/rss/finance.xml",
+    "category": "finance",
+    "region": "domestic",
+    "tags": ["国内金融", "经济"]
+  },
+  {
+    "name": "CNBC Business",
+    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "category": "finance",
+    "region": "global",
+    "tags": ["金融", "市场"]
+  },
+  {
+    "name": "MarketWatch",
+    "url": "https://feeds.marketwatch.com/marketwatch/topstories/",
+    "category": "finance",
+    "region": "global",
+    "tags": ["市场", "投资"]
+  },
+  {
+    "name": "Defense News Global",
+    "url": "https://www.defensenews.com/arc/outboundfeeds/rss/category/global/?outputType=xml",
+    "category": "security",
+    "region": "global",
+    "tags": ["防务", "战争安全"]
+  },
+  {
+    "name": "人民网军事",
+    "url": "https://www.people.com.cn/rss/military.xml",
+    "category": "security",
+    "region": "domestic",
+    "tags": ["军事", "安全"]
+  },
+  {
+    "name": "人民网国际",
+    "url": "https://www.people.com.cn/rss/world.xml",
+    "category": "security",
+    "region": "domestic",
+    "tags": ["国际", "安全"]
+  }
+]
