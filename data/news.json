@@ -1,367 +1,1851 @@
 {
-  "updatedAt": "2026-05-26T03:35:06.423Z",
+  "updatedAt": "2026-05-27T03:52:34.130Z",
   "items": [
     {
-      "id": "83c92ea85ea5c850",
-      "title": "阅文集团正式上线海外漫剧平台ToonScroll",
+      "id": "b0bf4760d08d8fa9",
+      "title": "上海：推动AI+广告全链路应用，培育一批拥有核心技术和国际化能力的本土广告品牌企业",
       "category": "automation",
       "region": "domestic",
       "source": "36氪",
-      "publishedAt": "2026-05-26T03:31:40.000Z",
+      "publishedAt": "2026-05-27T03:50:33.000Z",
+      "priority": "high",
+      "summary": "36氪获悉，上海市人民政府发布关于推进服务业扩能提质的实施意见。其中提出，推动AI+广告全链路应用，加快人工智能生成内容（AIGC）创意生成、多模态内容生产等技术融合赋能，培育一批拥有核心技术和国际化能力的本土广告品牌企业。拓展人力资源管理咨询、高级人才寻访等高附加值业态，开发招聘大模型、智能面试等新产品。支持咨询服务机构拓展健康咨询、环境社会治理（ESG）",
+      "tags": [
+        "创业",
+        "智能制造",
+        "产业",
+        "AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3827004757595012?f=rss"
+    },
+    {
+      "id": "5950188a9b108d9d",
+      "title": "上海：强化绿色能源服务，完善推广绿电直连、绿电交易、绿电证书交易",
+      "category": "automation",
+      "region": "domestic",
+      "source": "36氪",
+      "publishedAt": "2026-05-27T03:50:11.000Z",
       "priority": "normal",
-      "summary": "36氪获悉，近日，阅文集团正式上线海外漫剧平台ToonScroll，加码漫剧出海新赛道。该平台计划年内推出超千部漫剧。",
+      "summary": "36氪获悉，上海市人民政府发布关于推进服务业扩能提质的实施意见。其中提出，加大智能绿色产品供给，引导智能算力中心、数据中心等数字基础设施绿色化建设运行。强化绿色能源服务，完善推广绿电直连、绿电交易、绿电证书交易，促进绿电消费，鼓励优先使用绿色能源和采购绿色产品及服务。加快楼宇绿色化转型，支持近零能耗更新改造，建设一批零碳园区、零碳供应链示范项目。发展绿色消费",
       "tags": [
         "创业",
         "智能制造",
         "产业"
       ],
-      "url": "https://36kr.com/newsflashes/3825570614465156?f=rss"
+      "url": "https://36kr.com/newsflashes/3827004395885443?f=rss"
     },
     {
-      "id": "9e4beab12e456f2b",
-      "title": "A股三大指数午间休盘集体下跌，招金黄金涨停",
+      "id": "a9b8207fc0c650e4",
+      "title": "中国市场成外企“健身房”",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-05-27T03:26:16.000Z",
+      "priority": "normal",
+      "summary": "中国稳步扩大制度型开放，提高对外开放水平，持续吸引外资企业“加注”中国市场。随着中国市场消费迭代、技术进步对企业竞争力提出更高要求，积极感知消费趋势、深化本土合作成为外企新的发展破局之道。",
+      "tags": [
+        "国内金融",
+        "经济",
+        "市场"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/05-27/10629278.shtml"
+    },
+    {
+      "id": "632957f439b2779a",
+      "title": "大连夏季达沃斯论坛城市吉祥物“沃星”正式发布",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-05-27T03:22:50.000Z",
+      "priority": "normal",
+      "summary": "中新网大连5月27日电 (记者 杨毅)记者27日从从大连夏季达沃斯论坛协调办公室了解到，大连夏季达沃斯论坛城市吉祥物“沃星”近日正式发布，作为展示大连城市风貌、传递城市精神的全新使者，“沃星”将以灵动鲜活的姿态，向世界讲好大连故事、展现滨城风采。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/05-27/10629228.shtml"
+    },
+    {
+      "id": "f47ca51913f18c10",
+      "title": "China industrial profits jump 24.7% in April, fastest gain in over two years despite headwinds",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-05-27T03:20:15.000Z",
+      "priority": "high",
+      "summary": "China’s industrial profits grew at their fastest pace in over two years in April, buoyed by stronger exports, higher producer prices and gains in upstream industries.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/05/27/china-april-industrial-profits-growth.html"
+    },
+    {
+      "id": "efdd190d1acdd346",
+      "title": "“书架”到“货架” “样品”变“产品”（产经视野·推动生产性服务业高质量发展）",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-05-27T03:13:35.000Z",
+      "priority": "normal",
+      "summary": "人民日报",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/05-27/10629300.shtml"
+    },
+    {
+      "id": "1db6fb34b92c169c",
+      "title": "前四个月消费市场平稳运行 向新向优发展",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-05-27T03:08:55.000Z",
+      "priority": "normal",
+      "summary": "央视网消息(新闻联播)：记者从商务部了解到，今年1—4月，随着提振消费专项行动深入实施，政策效果持续显现，消费市场呈现平稳运行、向新向优发展态势。",
+      "tags": [
+        "国内金融",
+        "经济",
+        "市场"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/05-27/10629295.shtml"
+    },
+    {
+      "id": "86732039da751880",
+      "title": "康明斯矿山百年积淀再迎里程碑：首台国产QSK60矿用发动机在渝交付",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-05-27T03:06:45.000Z",
+      "priority": "normal",
+      "summary": "2026年5月25日，康明斯在其全球大马力发动机智造基地——重庆康明斯发动机有限公司举行“康明斯矿山百年中国行暨QSK60国产矿山发动机交付”仪式。活动现场，康明斯与徐工集团共同将首台QSK60国产矿用发动机交付伊敏客户，标志着康明斯大马力矿山动力在华制造与交付能力迈入新阶段，再次体现了其深耕中国矿山市场的长期承诺。",
+      "tags": [
+        "国内金融",
+        "经济",
+        "市场"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/05-27/10629210.shtml"
+    },
+    {
+      "id": "763042b47d543f31",
+      "title": "APEC贸易部长会议发表《苏州声明》，取得丰硕成果",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-05-27T02:55:54.000Z",
+      "priority": "normal",
+      "summary": "5月22-23日，商务部在江苏省苏州市举办亚太经合组织(APEC)贸易部长会议，各方围绕推进区域经济一体化和亚太自贸区建设、支持世贸组织、加强数字合作和发展绿色经济等开展深入讨论。会议发表《2026年APEC贸易部长会议苏州联合声明》，简称《苏州声明》，达成《APEC创新、有竞争力和韧性的服务业路线图》，取得丰硕成果。商务部国际司负责人就会议有关成果进行解读",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/05-27/10629272.shtml"
+    },
+    {
+      "id": "3d6670714dbca208",
+      "title": "青岛：科技兴渔，建设“海上粮仓”",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-05-27T02:47:44.000Z",
+      "priority": "normal",
+      "summary": "【在这片辽阔的土地上102】",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/05-27/10629262.shtml"
+    },
+    {
+      "id": "ec857e965e4c2dde",
+      "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
       "category": "automation",
       "region": "domestic",
       "source": "36氪",
-      "publishedAt": "2026-05-26T03:31:07.000Z",
+      "publishedAt": "2026-05-27T02:38:25.000Z",
       "priority": "high",
-      "summary": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌%，深成指跌%，创业板指跌%；贵金属、教育、石油化工板块领涨，招金黄金涨停，中公教育涨超5%，新凤鸣涨超3%；电脑硬件、互联网、半导体板块跌幅居前，莱特光电跌超14%，紫光股份跌超8%，首都在线跌超6%。",
+      "summary": "当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。 2026年，谁能在复杂场景中解决真问题，谁才是这场变革的主角。 5月19日至20日，以“带着AI去前线”为主题",
       "tags": [
         "创业",
         "智能制造",
         "产业",
-        "芯片"
+        "AI"
       ],
-      "url": "https://36kr.com/newsflashes/3825570070909575?f=rss"
+      "url": "https://36kr.com/p/3826932509364869?f=rss"
     },
     {
-      "id": "9f7b159ddf5dcd78",
-      "title": "“人工智能+”走向规模化落地",
+      "id": "dde1c55b855e0a7a",
+      "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
+      "category": "automation",
+      "region": "domestic",
+      "source": "36氪",
+      "publishedAt": "2026-05-27T02:27:05.000Z",
+      "priority": "high",
+      "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，AI母婴智能硬件品牌珂迪Coddie（以下简称“Coddie”）完成天使轮融资，融资金额数千万元，由钟鼎资本投资，向阳资本担任独家财务顾问。 Coddie团队于2026年初组建，由95后连续创业者何鋡威创立。何鋡威毕业于德国慕尼黑工业大学，先后任职华为、传音控股、拓竹科技等全球化科技企业。技术负责人毕业于国内顶级",
+      "tags": [
+        "创业",
+        "智能制造",
+        "产业",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3826922264286083?f=rss"
+    },
+    {
+      "id": "29676f73d1612638",
+      "title": "Japan, South Korea stocks hit fresh records as markets weigh Iran tensions and ceasefire talks",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-05-27T02:13:42.000Z",
+      "priority": "high",
+      "summary": "Asia-Pacific markets rose on Wednesday, with Japan and South Korea's benchmark indices hitting new highs",
+      "tags": [
+        "金融",
+        "市场"
+      ],
+      "url": "https://www.cnbc.com/2026/05/27/asia-markets-live-updates-nikkei-225-hang-seng-index-kospi-csi-nifty-hari-raya-haji.html"
+    },
+    {
+      "id": "9fb93fb2c3a3f94a",
+      "title": "5月27日央行开展1776亿元7天期逆回购操作",
       "category": "finance",
       "region": "domestic",
       "source": "中新网财经",
-      "publishedAt": "2026-05-26T03:27:46.000Z",
+      "publishedAt": "2026-05-27T02:10:24.000Z",
+      "priority": "normal",
+      "summary": "中新网5月27日电 据央行网站消息，2026年5月27日中国人民银行以固定利率、数量招标方式开展了1776亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/05-27/10629154.shtml"
+    },
+    {
+      "id": "fe3fc163086ca89e",
+      "title": "探馆2026世界智能产业博览会：AI如何“长出身体”？",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-05-27T02:07:37.000Z",
       "priority": "high",
-      "summary": "技术快速迭代，应用全面普及，产业深入发展——",
+      "summary": "中新网天津5月27日电 题：探馆2026世界智能产业博览会：AI如何“长出身体”？",
       "tags": [
         "国内金融",
         "经济",
         "AI"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/05-26/10628613.shtml"
+      "url": "https://www.chinanews.com.cn/cj/2026/05-27/10629195.shtml"
     },
     {
-      "id": "66800736266eb039",
-      "title": "科技有温度、文化有新生，在文博会看见广东文化产业新力量",
+      "id": "5c0b9c8b9942be1e",
+      "title": "SK Hynix hits $1 trillion valuation as AI boom lifts South Korean chip stocks",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-05-27T02:06:48.000Z",
+      "priority": "high",
+      "summary": "Shares of SK Hynix soared over 11% on Wednesday, pushing the South Korean memory-chip maker above the $1 trillion market capitalization mark.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI",
+        "芯片"
+      ],
+      "url": "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html"
+    },
+    {
+      "id": "b7850369d7671592",
+      "title": "化险为夷的洛克王国，给所有长青游戏上了一课",
+      "category": "automation",
+      "region": "domestic",
+      "source": "36氪",
+      "publishedAt": "2026-05-27T02:05:05.000Z",
+      "priority": "normal",
+      "summary": "文丨果脯 2026年5月21日，腾讯魔方工作室群开发的《洛克王国：世界》上线了S2赛季更新。这款基于13年经典IP、以精灵收集养成为核心的大世界游戏，在2026年3月底正式上线后迅速成为年度爆款。据官方数据，游戏上线9天用户量便突破3000万，全平台预约人数达6000万，DAU达到1300万。 S2赛季上线前，这款产品更是被寄予厚望， 腾讯方面称其“有望成为",
+      "tags": [
+        "创业",
+        "智能制造",
+        "产业"
+      ],
+      "url": "https://36kr.com/p/3826354349412992?f=rss"
+    },
+    {
+      "id": "db729a03ebe6435b",
+      "title": "2026年1—4月份规模以上工业企业利润较快增长",
       "category": "finance",
       "region": "domestic",
       "source": "中新网财经",
-      "publishedAt": "2026-05-26T03:22:59.000Z",
+      "publishedAt": "2026-05-27T02:02:05.000Z",
       "priority": "normal",
-      "summary": "走入位于第二十二届文博会15号馆的广东展团，“勇立潮头”主题大字率先映入眼帘，笔力遒劲、气势昂扬；一条灵动的鳌鱼“游”于其下，线条流畅、栩栩如生。二者相映成趣，将岭南的文化韵味与广东的奋进姿态巧妙融合，一如广东展团的基调与底色。",
+      "summary": "中新网5月27日电 据国家统计局网站消息，5月27日，国家统计局工业司首席统计师于卫宁解读2026年1—4月份工业企业利润数据：1—4月份，工业生产较快增长，工业品价格回升，带动工业企业利润增长加快，装备制造业和高技术制造业等新动能行业引领作用明显，工业企业效益持续改善。",
       "tags": [
         "国内金融",
         "经济"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/05-26/10628609.shtml"
+      "url": "https://www.chinanews.com.cn/cj/2026/05-27/10629182.shtml"
     },
     {
-      "id": "0b4b5f27827ec98d",
-      "title": "三个场景看老工业基地澎湃新动能（经济聚焦）",
+      "id": "578d2e27e4f03d3b",
+      "title": "A股三大指数分化，N长进涨逾13倍，单签盈利超32万",
       "category": "finance",
       "region": "domestic",
       "source": "中新网财经",
-      "publishedAt": "2026-05-26T03:17:33.000Z",
+      "publishedAt": "2026-05-27T02:01:03.000Z",
       "priority": "normal",
-      "summary": "今年一季度辽宁高端装备制造业增加值同比增长55.8%",
+      "summary": "中新经纬5月27日电 周三，A股三大指数开盘涨跌不一，沪指低开0.16%，深成指低开0.05%，创业板指高开0.26%。",
       "tags": [
         "国内金融",
         "经济"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/05-26/10628606.shtml"
+      "url": "https://www.chinanews.com.cn/cj/2026/05-27/10629189.shtml"
     },
     {
-      "id": "dd180bf94aa7be94",
-      "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there&#x2019;s no rush",
+      "id": "6d30717b0e0808dd",
+      "title": "今年1-4月全国规模以上工业企业利润增长18.2%",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-05-27T01:59:40.000Z",
+      "priority": "normal",
+      "summary": "中新网5月27日电 据国家统计局网站消息，1—4月份，全国规模以上工业企业实现利润总额24358.4亿元，同比增长18.2%(按可比口径计算)。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/05-27/10629174.shtml"
+    },
+    {
+      "id": "ad88f7b45820484e",
+      "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now &#x2014; and claim survivor&#x2019;s benefit at 67?",
       "category": "finance",
       "region": "global",
       "source": "MarketWatch",
-      "publishedAt": "2026-05-26T03:02:00.000Z",
+      "publishedAt": "2026-05-27T01:44:00.000Z",
       "priority": "high",
-      "summary": "Oil prices were sharply lower and stock futures surged after weekend reports that the U.S. appears close to reaching an agreement that would end the war with Iran and reopen the st",
+      "summary": "&#x201c;I calculated her break-even point to be around age 78.&#x201d;",
+      "tags": [
+        "市场",
+        "投资",
+        "AI"
+      ],
+      "url": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories"
+    },
+    {
+      "id": "58c5cc758307cc2f",
+      "title": "Paxton bests Cornyn in Texas Republican Senate primary after Trump endorsement",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-05-27T01:35:43.000Z",
+      "priority": "normal",
+      "summary": "President Donald Trump last week endorsed Texas Attorney General Ken Paxton over incumbent Sen. John Cornyn.",
+      "tags": [
+        "金融",
+        "市场"
+      ],
+      "url": "https://www.cnbc.com/2026/05/26/texas-primary-election-senate-paxton-cornyn.html"
+    },
+    {
+      "id": "b32865ae7ab3e4cd",
+      "title": "European companies double down on China manufacturing despite EU de-risking push",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-05-27T01:28:37.000Z",
+      "priority": "high",
+      "summary": "Low manufacturing costs in China are keeping many European businesses' supply chains in the country despite pressure in the EU to reduce overseas reliance.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/05/27/european-companies-expand-china-supply-chains-automation-costs.html"
+    },
+    {
+      "id": "508b56cba0a6160c",
+      "title": "NASA outlines nearly $1 billion investment into initial Moon Base missions",
+      "category": "aerospace",
+      "region": "global",
+      "source": "Spaceflight Now",
+      "publishedAt": "2026-05-27T01:18:19.000Z",
+      "priority": "normal",
+      "summary": "NASA’s vision for a sprawling Moon Base will cover “hundreds of square miles” to cover the multitudes of various sites that the agency wants to explore.",
+      "tags": [
+        "火箭",
+        "发射",
+        "航天"
+      ],
+      "url": "https://spaceflightnow.com/2026/05/27/nasa-outlines-nearly-1-billion-investment-into-initial-moon-base-missions/"
+    },
+    {
+      "id": "1115fad6d5033ae3",
+      "title": "36氪首发｜男士美妆品牌「GREENLAB绿所」获宝顶创投战略投资，张耀东出任公司董事",
+      "category": "automation",
+      "region": "domestic",
+      "source": "36氪",
+      "publishedAt": "2026-05-27T01:00:06.000Z",
+      "priority": "normal",
+      "summary": "36氪获悉，无感化面部理容品牌「GREENLAB绿所」（以下简称“绿所”）近日宣布完成千万级新一轮融资，本轮由宝顶创投战略投资。融资完成后，宝顶创投创始合伙人张耀东将出任绿所公司董事，参与品牌战略、产品矩阵、渠道经营等方面的长期建设。 这也是继2025年完成Pre-A轮融资后，绿所在半年左右时间内再次获得外部资本加注。据了解，本轮资金将主要用于新品研发量产、",
+      "tags": [
+        "创业",
+        "智能制造",
+        "产业"
+      ],
+      "url": "https://36kr.com/p/3825817310368385?f=rss"
+    },
+    {
+      "id": "46665b1a8745b230",
+      "title": "&#x2018;I feel like I&#x2019;m living a lie&#x2019;: My husband and I pretend we&#x2019;re strapped for cash in front of friends. Is that bad?",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-27T00:43:00.000Z",
+      "priority": "normal",
+      "summary": "&#x201c;I&#x2019;ve found that acting &#x2018;normal&#x2019; means others treat me like one of the group.&#x201d;",
       "tags": [
         "市场",
         "投资"
       ],
-      "url": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/i-feel-like-im-living-a-lie-my-husband-and-i-pretend-were-strapped-for-cash-in-front-of-friends-is-that-bad-1cf6104a?mod=mw_rss_topstories"
     },
     {
-      "id": "691e8a28e7a3464f",
-      "title": "哈尔滨机场2026年旅客吞吐量突破1000万人次",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-05-26T02:56:58.000Z",
-      "priority": "normal",
-      "summary": "中新网哈尔滨5月26日电 (温天禹)哈尔滨机场26日对外发布消息，截至5月24日，哈尔滨机场2026年累计运送旅客1002万人次，较去年同期增长1.1%，提前2天突破1000万人次大关。",
+      "id": "cce08bbed68c801e",
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-05-27T00:38:11.000Z",
+      "priority": "high",
+      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found cert",
       "tags": [
-        "国内金融",
-        "经济"
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/05-26/10628588.shtml"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram"
     },
     {
-      "id": "c89b08cfd4935b80",
-      "title": "U.S. conducts 'self-defense strikes' in Iran as Trump pushes for peace deal",
+      "id": "94c3ff900a9a5c4b",
+      "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
+      "category": "automation",
+      "region": "domestic",
+      "source": "36氪",
+      "publishedAt": "2026-05-27T00:25:50.000Z",
+      "priority": "high",
+      "summary": "文｜周鑫雨 邓咏仪 编辑｜张雨忻 硅谷持续了两个多月的Token-Maxxing（Token军备竞赛）焦虑，在Meta以一种戏谑的方式按下了休止符。 前情大家都知道了：2026年3月，为了鼓吹自己是一家“AI-Native”公司，Meta曾在内部上线了一个“Claudeonomics（Claude经济学）”榜单：员工消耗的Token越多，排名就越高；垫底的员",
+      "tags": [
+        "创业",
+        "智能制造",
+        "产业",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3826390617870984?f=rss"
+    },
+    {
+      "id": "791cce9e861e4141",
+      "title": "&#x2018;There is zero transparency&#x2019;: My friend&#x2019;s sister controls their mother&#x2019;s estate. How can we stop her from stealing?",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-27T00:24:00.000Z",
+      "priority": "high",
+      "summary": "&#x201c;The sister claims she does not have to explain herself to anyone.&#x201d;",
+      "tags": [
+        "市场",
+        "投资",
+        "AI"
+      ],
+      "url": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories"
+    },
+    {
+      "id": "38b80d2799f64fff",
+      "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
+      "category": "automation",
+      "region": "domestic",
+      "source": "36氪",
+      "publishedAt": "2026-05-27T00:20:58.000Z",
+      "priority": "high",
+      "summary": "文｜周鑫雨 编辑｜张雨忻 打开“观猹”，能看到一个完全不同于机构投资榜单所呈现出来的AI创业生态： 这里很少有动辄估值几亿美金的项目，活跃在社区中的，也常常不是有着名校、大厂背景的创业者，更多是普通的设计师、产品经理，甚至退休教师。 观猹。 “观猹”创始人仲泰告诉我：“ 这才是AI行业最真实的生态。 ” 仲泰，一个在AI创业者和开发者群体中并不陌生的名字。这",
+      "tags": [
+        "创业",
+        "智能制造",
+        "产业",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3826385821192841?f=rss"
+    },
+    {
+      "id": "f586d342a65c3643",
+      "title": "8点1氪丨商品标签陷性暗示争议，盒马致歉并下架整改；段永平谈王宁：商业理解能力比乔布斯还强；海底捞全国门店谢绝顾客携带宠物进店用餐",
+      "category": "automation",
+      "region": "domestic",
+      "source": "36氪",
+      "publishedAt": "2026-05-27T00:04:26.000Z",
+      "priority": "normal",
+      "summary": "今日热点导览 三体公司原CEO许垚被执行死刑，投毒致使其老板林奇中毒身亡 算力租赁，遭传闻突袭，上市公司回应 胖东来成立文化娱乐公司 双汇子公司猪肉被曝抗生素超标37倍，公司回应超标原因 知情人士：字节跳动本月向Seed员工开放“豆包股”认购权 TOP3大新闻 商品标签陷性暗示争议，盒马致歉并下架整改 近日，盒马旗下一款“粉木耳”产品因标签设计涉嫌性暗示引发",
+      "tags": [
+        "创业",
+        "智能制造",
+        "产业"
+      ],
+      "url": "https://36kr.com/p/3826779946930822?f=rss"
+    },
+    {
+      "id": "0ba8ce5c40e9cb23",
+      "title": "UK Visa Portal spilled thousands of applicants&#8217; passports and selfies online — and hasn&#8217;t fixed the leak",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T23:49:05.000Z",
+      "priority": "normal",
+      "summary": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/"
+    },
+    {
+      "id": "4b629aa404a8a4b3",
+      "title": "What we&#8217;re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T22:55:01.000Z",
+      "priority": "normal",
+      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/"
+    },
+    {
+      "id": "aa720a06e8adf156",
+      "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T22:55:01.000Z",
+      "priority": "high",
+      "summary": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/"
+    },
+    {
+      "id": "1d0e768b39f92610",
+      "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T22:37:46.000Z",
+      "priority": "normal",
+      "summary": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/"
+    },
+    {
+      "id": "2cafff19b5a93681",
+      "title": "SpaceX-Tesla merger chatter reignites as Musk pushes rocket company towards Nasdaq",
       "category": "finance",
       "region": "global",
       "source": "CNBC Business",
-      "publishedAt": "2026-05-26T02:56:12.000Z",
+      "publishedAt": "2026-05-26T22:32:58.000Z",
       "priority": "high",
-      "summary": "Targets included missile launch sites and Iranian boats attempting to emplace mines.",
+      "summary": "With SpaceX headed for the public markets next month, industry experts and people close to Elon Musk are speculating about a potential tie-up with Tesla.",
       "tags": [
         "金融",
         "市场",
         "火箭"
       ],
-      "url": "https://www.cnbc.com/2026/05/26/us-conducts-self-defense-strikes-in-iran-as-trump-seeks-peace-deal.html"
+      "url": "https://www.cnbc.com/2026/05/26/spacex-tesla-merger-chatter-reignites-as-musk-rocket-company-nears-ipo.html"
     },
     {
-      "id": "b0759f54b36fb382",
-      "title": "第七届跨国公司领导人青岛峰会将于6月15日至17日举行",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-05-26T02:53:07.000Z",
-      "priority": "normal",
-      "summary": "中新网5月26日电 国新办于5月26日举行新闻发布会，介绍2026年跨国公司领导人青岛峰会有关情况。商务部副部长鄢东表示，第七届跨国公司领导人青岛峰会将于6月15日至17日在青岛举行。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/05-26/10628582.shtml"
-    },
-    {
-      "id": "7e7d673e6e80b39a",
-      "title": "36氪首发 | 国家级产业基金出手，桥田智能获亿元融资",
-      "category": "automation",
-      "region": "domestic",
-      "source": "36氪",
-      "publishedAt": "2026-05-26T02:48:03.000Z",
-      "priority": "normal",
-      "summary": "硬氪获悉，上海桥田智能设备有限公司（下称“桥田智能”）已完成A+轮亿元级融资，由国家工业母机产业投资基金独家投资。资金将用于高端产能扩建、核心技术研发迭代及全球化市场布局。 桥田智能成立于2016年，专注于汽车主机厂机器人末端及周边设备，产品矩阵涵盖快换盘、磁力换模系统、修磨机、工业连接器等。公司此前已获吉利厚同、哇牛资本、美的资本、浙创投等产业资本投资。 ",
-      "tags": [
-        "创业",
-        "智能制造",
-        "产业",
-        "市场"
-      ],
-      "url": "https://36kr.com/p/3825527430025856?f=rss"
-    },
-    {
-      "id": "a1dd0269202009be",
-      "title": "营销内容从“用AI”到“管AI”的10倍提效| 2026AI Partner·北京亦庄AI+产业大会",
-      "category": "automation",
-      "region": "domestic",
-      "source": "36氪",
-      "publishedAt": "2026-05-26T02:44:02.000Z",
+      "id": "8fb858abec4f578f",
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T22:32:56.000Z",
       "priority": "high",
-      "summary": "从2022年首创数字人直播带货，到如今服务LVMH、欧莱雅、宝洁等全球集团，集思科技在三年间积累了超60亿GMV的实战成绩。 2023年被称作Agent元年，但2026年才是营销内容Agent真正落地应用的节点，而品牌最核心的资产不是视觉，是上下文——把创始人对品牌的理解沉淀为AI可调用的智力资产。 以下为演讲内容，经36氪整理编辑： 李世尊丨集思科技CEO",
+      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
       "tags": [
         "创业",
-        "智能制造",
-        "产业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/"
+    },
+    {
+      "id": "990c2f5aa0f76510",
+      "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-26T22:27:32.000Z",
+      "priority": "normal",
+      "summary": "Parsing a papal proclamation.",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/"
+    },
+    {
+      "id": "92feb55b85088014",
+      "title": "NASA&#8217;s permanent Moon base plans start with three missions this year",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-05-26T22:24:53.000Z",
+      "priority": "normal",
+      "summary": "On Tuesday, NASA announced several upcoming lunar missions to the Moon's South Pole region. These missions will pave the way for the crewed Artemis landing slated for 2028, startin",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件"
+      ],
+      "url": "https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates"
+    },
+    {
+      "id": "7a89e8b22a692383",
+      "title": "&#x2018;The timing couldn&#x2019;t have been better&#x2019; for investors in MSGS as the Knicks make the NBA Finals",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-26T22:21:00.000Z",
+      "priority": "normal",
+      "summary": "Shares of MSG Sports have climbed 39% this year and are up 88% over the last 12 months. And that was before the Knicks made it to the NBA Finals.",
+      "tags": [
+        "市场",
+        "投资"
+      ],
+      "url": "https://www.marketwatch.com/story/the-timing-couldnt-have-been-better-for-investors-in-msgs-as-the-knicks-make-the-nba-finals-96b0543a?mod=mw_rss_topstories"
+    },
+    {
+      "id": "c6a41eec5289abd6",
+      "title": "Google’s Antigravity Signals a Shift Beyond the IDE",
+      "category": "electronics",
+      "region": "global",
+      "source": "EE Times",
+      "publishedAt": "2026-05-26T22:00:00.000Z",
+      "priority": "normal",
+      "summary": "The most important takeaway everyone missed at the 2026 Google I/O Conference. The post Google’s Antigravity Signals a Shift Beyond the IDE appeared first on EE Times .",
+      "tags": [
+        "芯片",
+        "电子工程"
+      ],
+      "url": "https://www.eetimes.com/google-antigravity-signals-a-shift-beyond-the-ide/"
+    },
+    {
+      "id": "bce07642e54860a0",
+      "title": "How a stock market &#x2018;melt-up&#x2019; could carry the S&P 500 to 8,000 or beyond",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-26T21:55:00.000Z",
+      "priority": "high",
+      "summary": "The hottest thing in the U.S. this summer isn&#x2019;t the weather &#x2014; it&#x2019;s the rip-roaring stock market.",
+      "tags": [
+        "市场",
+        "投资"
+      ],
+      "url": "https://www.marketwatch.com/story/how-a-stock-market-melt-up-could-carry-the-s-p-500-to-8-000-or-beyond-b9b85619?mod=mw_rss_topstories"
+    },
+    {
+      "id": "203866e6ae91f8c4",
+      "title": "SpaceX just won a $2 billion contract to make satellites for the Space Force",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-26T21:42:00.000Z",
+      "priority": "high",
+      "summary": "The U.S. Space Force on Tuesday awarded SpaceX a new, pricy satellite contract, further tying the company to its biggest customer.",
+      "tags": [
+        "市场",
+        "投资",
+        "卫星"
+      ],
+      "url": "https://www.marketwatch.com/story/spacex-just-won-a-2-billion-contract-to-make-satellites-for-the-space-force-f4733f10?mod=mw_rss_topstories"
+    },
+    {
+      "id": "301fdd80e4bd6bb2",
+      "title": "Gen Z demands bigger bargains &#x2014; driving gains for discount retailers like Walmart and Ross",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-26T21:35:00.000Z",
+      "priority": "high",
+      "summary": "As seemingly everything gets more expensive, younger consumers are increasingly driving growth for the nation&#x2019;s biggest discount retailers.",
+      "tags": [
+        "市场",
+        "投资",
         "AI"
       ],
-      "url": "https://36kr.com/p/3824179485233541?f=rss"
+      "url": "https://www.marketwatch.com/story/gen-z-demands-bigger-bargains-driving-gains-for-discounters-like-walmart-and-ross-377b20fd?mod=mw_rss_topstories"
     },
     {
-      "id": "b205d4197025172e",
-      "title": "South Korea's Kospi hits new high amid mixed trading in Asia",
-      "category": "finance",
+      "id": "1b0215894c142a96",
+      "title": "Musk says US military suicide drones used Starlink in violation of SpaceX rules",
+      "category": "computing",
       "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-05-26T02:29:09.000Z",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-26T21:23:56.000Z",
       "priority": "high",
-      "summary": "Asia-Pacific markets were set to open broadly higher Tuesday, amid hopes for a breakthrough in the U.S.-Iran peace negotiations.",
+      "summary": "Musk says drones used Starlink instead of Starshield, blames military contractor.",
       "tags": [
-        "金融",
-        "市场"
+        "计算机",
+        "科技",
+        "无人系统"
       ],
-      "url": "https://www.cnbc.com/2026/05/26/asia-markets-today-sensex-kospi-nikkei-hang-seng-iran-us-oil-.html"
+      "url": "https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/"
     },
     {
-      "id": "a36fe3303c3f9383",
-      "title": "Oil prices mixed as U.S. military strikes against Iran cloud Middle East peace prospects",
+      "id": "80cb5e69dc9a51fc",
+      "title": "Trump officials split over Pope Leo’s AI warning as Vatican feud enters new front",
       "category": "finance",
       "region": "global",
       "source": "CNBC Business",
-      "publishedAt": "2026-05-26T02:02:17.000Z",
+      "publishedAt": "2026-05-26T21:18:58.000Z",
       "priority": "high",
-      "summary": "Donald Trump also said negotiations with Iran were \"proceeding nicely,\" but cautioned that the U.S. could resume military action if discussions were to collapse.",
+      "summary": "Pope Leo XIV’s AI warning shows split among Trump officials as the White House resists new guardrails, upping stakes with Catholic voters and Silicon Valley allies.",
       "tags": [
         "金融",
         "市场",
         "AI"
       ],
-      "url": "https://www.cnbc.com/2026/05/26/oil-prices-today-brent-wti-iran-trump-hormuz.html"
+      "url": "https://www.cnbc.com/2026/05/26/pope-leo-xiv-ai-warning-trump-jd-vance-doug-burgum-anthropic-iran.html"
     },
     {
-      "id": "285ab37f770b144e",
-      "title": "金价跌破4550美元、白银跌逾1%，分析称交易逻辑转向",
+      "id": "fe348d38c5fffbd7",
+      "title": "The bond market has been rocked by a violent selloff. Here&#x2019;s how to play it.",
       "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-05-26T01:42:55.000Z",
-      "priority": "normal",
-      "summary": "中新经纬5月26日电 (张澍楠 董湘依 宋亚芬)现货黄金、白银盘中跳水。",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-26T21:04:00.000Z",
+      "priority": "high",
+      "summary": "The bond market is tied up in knots about the Iran war and inflation, as well as what the Federal Reserve under new chair Kevin Warsh might do about it.",
       "tags": [
-        "国内金融",
-        "经济"
+        "市场",
+        "投资",
+        "AI"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/05-26/10628543.shtml"
+      "url": "https://www.marketwatch.com/story/where-to-invest-in-bonds-right-now-after-the-markets-violent-selloff-ccad2a26?mod=mw_rss_topstories"
     },
     {
-      "id": "3e143e08ef4bc80c",
-      "title": "A股三大指数低开，人形机器人概念逆市活跃",
+      "id": "81b614fe2bb54c1e",
+      "title": "Starship&#8217;s path to reusability looks murky after SpaceX&#8217;s S-1",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T21:03:56.000Z",
+      "priority": "high",
+      "summary": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company'",
+      "tags": [
+        "创业",
+        "AI",
+        "软件",
+        "火箭"
+      ],
+      "url": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/"
+    },
+    {
+      "id": "c1d70ed9aa588ec4",
+      "title": "NASA takes steps toward building Moon Base, including discussing a \"perimeter\"",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-26T21:03:03.000Z",
+      "priority": "high",
+      "summary": "\"We also obviously want to be very mindful of the Outer Space Treaty.\"",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/space/2026/05/nasa-takes-steps-toward-building-moon-base-including-discussing-a-perimeter/"
+    },
+    {
+      "id": "787a515a7bc85d25",
+      "title": "Why double-digit earnings growth won&#x2019;t stop the next bear market",
       "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-05-26T01:40:53.000Z",
-      "priority": "normal",
-      "summary": "中新经纬5月26日电 周二，A股三大指数集体低开，沪指低开0.37%，深成指低开0.44%，创业板指低开0.45%。",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-26T21:01:00.000Z",
+      "priority": "high",
+      "summary": "Spiking S&P 500 profits often signal the final innings of a bull market. History says stocks are on thin ice.",
       "tags": [
-        "国内金融",
-        "经济"
+        "市场",
+        "投资"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/05-26/10628540.shtml"
+      "url": "https://www.marketwatch.com/story/why-double-digit-earnings-growth-wont-stop-the-next-bear-market-791ae3ef?mod=mw_rss_topstories"
     },
     {
-      "id": "298492caea2c23ac",
-      "title": "商务部：4月份智能眼镜和人形机器人网零额分别增长175.2%和20.6%",
+      "id": "07aed82fd907425d",
+      "title": "We're starting to see some PC makers respond to Apple's MacBook Neo",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-26T20:47:31.000Z",
+      "priority": "high",
+      "summary": "Sub-$600 laptops have existed for years, but consistently good ones remain rare.",
+      "tags": [
+        "计算机",
+        "科技",
+        "AI"
+      ],
+      "url": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/"
+    },
+    {
+      "id": "b83262c5083b8d1b",
+      "title": "Micron&#x2019;s stock reaches a major milestone as UBS slaps on an out-of-sight price target",
       "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-05-26T01:35:09.000Z",
-      "priority": "normal",
-      "summary": "中新网5月26日电 据商务部网站消息，2026年1-4月，我国电子商务持续发挥赋能作用，数智化推动产业升级，场景化激发消费活力，全球化拓展合作空间，助力巩固壮大实体经济根基。",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-26T20:46:00.000Z",
+      "priority": "high",
+      "summary": "Strong memory chip demand is leading to &#x201c;enhanced&#x201d; long term agreements that should benefit Micron&#x2019;s stock and earnings power, UBS says.",
       "tags": [
-        "国内金融",
-        "经济"
+        "市场",
+        "投资",
+        "芯片"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/05-26/10628535.shtml"
+      "url": "https://www.marketwatch.com/story/microns-stock-soars-as-ubs-slaps-on-an-out-of-sight-price-target-77e75b8e?mod=mw_rss_topstories"
     },
     {
-      "id": "01c294853419bb60",
-      "title": "5月26日央行开展2490亿元7天期逆回购操作",
+      "id": "e089e6be63bf91ad",
+      "title": "Micron hits $1 trillion market cap for the first time as stock surges 19%",
       "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-05-26T01:32:36.000Z",
-      "priority": "normal",
-      "summary": "中新网5月26日电 据央行网站消息，2026年5月26日中国人民银行以固定利率、数量招标方式开展了2490亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-05-26T20:02:13.000Z",
+      "priority": "high",
+      "summary": "A global memory shortage driven by AI is spiking demand for chipmakers like Micron.",
       "tags": [
-        "国内金融",
-        "经济"
+        "金融",
+        "市场",
+        "AI",
+        "芯片"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/05-26/10628527.shtml"
+      "url": "https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html"
     },
     {
-      "id": "80942e3120fe7bc6",
-      "title": "对话云鲸CEO张峻彬：理解人性，告别天真",
+      "id": "3d614cc22e936ab4",
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-26T19:50:33.000Z",
+      "priority": "high",
+      "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+      "tags": [
+        "计算机",
+        "科技",
+        "AI"
+      ],
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
+    },
+    {
+      "id": "b65d1a80071c79e6",
+      "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-05-26T19:43:54.000Z",
+      "priority": "high",
+      "summary": "Prolonged closure of Strait of Hormuz could send crude oil prices to new highs this summer.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html"
+    },
+    {
+      "id": "07090d4e4e8e137a",
+      "title": "Characterization of GPU-based Inference for Reasoning-Centric LLMs (Micron, Argonne)",
+      "category": "electronics",
+      "region": "global",
+      "source": "Semiconductor Engineering",
+      "publishedAt": "2026-05-26T19:11:13.000Z",
+      "priority": "normal",
+      "summary": "Researchers from Micron Technology and Argonne National Laboratory have released “Understanding Inference Scaling for LLMs: Bottlenecks, Trade-offs, and Performance Principles”. Ab",
+      "tags": [
+        "半导体",
+        "芯片"
+      ],
+      "url": "https://semiengineering.com/characterization-of-gpu-based-inference-for-reasoning-centric-llms-micron-argonne/"
+    },
+    {
+      "id": "ddb7d9a3686c6f33",
+      "title": "US launches ‘self-defense’ strikes against Iran amid ongoing ceasefire",
+      "category": "security",
+      "region": "global",
+      "source": "Defense News Global",
+      "publishedAt": "2026-05-26T19:02:11.000Z",
+      "priority": "high",
+      "summary": "The U.S. military conducted military strikes Monday against Iranian missile launch sites and boats it said were attempting to lay mines.",
+      "tags": [
+        "防务",
+        "战争安全",
+        "AI",
+        "火箭"
+      ],
+      "url": "https://www.defensenews.com/news/your-navy/2026/05/26/us-launches-self-defense-strikes-against-iran-amid-ongoing-ceasefire/"
+    },
+    {
+      "id": "373f951e6cf00db7",
+      "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-05-26T19:00:15.000Z",
+      "priority": "high",
+      "summary": "The Fitbit app is no more. Along with the launch of the new Fitbit Air (which you can expect a full review of once we've spent more time with it), Google has officially replaced it",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI",
+        "火箭"
+      ],
+      "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai"
+    },
+    {
+      "id": "cc009bad7cd7e283",
+      "title": "GE’s nugget ice maker is nearly half off if you buy it refurbished",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-05-26T18:50:35.000Z",
+      "priority": "normal",
+      "summary": "If you’re looking for ways to make staying cool and hydrated easier this summer, Woot is currently selling a refurbished GE Profile Opal 2.0 Ultra Nugget Ice Maker for $264.99 thro",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件"
+      ],
+      "url": "https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale"
+    },
+    {
+      "id": "65e260610265d3ca",
+      "title": "SpaceX&#8217;s Starlink nabs American Airlines contract, another win for its IPO",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T18:48:04.000Z",
+      "priority": "high",
+      "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/"
+    },
+    {
+      "id": "416c0678d8f06168",
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T18:33:01.000Z",
+      "priority": "high",
+      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/"
+    },
+    {
+      "id": "a40997fedde1c5e4",
+      "title": "Want an oxygen-rich atmosphere? Stuff oxygen’s friends in the mantle.",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-26T18:30:58.000Z",
+      "priority": "normal",
+      "summary": "Getting carbon and sulfur into Earth’s interior may be part of oxygen’s story.",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/"
+    },
+    {
+      "id": "ccb210f317599dc7",
+      "title": "NūMove surpasses 20 semi-automatic mixed palletizer deployments",
+      "category": "automation",
+      "region": "global",
+      "source": "Robotics & Automation News",
+      "publishedAt": "2026-05-26T18:00:27.000Z",
+      "priority": "normal",
+      "summary": "NūMove Robotics &#38; Vision continues to play a strategic role in mixed palletizing, with more than 20 semi-automatic systems successfully deployed across the United States. Since",
+      "tags": [
+        "机器人",
+        "自动化"
+      ],
+      "url": "https://roboticsandautomationnews.com/2026/05/26/numove-surpasses-20-mixed-palletizer-deployments-as-us-beverage-distributors-accelerate-warehouse-automation/101829/"
+    },
+    {
+      "id": "53d8073ee2628f3f",
+      "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-26T17:46:01.000Z",
+      "priority": "high",
+      "summary": "A creepy saved post on Instagram linked man to AI porn account, FBI says.",
+      "tags": [
+        "计算机",
+        "科技",
+        "AI"
+      ],
+      "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/"
+    },
+    {
+      "id": "3e01f56deb5cd734",
+      "title": "Preview: NASA updates progress towards established a Moon Base, Artemis 3 mission",
+      "category": "aerospace",
+      "region": "global",
+      "source": "Spaceflight Now",
+      "publishedAt": "2026-05-26T17:34:08.000Z",
+      "priority": "high",
+      "summary": "The press conference on Tuesday, scheduled to begin at 2 p.m. EDT (1800 UTC), is the first major update from NASA since Administrator Jared Isaacman unveiled the project in late Ma",
+      "tags": [
+        "火箭",
+        "发射",
+        "航天"
+      ],
+      "url": "https://spaceflightnow.com/2026/05/26/live-coverage-nasa-updates-progress-towards-established-a-moon-base-artemis-3-mission/"
+    },
+    {
+      "id": "1d06f4d554f50233",
+      "title": "3D-printable humanoid legs let robotics experiments run wild",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-26T17:16:07.000Z",
+      "priority": "normal",
+      "summary": "Hugging Face debuts $2,500 bipedal robot project for builders and researchers.",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/"
+    },
+    {
+      "id": "45a627af4eb78ed7",
+      "title": "DARPA prepares robotic satellite servicing mission for launch in 2026",
+      "category": "automation",
+      "region": "global",
+      "source": "Robotics & Automation News",
+      "publishedAt": "2026-05-26T17:12:05.000Z",
+      "priority": "high",
+      "summary": "Defense Advanced Research Projects Agency (DARPA) and its industry partners are preparing for the launch of a robotic satellite servicing mission designed to demonstrate on-orbit m",
+      "tags": [
+        "机器人",
+        "自动化",
+        "卫星",
+        "火箭"
+      ],
+      "url": "https://roboticsandautomationnews.com/2026/05/26/darpa-prepares-robotic-satellite-servicing-mission-for-launch-in-2026/101923/"
+    },
+    {
+      "id": "630e8b7f55435571",
+      "title": "Redwire delivers lunar robotic arm prototype to European Space Agency",
+      "category": "automation",
+      "region": "global",
+      "source": "Robotics & Automation News",
+      "publishedAt": "2026-05-26T16:58:51.000Z",
+      "priority": "normal",
+      "summary": "Redwire has delivered a prototype lunar robotic manipulator to the European Space Agency as Europe continues developing its Argonaut lunar lander program for future Moon missions. ",
+      "tags": [
+        "机器人",
+        "自动化"
+      ],
+      "url": "https://roboticsandautomationnews.com/2026/05/26/redwire-delivers-lunar-robotic-arm-prototype-to-european-space-agency/101920/"
+    },
+    {
+      "id": "d2d0202588c785c8",
+      "title": "AutoFlight advances heavy-lift eVTOL program with mixed-fleet formation flight",
+      "category": "automation",
+      "region": "global",
+      "source": "Robotics & Automation News",
+      "publishedAt": "2026-05-26T16:47:17.000Z",
+      "priority": "high",
+      "summary": "AutoFlight has completed a mixed-fleet formation flight of three aircraft, comprising one V5000 Matrix and two V2000-series eVTOL aircraft. The mission validated critical capabilit",
+      "tags": [
+        "机器人",
+        "自动化",
+        "AI"
+      ],
+      "url": "https://roboticsandautomationnews.com/2026/05/26/autoflight-advances-heavy-lift-evtol-program-with-mixed-fleet-formation-flight/101916/"
+    },
+    {
+      "id": "f6ba9aaf0c3f336c",
+      "title": "Chip stocks continue to surge. Here's how to buy into the trend for less",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-05-26T16:30:03.000Z",
+      "priority": "high",
+      "summary": "Mike Khouw happens to like one surging chip stock in particular: Marvell Technology.",
+      "tags": [
+        "金融",
+        "市场",
+        "芯片"
+      ],
+      "url": "https://www.cnbc.com/2026/05/26/chip-stocks-continue-to-surge-heres-how-to-buy-into-the-trend-for-less.html"
+    },
+    {
+      "id": "0a1c0c1b572f40f6",
+      "title": "Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-05-26T16:30:00.000Z",
+      "priority": "normal",
+      "summary": "After years of it seeming like the Spider-Man film rights might be better off in Marvel's hands alone, Into the Spider-Verse came along and proved that Sony was still capable of te",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件"
+      ],
+      "url": "https://www.theverge.com/entertainment/936358/amazon-spider-noir-review"
+    },
+    {
+      "id": "beddd46473cbadda",
+      "title": "Windows' classic 3D Space Cadet pinball is getting a physical re-creation",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-26T16:24:02.000Z",
+      "priority": "high",
+      "summary": "But there are some real-world constraints that virtual pinball could easily ignore.",
+      "tags": [
+        "计算机",
+        "科技",
+        "AI"
+      ],
+      "url": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/"
+    },
+    {
+      "id": "e3fc9ba847d16b67",
+      "title": "The best Memorial Day sales you can still shop",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-05-26T16:10:06.000Z",
+      "priority": "high",
+      "summary": "The long weekend is over, but many of the best Memorial Day deals are still available. Many of our favorite portable speakers are discounted, as are other outdoorsy products we lik",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026"
+    },
+    {
+      "id": "bd3b11d423948a88",
+      "title": "American Airlines is getting Starlink Wi-Fi",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-05-26T16:07:39.000Z",
+      "priority": "high",
+      "summary": "American Airlines is planning to install SpaceX's Starlink Wi-Fi in hundreds of its airplanes, the airline announced today. American says the deployment will start in the first qua",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed"
+    },
+    {
+      "id": "1be411e906187f47",
+      "title": "This startup is betting India&#8217;s gig economy can train the world&#8217;s robots",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T16:00:00.000Z",
+      "priority": "high",
+      "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world p",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/"
+    },
+    {
+      "id": "bf6b0848880faab4",
+      "title": "Memory V re-creates the Memorymoog without the massive headaches or price tag",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-05-26T16:00:00.000Z",
+      "priority": "normal",
+      "summary": "The Memorymoog is legendary for being an absolutely massive-sounding synth and being incredibly unreliable. But now you can enjoy its classic Moog sound without the headaches or th",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件"
+      ],
+      "url": "https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer"
+    },
+    {
+      "id": "f76bbd5be07193c0",
+      "title": "Dutch government blocks US company from acquisition, citing &#8216;risk to public interest&#8217;",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T15:44:23.000Z",
+      "priority": "normal",
+      "summary": "The move to block the acquisition of the cloud company that hosts the Dutch digital ID service comes as Europe continues to reduce its reliance on U.S. technology.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/"
+    },
+    {
+      "id": "7c1ede0105a28ebf",
+      "title": "Saving for a Switch 2 is easier with Newegg’s gift card deal",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-05-26T15:33:42.000Z",
+      "priority": "high",
+      "summary": "If you foresee a bunch of Nintendo purchases in your future, Newegg’s deal on Nintendo gift cards might just help save your wallet. The retailer is offering a deal that lets gamers",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale"
+    },
+    {
+      "id": "2136b8924e2b2f6c",
+      "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T15:27:12.000Z",
+      "priority": "normal",
+      "summary": "A shadowy group that stole and dumped the NSA’s most powerful hacking tools still has implications for how companies think about digital risk today.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/"
+    },
+    {
+      "id": "a848ec6c59ab45cb",
+      "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T15:26:27.000Z",
+      "priority": "high",
+      "summary": "An Israeli cybersecurity firm said Iran’s government is behind Ababil of Minab, a fake hacktivist persona that has claimed a series of data breaches after the start of the war in I",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/"
+    },
+    {
+      "id": "aba055bd230754bd",
+      "title": "美国 14 州实施堕胎禁令后妊娠相关死亡增加 9.2%",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-05-26T15:19:20.000Z",
+      "priority": "normal",
+      "summary": "2021 年美国德州通过法案禁止孕妇在妊娠约 6 周后堕胎。2022 年美国最高法院在 Dobbs v. Jackson Women’s Health Organization 一案中裁决宪法未赋予公民堕胎权，因此推翻了 1973 年的 Roe v. Wade 案。截至 2026 年初美国有 13 个州全面禁止堕胎，7 个州禁止孕妇妊娠 22 周后堕胎。严格",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=84408"
+    },
+    {
+      "id": "b1ab7b6cdba07c4c",
+      "title": "Oppo’s Bubble is a thin round screen for taking rear camera selfies",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-05-26T15:07:45.000Z",
+      "priority": "high",
+      "summary": "Oppo launched a new smartphone accessory that makes it easier to snap selfies using your smartphone's rear cameras that typically feature better sensors than front-facing cameras. ",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "火箭"
+      ],
+      "url": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic"
+    },
+    {
+      "id": "be73889cabd3bedb",
+      "title": "How to Buy Bitcoin (BTC) with Euros (EUR): A Beginner’s Guide",
+      "category": "automation",
+      "region": "global",
+      "source": "Robotics & Automation News",
+      "publishedAt": "2026-05-26T14:51:58.000Z",
+      "priority": "normal",
+      "summary": "Buying bitcoin with euros is easier than most people expect. The process has changed a lot over the past few years, and European investors now have access to regulated apps that ha",
+      "tags": [
+        "机器人",
+        "自动化"
+      ],
+      "url": "https://roboticsandautomationnews.com/2026/05/26/buy-btc-with-eur-guide/101912/"
+    },
+    {
+      "id": "744dce0993b17f90",
+      "title": "在内存天价时代 Meta 更新了 CacheLib 项目",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-05-26T14:39:00.000Z",
+      "priority": "high",
+      "summary": "Meta 在 2021 年开源了缓存引擎 CacheLib，该项目旨在利用非易失性存储器作为缓存去扩展服务，以抵消不断上涨的 DRAM 成本。该项目在 2024 年 6 月之后就停止了更新，但在 2026 年 5 月 25 日 Meta 再次释出了更新——而今天由于 AI 热 DRAM 价格相比 2021 年几乎是天价。",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技",
+        "AI"
+      ],
+      "url": "https://www.solidot.org/story?sid=84407"
+    },
+    {
+      "id": "c4fa16397ed3bcdc",
+      "title": "Review: The Boroughs is a smart, pitch-perfect creature feature",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-26T14:35:13.000Z",
+      "priority": "normal",
+      "summary": "Top-notch ensemble cast, smart writing, and an engrossing supernatural mystery make for a winning combo.",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/culture/2026/05/review-the-boroughs-is-a-smart-pitch-perfect-creature-feature/"
+    },
+    {
+      "id": "7a7c36a3cdc98ab9",
+      "title": "Report: US to cut strategic bombers and warships available to NATO in a crisis",
+      "category": "security",
+      "region": "global",
+      "source": "Defense News Global",
+      "publishedAt": "2026-05-26T14:32:12.000Z",
+      "priority": "high",
+      "summary": "The number of U.S. fighter jets is set to fall by a third, Spiegel cited U.S. envoy Alexander Velez-Green as saying during the closed-door meeting.",
+      "tags": [
+        "防务",
+        "战争安全",
+        "AI"
+      ],
+      "url": "https://www.defensenews.com/global/europe/2026/05/26/report-us-to-cut-strategic-bombers-and-warships-available-to-nato-in-a-crisis/"
+    },
+    {
+      "id": "098d98e483e5cff9",
+      "title": "A global brand but local cars is Audi's future, says CEO",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-26T14:21:33.000Z",
+      "priority": "normal",
+      "summary": "We talk with Gernot Döllner, CEO of Audi AG, about where he's taking the company.",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/cars/2026/05/audis-boss-talks-local-production-wagons-and-maybe-a-new-r8-supercar/"
+    },
+    {
+      "id": "fa8a0070bee57850",
+      "title": "Australia starts ‘high-risk’ life extension of its submarine fleet",
+      "category": "security",
+      "region": "global",
+      "source": "Defense News Global",
+      "publishedAt": "2026-05-26T14:16:09.000Z",
+      "priority": "normal",
+      "summary": "The Australian National Audit Office (ANAO) has issued a damning verdict on Department of Defence planning for the life-extension program.",
+      "tags": [
+        "防务",
+        "战争安全"
+      ],
+      "url": "https://www.defensenews.com/global/asia-pacific/2026/05/26/australia-starts-high-risk-life-extension-of-its-submarine-fleet/"
+    },
+    {
+      "id": "1f41a1c09506cc25",
+      "title": "Analyst on China's spent rocket stages: \"Things only continue to get worse\"",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-26T13:57:30.000Z",
+      "priority": "high",
+      "summary": "Spent upper stages are the most dangerous kind of space debris.",
+      "tags": [
+        "计算机",
+        "科技",
+        "火箭"
+      ],
+      "url": "https://arstechnica.com/space/2026/05/analyst-on-chinas-spent-rocket-stages-things-only-continue-to-get-worse/"
+    },
+    {
+      "id": "7479fff7b25a7ce8",
+      "title": "Chip Industry Technical Paper Roundup: May 26",
+      "category": "electronics",
+      "region": "global",
+      "source": "Semiconductor Engineering",
+      "publishedAt": "2026-05-26T13:45:32.000Z",
+      "priority": "high",
+      "summary": "SRAM-based LLM inference; semantics-aware memory hierarchy for LLM reasoning; large-scale 2D material transfer; RISC-V vector performance portability; morphological mask optimizati",
+      "tags": [
+        "半导体",
+        "芯片"
+      ],
+      "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-may-26/"
+    },
+    {
+      "id": "72116290c7c4d2ea",
+      "title": "What It Takes to Preserve Floppy Disks",
+      "category": "electronics",
+      "region": "global",
+      "source": "IEEE Spectrum",
+      "publishedAt": "2026-05-26T13:00:00.000Z",
+      "priority": "normal",
+      "summary": "Floppy disks are several decades old—many of the disks are degrading and the data stored on them is at risk of being lost. In response, Leontien Talboom , a technical analyst at Ca",
+      "tags": [
+        "电子信息",
+        "工程"
+      ],
+      "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives"
+    },
+    {
+      "id": "ce1b371f5a519caf",
+      "title": "GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium",
+      "category": "electronics",
+      "region": "global",
+      "source": "EE Times",
+      "publishedAt": "2026-05-26T13:00:00.000Z",
+      "priority": "high",
+      "summary": "Global Unichip Corp. (GUC), the Advanced ASIC Leader, will showcase Jotunn8, a next-generation data center AI inference processor developed by VSORA, at the TSMC Europe Technology ",
+      "tags": [
+        "芯片",
+        "电子工程",
+        "AI"
+      ],
+      "url": "https://www.eetimes.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-the-tsmc-europe-technology-symposium/"
+    },
+    {
+      "id": "b5374cac1d735c46",
+      "title": "India boosts drone warfare capability with compact missile",
+      "category": "security",
+      "region": "global",
+      "source": "Defense News Global",
+      "publishedAt": "2026-05-26T12:56:11.000Z",
+      "priority": "high",
+      "summary": "Indian Defense Minister Rajnath Singh called the successful development trials a “strategic milestone” toward self-reliance in defense.",
+      "tags": [
+        "防务",
+        "战争安全",
+        "无人系统"
+      ],
+      "url": "https://www.defensenews.com/global/asia-pacific/2026/05/26/india-boosts-drone-warfare-capability-with-compact-missile/"
+    },
+    {
+      "id": "467934c140476cc4",
+      "title": "From Shrinking Transistors to Compressing Time: Deciphering Huawei&#8217;s τ Law",
+      "category": "electronics",
+      "region": "global",
+      "source": "EE Times",
+      "publishedAt": "2026-05-26T12:52:18.000Z",
+      "priority": "normal",
+      "summary": "Huawei's answer to Moore's Law without EUV promises 14A performance by 2031. The post From Shrinking Transistors to Compressing Time: Deciphering Huawei&#8217;s τ Law appeared firs",
+      "tags": [
+        "芯片",
+        "电子工程"
+      ],
+      "url": "https://www.eetimes.com/from-shrinking-transistors-to-compressing-time-deciphering-huaweis-%cf%84-law/"
+    },
+    {
+      "id": "d4f943523da594b7",
+      "title": "座头鲸迁徙距离超过 1.5 万公里",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-05-26T12:48:54.000Z",
+      "priority": "normal",
+      "summary": "科学家首次记录了一次非凡的鲸类迁徙壮举，证实两头座头鲸在澳大利亚东部和巴西的繁殖地之间，穿越了超过 1.4 万公里的海洋。研究人员通过对比数万张座头鲸尾鳍的图像来辨认这些鲸。每头鲸的尾鳍都有独特的斑纹，这使得研究人员能长期追踪并识别个体。2007 年，一头座头鲸在澳大利亚昆士兰州的赫维湾首次被拍到。2013年，它再次出现在同一海域，随后于 2019 年现身巴",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=84406"
+    },
+    {
+      "id": "673dc2582b7dc9c0",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "category": "aerospace",
+      "region": "global",
+      "source": "Spaceflight Now",
+      "publishedAt": "2026-05-26T12:48:17.000Z",
+      "priority": "high",
+      "summary": "The Starlink 17-37 mission flew on the 60th Falcon 9 rocket launched in 2026. Liftoff from pad 4E at Vandenberg Space Force Base happened at 7:50 a.m. PDT (10:50 a.m. EDT / 1450 UT",
+      "tags": [
+        "火箭",
+        "发射",
+        "航天",
+        "卫星"
+      ],
+      "url": "https://spaceflightnow.com/2026/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-8/"
+    },
+    {
+      "id": "edd84dc366b98d49",
+      "title": "36氪企业全情报｜更懂股民的舆情数据工具，好用又省心",
       "category": "automation",
       "region": "domestic",
       "source": "36氪",
-      "publishedAt": "2026-05-26T01:30:13.000Z",
+      "publishedAt": "2026-05-26T10:59:01.000Z",
       "priority": "normal",
-      "summary": "作者 | 黄楠 编辑 | 袁斯来 36岁时，云鲸CEO张峻彬意识到，自己不能再只做一个温和的人。 他做过一些得罪人的决定，但更多时候，张峻彬不善于说重话，以至于有人私下说他有些优柔寡断。“公司内部都说，要是彬哥对你的评价是‘还行’，说明你这东西已经很烂了。”他自己开玩笑。 过去几年，这种性格底色没有暴露太大短板。因为张峻彬更多泡在产品里，离琐碎而复杂的事务保",
+      "summary": "炒股的朋友都有同感：现在信息太多太杂，消息慢一步、判断错一步，都可能影响操作。刷新闻、翻研报、逛股吧，花了大把时间，还是抓不住重点、分不清真假，越看越乱。 好消息是 —— 36氪企业全情报小程序新版本正式上线啦 ！这次更新完全站在大家的使用习惯上，把体验和功能都做了优化，帮你少走弯路、少花时间，轻松拿到靠谱情报，不再被信息差牵着走。 点击直达小程序： htt",
       "tags": [
         "创业",
         "智能制造",
         "产业"
       ],
-      "url": "https://36kr.com/p/3824244844859525?f=rss"
+      "url": "https://36kr.com/p/3826003757437573?f=rss"
     },
     {
-      "id": "c2b948974334fc87",
-      "title": "5月26日人民币对美元中间价报6.8288 上调30个基点",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-05-26T01:21:46.000Z",
-      "priority": "normal",
-      "summary": "中新网5月26日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月26日银行间外汇市场人民币汇率中间价为1美元对人民币6.8288元，上调30个基点。",
-      "tags": [
-        "国内金融",
-        "经济",
-        "市场"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/05-26/10628523.shtml"
-    },
-    {
-      "id": "70397bfbe00542b4",
-      "title": "运营商集体把Token价格打下来了，背后是一盘怎样的棋？",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-05-26T01:16:24.000Z",
-      "priority": "normal",
-      "summary": "中新经纬5月25日电 (袁媛)一块钱，现在还能买什么？一个烧饼、一根烤面粉肠，或者——40万个Token。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/05-26/10628520.shtml"
-    },
-    {
-      "id": "e839272c061cf748",
-      "title": "ATM机数量减少，金融服务永远不能降温",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-05-26T01:13:19.000Z",
-      "priority": "normal",
-      "summary": "原标题：ATM机少了服务不能少",
-      "tags": [
-        "国内金融",
-        "经济",
-        "市场"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/05-26/10628515.shtml"
-    },
-    {
-      "id": "9ce5d5f0a1220b53",
-      "title": "两部 AI 剧集闯入戛纳，水母智能要做 AI 内容工业化的破局者｜项目报道",
+      "id": "fc518509cb04b7d5",
+      "title": "机器人启蒙，需要一所能“犯错”的幼儿园",
       "category": "automation",
       "region": "domestic",
       "source": "36氪",
-      "publishedAt": "2026-05-26T01:00:00.000Z",
-      "priority": "high",
-      "summary": "5月8日，第79届戛纳国际电影节內 Fantastic Pavilion 单元公布竖屏剧展演名单。 由水母智能旗下中国AI影视公司水母映画出品的竖屏剧集《摸金之天机入梦》（英文名：The Golden Tomb Seeker）以及水母星际出品的《饿塔》（英文名：Series Tower）从全球120个国家、超过1000件竖屏作品中脱颖而出，成为正式展映的21",
+      "publishedAt": "2026-05-26T10:29:09.000Z",
+      "priority": "normal",
+      "summary": "2024年，强化学习奠基人理查德·萨顿与他的导师安德鲁·巴托共同获得了图灵奖。 这个奖项来得不算早。过去三十年，萨顿的理论支撑了AlphaGo、ChatGPT等系统的进化，但他三十年前写下的理论，直到今天才被具身智能行业真正理解： 智能体要从试错中学习，要从真实经验里进化。 2023年，萨顿参与创办非营利研究机构Openmind。2025年4月，萨顿在联合发",
       "tags": [
         "创业",
         "智能制造",
-        "产业",
+        "产业"
+      ],
+      "url": "https://36kr.com/p/3825969453699970?f=rss"
+    },
+    {
+      "id": "df1bb8ee69ae1909",
+      "title": "英国皇家医学院学会认为社媒和香烟一样不利于青少年健康",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-05-26T10:14:30.000Z",
+      "priority": "normal",
+      "summary": "英国皇家医学院学会在递交给政府的咨询意见书中表示，社交媒体的使用与吸烟一样对年轻人的健康构成威胁。医生在接诊年轻患者时，应例行询问他们的屏幕时间和社交媒体使用情况。英国政府正在考虑的一项措施是禁止 16 岁以下儿童使用社交媒体，类似澳大利亚的做法。其它可能采取的限制包括宵禁，或禁用自动播放和无限滚动等功能。儿童精神科医生 Emily Sehmer 认为过度使",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=84405"
+    },
+    {
+      "id": "7de9302303a3aa33",
+      "title": "What solutions do retail lockers offer per sector?",
+      "category": "automation",
+      "region": "global",
+      "source": "Robotics & Automation News",
+      "publishedAt": "2026-05-26T10:11:54.000Z",
+      "priority": "high",
+      "summary": "The lockers that many of us are familiar with are pretty low-tech. Essentially consisting of rows of simple boxes or cages that can only be secured with a padlock, it’s tricky to a",
+      "tags": [
+        "机器人",
+        "自动化",
         "AI"
       ],
-      "url": "https://36kr.com/p/3823033729061253?f=rss"
+      "url": "https://roboticsandautomationnews.com/2026/05/26/what-solutions-do-retail-lockers-offer-per-sector/101901/"
     },
     {
-      "id": "682db0b964633dd6",
-      "title": "8点1氪丨胖东来投资65亿的“梦之城”开工；“稚晖君”彭志辉正式出任上纬新材董事长；“死了么”App改名“在么在么”",
+      "id": "841225ca9e740ef9",
+      "title": "氪星晚报｜我国人形机器人全球市场占比超八成；三星电子将从下月开始允许员工使用外部AI模型；知情人士：字节跳动本月向Seed员工开放“豆包股”认购权",
       "category": "automation",
       "region": "domestic",
       "source": "36氪",
-      "publishedAt": "2026-05-25T23:58:09.000Z",
-      "priority": "normal",
-      "summary": "今日热点导览 美媒：美伊已就全面开放霍尔木兹海峡达成一致 拉勾网及创始人被限消 宇树科技6月1日科创板IPO上会，一季度扣非净利润同比下降52.55% 1瓶水蜜桃只有0.01克水蜜桃汁，康师傅被指蹭奉化水蜜桃玩文字游戏 寒武纪盘中涨超11%，总市值超9000亿创历史新高 TOP3大新闻 胖东来进军房地产？投资65亿元的“梦之城”开工 胖东来或将进军地产市场。",
+      "publishedAt": "2026-05-26T10:04:27.000Z",
+      "priority": "high",
+      "summary": "大公司： 知情人士：字节跳动本月向Seed员工开放“豆包股”认购权 据四位了解该激励计划的知情人士透露，字节跳动正为旗下Seed人工智能部门员工提供与该部门挂钩的低价股票期权。这是字节跳动首次针对特定业务单元发行股权。该激励机制让员工能分享Seed部门的成长收益，且不会被字节跳动其他业务线的业绩稀释收益。 空中客车供应不畅，澳洲航空开通伦敦和纽约不经停航班的",
       "tags": [
         "创业",
         "智能制造",
         "产业",
+        "AI",
         "市场"
       ],
-      "url": "https://36kr.com/p/3825357879497346?f=rss"
+      "url": "https://36kr.com/p/3825928694846085?f=rss"
+    },
+    {
+      "id": "d7195906dc2ed017",
+      "title": "Meet NASA Low Outgassing Standards With Adhesives for Aerospace and Optical Systems",
+      "category": "electronics",
+      "region": "global",
+      "source": "IEEE Spectrum",
+      "publishedAt": "2026-05-26T10:00:01.000Z",
+      "priority": "normal",
+      "summary": "This sponsored article is brought to you by Master Bond . Outgassing is the release of volatile substances from a cured adhesive over time. These released materials, which may incl",
+      "tags": [
+        "电子信息",
+        "工程"
+      ],
+      "url": "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards"
+    },
+    {
+      "id": "8d050bb519d9b2ae",
+      "title": "Top AI Field Reporting Apps for Contractors in 2026",
+      "category": "automation",
+      "region": "global",
+      "source": "Robotics & Automation News",
+      "publishedAt": "2026-05-26T09:52:49.000Z",
+      "priority": "high",
+      "summary": "From producing projects with more clients than they can handle to maintaining compliance with growing regulations and communicating effectively in more complex job locations, const",
+      "tags": [
+        "机器人",
+        "自动化",
+        "AI"
+      ],
+      "url": "https://roboticsandautomationnews.com/2026/05/26/top-ai-field-reporting-apps-for-contractors-in-2026/101896/"
+    },
+    {
+      "id": "ffb0b320d884c129",
+      "title": "Uber COO 称愈来愈难以证明最大化词元花的钱是合理的",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-05-26T09:41:54.000Z",
+      "priority": "high",
+      "summary": "Uber 高管表示 AI 上支出并没有带来相应的回报。Uber COO Andrew Macdonald 上周六接受采访时表示愈来愈难以证明最大化 AI 词元花的钱是合理的。而在上个月的一次采访中 Uber CTO Praveen Neppalli Naga 告诉 The Information，该公司已经用完了 2026 年的 Claude Code 预算",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技",
+        "AI"
+      ],
+      "url": "https://www.solidot.org/story?sid=84404"
+    },
+    {
+      "id": "eaa80ff2bc56f4a9",
+      "title": "Why Network Security is Critical in the Age of Robotics and Automation",
+      "category": "automation",
+      "region": "global",
+      "source": "Robotics & Automation News",
+      "publishedAt": "2026-05-26T09:37:30.000Z",
+      "priority": "normal",
+      "summary": "A few years ago, “network security” usually meant protecting laptops, servers, and the office Wi‑Fi (which somehow always died in the conference room). In 2026, that definition fee",
+      "tags": [
+        "机器人",
+        "自动化"
+      ],
+      "url": "https://roboticsandautomationnews.com/2026/05/26/why-network-security-is-critical-in-the-age-of-robotics-and-automation/101891/"
+    },
+    {
+      "id": "f1a664f0292be985",
+      "title": "LightSpeed Photonics Targets AI Data Centers With 400-Gbps Near-Packaged Optical Interconnects",
+      "category": "electronics",
+      "region": "global",
+      "source": "EE Times",
+      "publishedAt": "2026-05-26T09:25:18.000Z",
+      "priority": "high",
+      "summary": "The Singapore-based startup develops optical transceivers for the next generation of data center infrastructure. The post LightSpeed Photonics Targets AI Data Centers With 400-Gbps",
+      "tags": [
+        "芯片",
+        "电子工程",
+        "AI"
+      ],
+      "url": "https://www.eetimes.com/lightspeed-photonics-targets-ai-data-centers-with-400-gbps-near-packaged-optical-interconnects/"
+    },
+    {
+      "id": "bf3a18e7add91582",
+      "title": "JAXA 等成功测试五马赫冲压发动机",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-05-26T08:32:21.000Z",
+      "priority": "normal",
+      "summary": "JAXA、早稻田大学、东京大学和庆应义塾大学的工程师团队成功完成了为五马赫高超音速飞机设计的冲压式发动机的地面燃烧试验。冲压发动机利用了发动机的前向运动来压缩空气，不使用带有可旋转叶片的压气机，它无法在空速为零的时候产生推力，需要先加速到超音速。在测试中，一架实验飞机被安装在 JAXA 角田宇宙中心的风洞中，模拟约 25 公里高空的环境条件。在五马赫的飞行速",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=84403"
+    },
+    {
+      "id": "8a5699e7c73619a4",
+      "title": "Segway Navimow wins two Red Dot awards for next-generation robotic lawn mowers",
+      "category": "automation",
+      "region": "global",
+      "source": "Robotics & Automation News",
+      "publishedAt": "2026-05-26T08:10:18.000Z",
+      "priority": "high",
+      "summary": "Segway Navimow, a robotic lawn mower brand, has been recognised for its excellence in product design at the Red Dot Design Awards. Navimow’s X4 and H2 models, have been recognised ",
+      "tags": [
+        "机器人",
+        "自动化"
+      ],
+      "url": "https://roboticsandautomationnews.com/2026/05/26/segway-navimow-wins-two-red-dot-awards-for-next-generation-robotic-lawn-mowers/101884/"
+    },
+    {
+      "id": "08cd7977e08127b4",
+      "title": "Rotaku launches Domo humanoid robot platform starting at $2,999 for developers",
+      "category": "automation",
+      "region": "global",
+      "source": "Robotics & Automation News",
+      "publishedAt": "2026-05-26T08:00:21.000Z",
+      "priority": "high",
+      "summary": "Rotaku has opened reservations for Domo, a compact humanoid robot platform designed for developers, makers, educators and robotics teams working with real humanoid hardware. The Do",
+      "tags": [
+        "机器人",
+        "自动化",
+        "火箭"
+      ],
+      "url": "https://roboticsandautomationnews.com/2026/05/26/rotaku-launches-domo-humanoid-robot-platform-starting-at-2999-for-developers/101878/"
+    },
+    {
+      "id": "35f8ea22be7e43b6",
+      "title": "BepiColombo 计划于 11 月 21 日进入水星轨道",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-05-26T07:58:15.000Z",
+      "priority": "normal",
+      "summary": "欧洲 ESA 和日本 JAXA 合作的水星探索项目 BepiColombo 以意大利数学家 Giuseppe Colombo 的名字命名，探测器于 2018 年 10 月发射，原计划在六次飞掠水星之后于 2025 年 12 月进入水星轨道。但第四次飞掠水星前推进器出现故障，地面任务规划人员不得不修订时间表。JAXA 通过其社交媒体账号宣布了最新的日期：Bep",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技",
+        "火箭"
+      ],
+      "url": "https://www.solidot.org/story?sid=84402"
+    },
+    {
+      "id": "259ee8a632a880da",
+      "title": "Machine Vision Systems Are Expanding the Need for Scalable Media Infrastructure",
+      "category": "automation",
+      "region": "global",
+      "source": "Robotics & Automation News",
+      "publishedAt": "2026-05-26T07:47:32.000Z",
+      "priority": "high",
+      "summary": "Machine vision systems are becoming increasingly important across modern industrial environments. Factories, warehouses, logistics centers, robotics platforms, and automated produc",
+      "tags": [
+        "机器人",
+        "自动化"
+      ],
+      "url": "https://roboticsandautomationnews.com/2026/05/26/machine-vision-systems-are-expanding-the-need-for-scalable-media-infrastructure/101873/"
+    },
+    {
+      "id": "caab58b9e5ca6c60",
+      "title": "加州年龄验证法律将豁免大部分 Linux 发行版",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-05-26T07:11:48.000Z",
+      "priority": "normal",
+      "summary": "加州年龄验证法律的修正案将豁免大部分 Linux 发行版和自由开源软件。年龄验证法律要求操作系统提供商在设置询问用户年龄。该法案的修改版 AB-1856 缩小了适用的操作系统提供商和应用程序的范围：(2) “操作系统提供商”不包括在许可条款允许接收方复制、重新分发和修改该软件的情况下，分发操作系统或应用程序的个人或实体。(2) “应用程序”不包括其本身并未作",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=84401"
+    },
+    {
+      "id": "92f48429b5df19f7",
+      "title": "Research Bits: May 26",
+      "category": "electronics",
+      "region": "global",
+      "source": "Semiconductor Engineering",
+      "publishedAt": "2026-05-26T07:01:57.000Z",
+      "priority": "high",
+      "summary": "Three approaches toward energy-harvesting displays. The post Research Bits: May 26 appeared first on Semiconductor Engineering .",
+      "tags": [
+        "半导体",
+        "芯片"
+      ],
+      "url": "https://semiengineering.com/research-bits-may-26/"
+    },
+    {
+      "id": "50aaf56235c2fe55",
+      "title": "2025 年中亚经历了创纪录的冰川损失",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-05-26T06:21:32.000Z",
+      "priority": "normal",
+      "summary": "中亚的冰川是生活在下游地区的数百万人的重要水源。一项新研究发现 2025 年中亚经历了创纪录的冰川损失。冰川加速消融可能会在短期内增加融水，但最终由于冰量的减少融水也会减少。研究人员利用对天山和帕米尔高原 16 座冰川的实地观测数据，结合模型，估算出中亚冰川在一年内损失了约 30 立方千米的冰，相当于该地区冰川总体积的近 2%。这一结果是异常温暖的春夏季气温",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=84400"
+    },
+    {
+      "id": "1547faa79805359e",
+      "title": "摩托罗拉手机劫持亚马逊应用植入联盟营销推广码",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-05-26T05:37:22.000Z",
+      "priority": "normal",
+      "summary": "用户通过社交媒体报告，摩托罗拉手机预装的一个应用 Smart Feed 在更新之后开始劫持亚马逊应用植入联盟营销推广码获取佣金。非常奇怪的是，推广码 sramz-kff-008-20 指向的是一名时尚博主“@kirasfashionfinds”，也就是佣金给的不是 Smart Feed 而是这位博主。暂时不清楚究竟发生了什么。受影响的用户可通过禁用 Smar",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=84399"
+    },
+    {
+      "id": "e735242efcc9d51c",
+      "title": "教宗呼吁不可用 AI 作恶",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-05-26T03:43:46.000Z",
+      "priority": "high",
+      "summary": "教宗良十四世颁布了其首道通谕，呼吁世人不可用人工智能来作恶，切莫把人工智能当成「掌控、排斥或死亡的工具」。 教会长期支持核裁军，称这是「为人类大家庭和平与尊严的服务」。同样地，人工智能今天也不可用于作恶，这就「如同核能那样，必须用来为所有的人和公共福祉效劳」。「关于科技的决定绝对是与良心和责任密不可分的」。「和平不只是没有战争，更是正义伸张。然而，当科技削弱",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技",
+        "AI"
+      ],
+      "url": "https://www.solidot.org/story?sid=84398"
     },
     {
       "id": "2ddb2620237bfe9a",
@@ -394,22 +1878,6 @@
       "url": "https://semiengineering.com/impact-of-band-to-band-tunneling-in-the-ctl-of-v-nand-flash-memory-u-of-seoul-samsung/"
     },
     {
-      "id": "663618187e7109b1",
-      "title": "CNBC's The China Connection newsletter: Tariffs eased. Trust didn't.",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-05-25T23:01:25.000Z",
-      "priority": "high",
-      "summary": "As the largest consumer market globally, the U.S. still remains a prized destination for Chinese companies that are finding ways to address local concerns.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/05/25/cnbcs-the-china-connection-newsletter-tariffs-eased-trust-didnt.html"
-    },
-    {
       "id": "9f41eaeebf5ebd6b",
       "title": "An Agent-Driven End-to-End HW-SW Co-Design Benchmark for Heterogeneous SoCs (Columbia, IBM)",
       "category": "electronics",
@@ -425,103 +1893,6 @@
       "url": "https://semiengineering.com/an-agent-driven-end-to-end-hw-sw-co-design-benchmark-for-heterogeneous-socs-columbia-ibm/"
     },
     {
-      "id": "7a04fa80c0a9ee29",
-      "title": "Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-05-25T22:00:00.000Z",
-      "priority": "normal",
-      "summary": "Nearly four years after the last version of Sennheiser's Momentum headphones debuted with a redesign that traded a retro aesthetic for a more contemporary and comfortable design, t",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth"
-    },
-    {
-      "id": "270fb711606e5676",
-      "title": "Ferrari reveals its first EV, with design help from Jony Ive",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-05-25T21:33:12.000Z",
-      "priority": "normal",
-      "summary": "After months of teasers, Ferrari is offering the first full view of its Luce electric vehicle. The Luce is notable not just for being Ferrari's first EV, but for being designed in ",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom"
-    },
-    {
-      "id": "f7bba89083de54dc",
-      "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-25T21:07:42.000Z",
-      "priority": "high",
-      "summary": "In an age of AI, Pope looks for \"artisans of hope.\"",
-      "tags": [
-        "计算机",
-        "科技",
-        "AI"
-      ],
-      "url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/"
-    },
-    {
-      "id": "2724d61ea07959e5",
-      "title": "These underdogs are a big reason why S&P 500 profit growth is the fastest in nearly 5 years",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-25T19:50:00.000Z",
-      "priority": "normal",
-      "summary": "Ever since Big Tech went all in on artificial intelligence more than three years ago, seven companies have done the heavy lifting for overall S&P 500 earnings growth. But more rece",
-      "tags": [
-        "市场",
-        "投资",
-        "AI"
-      ],
-      "url": "https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories"
-    },
-    {
-      "id": "f8b7ecd396e1e3d8",
-      "title": "I&#x2019;m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won&#x2019;t get killed on taxes?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-25T18:30:00.000Z",
-      "priority": "normal",
-      "summary": "&#x201c;My thought is to distribute all of the income to my children each year so that the trust itself pays little to no tax.&#x201d;",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories"
-    },
-    {
-      "id": "ac251e22728c8ea7",
-      "title": "Cox Media fined after bragging it spied on users through their phones",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-05-25T18:28:30.000Z",
-      "priority": "high",
-      "summary": "An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices ",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI",
-        "市场"
-      ],
-      "url": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine"
-    },
-    {
       "id": "34a1599e11db5a37",
       "title": "5 Best GPS Time Tracking for Field Crews",
       "category": "automation",
@@ -535,1371 +1906,6 @@
         "自动化"
       ],
       "url": "https://roboticsandautomationnews.com/2026/05/25/5-best-gps-time-tracking-for-field-crews/101868/"
-    },
-    {
-      "id": "6ce3e368a6ea467a",
-      "title": "IEEE TryEngineering OnCampus Program Expands to 7 Universities",
-      "category": "electronics",
-      "region": "global",
-      "source": "IEEE Spectrum",
-      "publishedAt": "2026-05-25T18:00:01.000Z",
-      "priority": "normal",
-      "summary": "The OnCampus program, administered by IEEE Educational Activities , last year expanded its engineering experiences from two to seven universities. Part of TryEngineering , the prog",
-      "tags": [
-        "电子信息",
-        "工程"
-      ],
-      "url": "https://spectrum.ieee.org/tryengineering-oncampus-expansion"
-    },
-    {
-      "id": "7c1d0fd34f13848b",
-      "title": "Side-Channel Risks Across 2.5D/3D Integration and Chiplet-Based Systems (Grenoble INP &#8211; UGA et al.)",
-      "category": "electronics",
-      "region": "global",
-      "source": "Semiconductor Engineering",
-      "publishedAt": "2026-05-25T17:49:46.000Z",
-      "priority": "high",
-      "summary": "Researchers from Grenoble INP &#8211; UGA, CNRS, TIMA have released “Spying Across Chiplets: Side-Channel Attacks in 2.5/3D Integrated Systems”. Abstract “Advanced packaging and ch",
-      "tags": [
-        "半导体",
-        "芯片"
-      ],
-      "url": "https://semiengineering.com/side-channel-risks-across-advanced-chiplet-packages-uga-cnrs/"
-    },
-    {
-      "id": "791cce9e861e4141",
-      "title": "&#x2018;There is zero transparency&#x2019;: My friend&#x2019;s sister controls their mother&#x2019;s estate. How can we stop her from stealing?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-25T17:45:00.000Z",
-      "priority": "high",
-      "summary": "&#x201c;The sister claims she does not have to explain herself to anyone.&#x201d;",
-      "tags": [
-        "市场",
-        "投资",
-        "AI"
-      ],
-      "url": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories"
-    },
-    {
-      "id": "adbda59ad0113a01",
-      "title": "Improving GPU Energy Efficiency With Component-Level Power Management (AMD)",
-      "category": "electronics",
-      "region": "global",
-      "source": "Semiconductor Engineering",
-      "publishedAt": "2026-05-25T17:37:42.000Z",
-      "priority": "normal",
-      "summary": "Researchers from AMD released “CompPow: A Case for Component-level GPU Power Management”. Abstract “The ever increasing demand for ML-driven intelligence in a wide spectrum of doma",
-      "tags": [
-        "半导体",
-        "芯片"
-      ],
-      "url": "https://semiengineering.com/improving-gpu-energy-efficiency-with-component-level-power-management-amd/"
-    },
-    {
-      "id": "528aebde1f762b5a",
-      "title": "Wiz Alternatives in 2026: 7 Tools Compared – Best for Cloud and Code Security",
-      "category": "automation",
-      "region": "global",
-      "source": "Robotics & Automation News",
-      "publishedAt": "2026-05-25T17:37:01.000Z",
-      "priority": "normal",
-      "summary": "Wiz is one of the fastest-growing security companies in history. Its agentless cloud scanning, Security Graph visualization, and ability to surface cross-cloud attack paths changed",
-      "tags": [
-        "机器人",
-        "自动化"
-      ],
-      "url": "https://roboticsandautomationnews.com/2026/05/25/wiz-alternatives-in-2026-7-tools-compared-best-for-cloud-and-code-security/101861/"
-    },
-    {
-      "id": "5b3f3a28092dba74",
-      "title": "欧洲执法部门黑进 VPN 服务识别勒索组织用户",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-05-25T16:30:21.000Z",
-      "priority": "normal",
-      "summary": "欧洲刑警组织披露，他们黑进了被网络犯罪分子使用的 VPN 服务“First VPN”，访问了用户数据库，识别了数千用户身份。First VPN 的网站已经显示被执法部门扣押的信息，它过去曾在俄语网络犯罪论坛上打广告，宣称能隐藏用户的 IP 地址，加密所有通信，不记录任何日志。它还声称将拒绝与司法机关合作，其服务不受任何司法管辖，且不会存储任何用户数据。Fir",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=84397"
-    },
-    {
-      "id": "37f7799f660d752b",
-      "title": "Do Robotics Firms Need Microsoft 365 Backups",
-      "category": "automation",
-      "region": "global",
-      "source": "Robotics & Automation News",
-      "publishedAt": "2026-05-25T16:14:38.000Z",
-      "priority": "normal",
-      "summary": "Try answering this without checking: if a senior engineer leaves today and their Microsoft 365 account is deleted next week, how much of their actual working context can you restor",
-      "tags": [
-        "机器人",
-        "自动化"
-      ],
-      "url": "https://roboticsandautomationnews.com/2026/05/25/do-robotics-firms-need-microsoft-365-backups-2/101858/"
-    },
-    {
-      "id": "adedae89ef2e0e4c",
-      "title": "How an Email Domain Can Make a Business Look More Professional",
-      "category": "automation",
-      "region": "global",
-      "source": "Robotics & Automation News",
-      "publishedAt": "2026-05-25T16:02:12.000Z",
-      "priority": "high",
-      "summary": "These days, the first impression of a company is often formed not at a personal meeting or even a visit to the office, but rather upon receiving the first email. When a potential c",
-      "tags": [
-        "机器人",
-        "自动化",
-        "AI"
-      ],
-      "url": "https://roboticsandautomationnews.com/2026/05/25/how-an-email-domain-can-make-a-business-look-more-professional/101855/"
-    },
-    {
-      "id": "3a07a00116f51496",
-      "title": "What ClickUp&#8217;s mass layoff tells us about the future of work",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-25T16:00:00.000Z",
-      "priority": "high",
-      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/"
-    },
-    {
-      "id": "d9cc6b5782d20599",
-      "title": "Is the stock market open today? Does the post office deliver mail on Memorial Day?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-25T15:49:00.000Z",
-      "priority": "high",
-      "summary": "The holiday weekend will affect the stock and bond market. Here&#x2019;s what you need to know.",
-      "tags": [
-        "市场",
-        "投资",
-        "AI"
-      ],
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories"
-    },
-    {
-      "id": "e3fc9ba847d16b67",
-      "title": "The best Memorial Day sales you can shop this weekend",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-05-25T15:33:28.000Z",
-      "priority": "normal",
-      "summary": "Memorial Day is here, meaning the seasonal sales are in full swing. If your plans over the long weekend involve pool parties or barbecues, now is a great time to pick up a portable",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026"
-    },
-    {
-      "id": "fdea371824548c84",
-      "title": "The pope’s AI encyclical isn’t really about AI",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-25T15:09:41.000Z",
-      "priority": "high",
-      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/"
-    },
-    {
-      "id": "b66bd8f4519d7b84",
-      "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-05-25T15:05:07.000Z",
-      "priority": "high",
-      "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"s",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare"
-    },
-    {
-      "id": "418e3918a19a5b42",
-      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-25T15:00:00.000Z",
-      "priority": "high",
-      "summary": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/"
-    },
-    {
-      "id": "3ae2c16d0d066144",
-      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-25T14:30:00.000Z",
-      "priority": "normal",
-      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/"
-    },
-    {
-      "id": "4fb89955f15a2ba8",
-      "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-25T14:16:00.000Z",
-      "priority": "high",
-      "summary": "&#x201c;We plan to sell it to another family member for the appraised value.&#x201d;",
-      "tags": [
-        "市场",
-        "投资",
-        "AI"
-      ],
-      "url": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories"
-    },
-    {
-      "id": "779ec9b4a258fd04",
-      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-25T14:00:00.000Z",
-      "priority": "normal",
-      "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/"
-    },
-    {
-      "id": "3f61a89756e525f5",
-      "title": "I&#x2019;m selling my $1 million home. Will my agent really charge less than a 6% commission?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-25T13:45:00.000Z",
-      "priority": "normal",
-      "summary": "&#x201c;I haven&#x2019;t bought or sold property since the National Association of Realtors ruling that decoupled buyer&#x2019;s and seller&#x2019;s agent commissions.&#x201d;",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories"
-    },
-    {
-      "id": "0315b2783e5fe301",
-      "title": "Here are our favorite last-minute deals from REI’s giant Anniversary Sale",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-05-25T13:40:00.000Z",
-      "priority": "high",
-      "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — is still going strong, letting you save on all kinds of outdoor essentials. If you’ve got a camping trip coming",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026"
-    },
-    {
-      "id": "f1e178215a7f31aa",
-      "title": "Mastercard&#x2019;s stock is up 11,000% since its IPO 20 years ago. What comes next?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-25T13:30:00.000Z",
-      "priority": "normal",
-      "summary": "Mastercard is in an elite club. Among S&P 500 components, only Nvidia and Apple shares have performed better over the two-decade span since the card company&#x2019;s IPO.",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/mastercards-stock-is-up-11-000-since-its-ipo-20-years-ago-what-comes-next-deb949eb?mod=mw_rss_topstories"
-    },
-    {
-      "id": "d06cfe4a8ece24c1",
-      "title": "Reclaiming Social Engineering for Good",
-      "category": "electronics",
-      "region": "global",
-      "source": "IEEE Spectrum",
-      "publishedAt": "2026-05-25T13:00:01.000Z",
-      "priority": "high",
-      "summary": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phis",
-      "tags": [
-        "电子信息",
-        "工程",
-        "AI"
-      ],
-      "url": "https://spectrum.ieee.org/social-engineering-good"
-    },
-    {
-      "id": "dfff52a1803fbba4",
-      "title": "Realising the Benefits of Quality Inspection Reports",
-      "category": "electronics",
-      "region": "global",
-      "source": "EE Times",
-      "publishedAt": "2026-05-25T13:00:00.000Z",
-      "priority": "normal",
-      "summary": "However much you prototype and test your product designs, there will always be factors outside your direct control that have significant implications for the manufacturability, eff",
-      "tags": [
-        "芯片",
-        "电子工程"
-      ],
-      "url": "https://www.eetimes.com/realising-the-benefits-of-quality-inspection-reports/"
-    },
-    {
-      "id": "82859e25d1008d86",
-      "title": "You May Not Know Actions Technology, But You’ve Definitely &#8220;Heard&#8221; It",
-      "category": "electronics",
-      "region": "global",
-      "source": "EE Times",
-      "publishedAt": "2026-05-25T13:00:00.000Z",
-      "priority": "normal",
-      "summary": "Action Technology, an IC design company, provides core technological support for hundreds of millions of consumer audio devices worldwide. The post You May Not Know Actions Technol",
-      "tags": [
-        "芯片",
-        "电子工程"
-      ],
-      "url": "https://www.eetimes.com/you-may-not-know-actions-technology-but-youve-definitely-heard-it-the-evolution-of-an-audio-chip-specialist/"
-    },
-    {
-      "id": "ed2e7a6058630c1c",
-      "title": "HBM 成本占到了 AI 芯片组件成本的三分之二",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-05-25T12:58:48.000Z",
-      "priority": "high",
-      "summary": "对英伟达、AMD、Google 和亚马逊四家公司的 AI 芯片的分析显示，HBM 内存芯片成本占到了 AI 芯片组件成本的三分之二（63%），逻辑芯片占 13%，先进封装占 15%，辅助组件占 9% 。四家公司在 HBM 上的支出从 2024 年的约 120 亿美元增至 2025 年的 320 亿美元，增速远超其它芯片组件。随着内存芯片供应持续紧张且价格上涨",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技",
-        "AI",
-        "芯片"
-      ],
-      "url": "https://www.solidot.org/story?sid=84396"
-    },
-    {
-      "id": "c2cb5268d296adce",
-      "title": "European stocks highest since March 2 as U.S.-Iran talks continue; euro zone bond yields drop on peace hopes",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-05-25T12:36:21.000Z",
-      "priority": "normal",
-      "summary": "Stocks in Europe are tracking their Asian counterparts higher after Japan's Nikkei 225 breached 65,000 for the first time.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/05/25/european-stocks-us-iran-talks-continue-markets-oil.html"
-    },
-    {
-      "id": "79e604d415dd4b4e",
-      "title": "惠普调查 BIOS 更新导致笔记本故障问题",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-05-25T12:31:19.000Z",
-      "priority": "normal",
-      "summary": "过去几个月惠普笔记本电脑用户通过论坛等报告在更新 BIOS 之后设备出现了问题，包括设备无法启动、风扇噪音异常以及蓝屏死机等等。一名移动工作站 ZBook Ultra G1a 的用户称更新 BIOS 之后设备在启动过程中卡住。受影响的产品包括 ZBook Ultra G1a，存在问题的 BIOS 版本号 01.04.03 和 01.04.05；EliteBo",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=84395"
-    },
-    {
-      "id": "a15c6e65aba97cca",
-      "title": "俄罗斯推迟对移动 VPN 用户收费的计划",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-05-25T12:22:26.000Z",
-      "priority": "normal",
-      "summary": "俄罗斯政府已推迟对使 VPN 的移动互联网用户收费的计划。俄罗斯数字发展部在三月表示将打击 VPN 的使用。它最初要求移动网络运营商从 5 月 1 日起对每月国际数据流量超 15GB 的用户收费。但由于追踪 VPN 使用和计费方面存在困难，该期限已推迟至 6 月 1 日。该收费计划可能会再次被推迟，可能会在 9 月底国家杜马和地方选举之后实施。原因是一个功能",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=84394"
-    },
-    {
-      "id": "04d2327b8d616fef",
-      "title": "政治情绪和普通情绪不同",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-05-25T12:01:09.000Z",
-      "priority": "normal",
-      "summary": "根据 PNAS 期刊上的一项研究，政治情绪的生理反应和日常经历的普通情绪不同。研究人员邀请近 1000 名美国参与者使用名为 emBODY 的身体映射工具，绘制出感受到的普通情绪和政治情绪的身体部位。研究发现，政治情绪有着独特的身体反应模式。举例来说，政治抑郁会引发身体更广泛、更强烈的感受，而非普通抑郁的麻木感。这意味着政治绝望会激励人行动而不是对一切漠然。",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=84393"
-    },
-    {
-      "id": "57e34406a5fdca94",
-      "title": "US's big bet on quantum computing may not be entirely legal",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-25T12:00:15.000Z",
-      "priority": "high",
-      "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
-      "tags": [
-        "计算机",
-        "科技",
-        "火箭"
-      ],
-      "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/"
-    },
-    {
-      "id": "501e0bf71239d2a4",
-      "title": "消除“罪证”：给写作去除“AI味”的不完全手册（2026版）",
-      "category": "automation",
-      "region": "domestic",
-      "source": "36氪",
-      "publishedAt": "2026-05-25T11:32:24.000Z",
-      "priority": "high",
-      "summary": "图源：公众号「有三思 U Sense」 做个测试。读一下这段话： “熊猫是最可爱的动物，它最爱吃竹子，样子最憨态可掬，是世界上最珍贵的宝藏。” 如果你笑了，或者皱了眉，很明显，你的 “鉴AI雷达” 已经觉醒。 近期把网友笑到打鸣的“豆包体”里，“最”是高频词汇。大家纷纷晒出自己使用、调教AI，结果内容啼笑皆非的截图。这场围绕AI味写作的调侃就此出圈。 ● 网",
-      "tags": [
-        "创业",
-        "智能制造",
-        "产业",
-        "AI"
-      ],
-      "url": "https://36kr.com/p/3824601267196037?f=rss"
-    },
-    {
-      "id": "2e7cea38930f660e",
-      "title": "When are prediction markets most helpful? Evercore ISI has a formula",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-05-25T11:30:01.000Z",
-      "priority": "high",
-      "summary": "Evercore ISI strategists provide insight for when prediction markets are useful for forecasting.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/05/25/when-are-prediction-markets-most-helpful-evercore-isi-has-a-formula.html"
-    },
-    {
-      "id": "2e9703b10318a58b",
-      "title": "I spent years forcing myself to finish The Witcher 3—don't repeat my mistake",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-25T11:22:27.000Z",
-      "priority": "normal",
-      "summary": "Consensus and genre labels aren't reliable predictors of what you'll enjoy.",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/"
-    },
-    {
-      "id": "9eb0a9ba482b92c1",
-      "title": "Data Centers in Space: A Brilliant Idea or Delusional?",
-      "category": "electronics",
-      "region": "global",
-      "source": "EE Times",
-      "publishedAt": "2026-05-25T10:48:24.000Z",
-      "priority": "normal",
-      "summary": "The power and thermal issues of placing data centers in space are formidable. The post Data Centers in Space: A Brilliant Idea or Delusional? appeared first on EE Times .",
-      "tags": [
-        "芯片",
-        "电子工程"
-      ],
-      "url": "https://www.eetimes.com/data-centers-in-space-a-brilliant-idea-or-delusional/"
-    },
-    {
-      "id": "cc9929250afdf6c9",
-      "title": "&#x2018;We have longevity in the family&#x2019;: My sister is turning 67. Should she wait until 70 to claim Social Security?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-25T10:40:00.000Z",
-      "priority": "high",
-      "summary": "&#x201c;Others say she should start at full retirement age.&#x201d;",
-      "tags": [
-        "市场",
-        "投资",
-        "AI"
-      ],
-      "url": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories"
-    },
-    {
-      "id": "1920ae2139ef7d2d",
-      "title": "科学家推翻空气动力学的基础原则",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-05-25T10:18:16.000Z",
-      "priority": "normal",
-      "summary": "几十年来，降低空气阻力的一大原则是表面必须光滑。日本东北大学研究团队率先证明，仅仅应用分布式微粗糙度（distributed micro-roughness 或 DMR），就能将空气阻力降低达 43.6%。DMR 是一种肉眼无法分辨的、极其微小且不规则的表面粗糙度。研究团队利用 1m-MSBS 系统精确测量了光滑表面和 DMR 涂层表面的阻力系数，结果显示 ",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=84392"
-    },
-    {
-      "id": "9ed2ac2290b227b7",
-      "title": "AI with Model-Based Design: Virtual Sensor Modeling",
-      "category": "electronics",
-      "region": "global",
-      "source": "IEEE Spectrum",
-      "publishedAt": "2026-05-25T10:00:01.000Z",
-      "priority": "high",
-      "summary": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embed",
-      "tags": [
-        "电子信息",
-        "工程",
-        "AI"
-      ],
-      "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/"
-    },
-    {
-      "id": "0a287cccd2906a0e",
-      "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "category": "automation",
-      "region": "domestic",
-      "source": "36氪",
-      "publishedAt": "2026-05-25T08:54:18.000Z",
-      "priority": "high",
-      "summary": "新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。 麻亚炜将AI转型划分为四个递进阶段： 第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。 第二阶段（",
-      "tags": [
-        "创业",
-        "智能制造",
-        "产业",
-        "AI"
-      ],
-      "url": "https://36kr.com/p/3824164325412992?f=rss"
-    },
-    {
-      "id": "29e9a485583c08fc",
-      "title": "Robot.com turns autonomous robots into mobile advertising network with launch of R-ads platform",
-      "category": "automation",
-      "region": "global",
-      "source": "Robotics & Automation News",
-      "publishedAt": "2026-05-25T08:51:26.000Z",
-      "priority": "high",
-      "summary": "Robot.com, the company putting robots to work in the real world, has announced the launch of its next-generation R-ads, the smart advertising platform turning autonomous robots int",
-      "tags": [
-        "机器人",
-        "自动化",
-        "火箭"
-      ],
-      "url": "https://roboticsandautomationnews.com/2026/05/25/robot-com-turns-autonomous-robots-into-mobile-advertising-network-with-launch-of-r-ads-platform/101850/"
-    },
-    {
-      "id": "b37ecac95eaa3277",
-      "title": "氪星晚报｜全国首单挂钩蓝色债券合约类信用衍生品交易落地山东；到2030年底全国城市生活垃圾资源化利用率力争达到76%以上；新加坡寻求将富人开户时间缩短至一个月",
-      "category": "automation",
-      "region": "domestic",
-      "source": "36氪",
-      "publishedAt": "2026-05-25T08:24:54.000Z",
-      "priority": "normal",
-      "summary": "大公司： 番茄小说持续加强低质内容治理，5月处置低质书籍超15万本 36氪获悉，近日，番茄小说发布《关于加强低质内容治理公告》。公告显示，5月以来，番茄小说已累计处置低质书籍超15万本，其中拒绝签约低质书籍112706本，处置低质违规书籍40275本。 全国首单挂钩蓝色债券合约类信用衍生品交易落地山东 36氪获悉，据上海清算所，近日，在中国人民银行山东省分行",
-      "tags": [
-        "创业",
-        "智能制造",
-        "产业"
-      ],
-      "url": "https://36kr.com/p/3824439681520002?f=rss"
-    },
-    {
-      "id": "dd35d787127b5247",
-      "title": "科学家破解烟草合成尼古丁之谜",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-05-25T08:00:07.000Z",
-      "priority": "normal",
-      "summary": "尼古丁是让烟草具有成瘾性的化合物，人类使用尼古丁已有逾万年历史。但在数十年研究之后科学家仍然未能完全理解烟草植物是如何合成尼古丁分子的。根据发表在《Nature Communications》上的一项研究，科学家破解了烟草合成尼古丁之谜。研究团队发现，尼古丁一开始与葡萄糖分子结合，葡萄糖分子为尼古丁分子的基本构建块提供了能量去加速组装，但在最后葡萄糖分子会被",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=84390"
-    },
-    {
-      "id": "be6bfed7c1dd1d3f",
-      "title": "日本声优起诉要求 TikTok 删除 AI 模仿其声音的视频",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-05-25T07:18:23.000Z",
-      "priority": "high",
-      "summary": "日本人气声优津田健次郎已向东京地方法院提起诉讼，以有人利用生成式 AI 擅自模仿其声音制作视频并公开为由，要求 TikTok 运营方删除相关视频。这可能是关于生成式 AI 擅自使用声音的首个诉讼案。津田“富有磁性的低音声线”被认为是其特色，因在动画《咒术回战》中为七海建人、在《黄金神威》中为尾形百之助等角色配音而知名。 起诉书称，发布视频的人姓名不详。202",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技",
-        "AI"
-      ],
-      "url": "https://www.solidot.org/story?sid=84389"
-    },
-    {
-      "id": "dc5eb361e4022aaf",
-      "title": "Delivery Hero shares rise 10% as rival Uber mulls another takeover bid",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-05-25T07:15:54.000Z",
-      "priority": "normal",
-      "summary": "Delivery Hero confirmed in a statement on Saturday that it had received a takeover offer from Uber of €33 per share.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/05/25/delivery-hero-shares-rival-uber-mulls-another-takeover-bid.html"
-    },
-    {
-      "id": "a17a9b698003afe0",
-      "title": "气候变化威胁全球植物物种",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-05-25T07:12:28.000Z",
-      "priority": "normal",
-      "summary": "根据发表在《科学》期刊上的一项研究，气候变化增加植物物种灭绝的风险。研究人员分析了逾 67,000 种维管植物——维管植物是指有输送水分和养分之内部复杂传导组织的植物，全球已发现维管植物约在 30～40 万种之间。研究发现，7%-16% 的维管植物可能会失去逾九成的栖息地，面临极高的灭绝风险。植物的栖息地并非是地图上的一个位置，而是其生存所需的全部条件：温度",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=84388"
-    },
-    {
-      "id": "1d59a2db62e81363",
-      "title": "Iran is in the 'process of blinking' over the Strait of Hormuz, Petraeus says",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-05-25T06:59:06.000Z",
-      "priority": "high",
-      "summary": "Ex-CIA director David Petraeus said that an initial successful peace deal with Tehran would see the Strait opened without any conditions.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/05/25/iran-in-the-process-of-blinking-over-the-strait-ofoh-ex-cia-director.html"
-    },
-    {
-      "id": "130bfb16b084f602",
-      "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-05-25T06:48:16.000Z",
-      "priority": "high",
-      "summary": "Chinese telecom giant Huawei announced Monday a new way of designing chips that improves their capabilities, despite U.S. restrictions on the company.",
-      "tags": [
-        "金融",
-        "市场",
-        "芯片"
-      ],
-      "url": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html"
-    },
-    {
-      "id": "810cde7f5b1706bf",
-      "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
-      "category": "automation",
-      "region": "domestic",
-      "source": "36氪",
-      "publishedAt": "2026-05-25T06:26:35.000Z",
-      "priority": "high",
-      "summary": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。 广州因特智能科技有限公司孵化于 西安电子科技大学广州研究院 ，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持 软硬一体 ，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头",
-      "tags": [
-        "创业",
-        "智能制造",
-        "产业",
-        "AI",
-        "芯片"
-      ],
-      "url": "https://36kr.com/p/3824158896312709?f=rss"
-    },
-    {
-      "id": "4686baa981bd4044",
-      "title": "Oil market at 'tank bottoms' in Asia, and Europe isn't far behind, warns market veteran Jeff Currie",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-05-25T06:25:49.000Z",
-      "priority": "high",
-      "summary": "Oil markets are nearing minimum operating levels in Asia, with Europe likely next and the U.S. potentially facing shortages by July, said Carlyle's Jeff Currie.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/05/25/oil-prices-iran-war-carlyle-currie.html"
-    },
-    {
-      "id": "bf182179a73fd9f5",
-      "title": "Firefox 加入对 Web Serial API 的支持，与 Adafruit 合作",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-05-25T06:20:00.000Z",
-      "priority": "normal",
-      "summary": "刚刚发布的 Firefox 151 加入了对 Web Serial API 的支持。Web Serial API 允许网站使用 JavaScript 向串口设备如 USB 和蓝牙设备写入或读取数据。Mozilla 称大部分人不会使用到该 API，它的主要使用群体是开发者，他们将能利用浏览器与兼容硬件设备直接进行通信。Mozilla 同时宣布与知名开源硬件平台",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=84387"
-    },
-    {
-      "id": "5504af2a70549b12",
-      "title": "圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会",
-      "category": "automation",
-      "region": "domestic",
-      "source": "36氪",
-      "publishedAt": "2026-05-25T06:08:00.000Z",
-      "priority": "high",
-      "summary": "AIGC如何从生产工具进阶到情感洞察？当AI能写出剧本、生成音乐、表演微表情，人还剩什么？ 内容产业正在发生生产模式跃迁，传统用户画像在AI时代正在被颠覆，真正要做的是理解用户的情感状态而非静态标签。厂牌效应不会消失，越过技术线之后，人最后坚守的是“手搓”的审美与意义。 以下为圆桌对话内容，经36氪整理编辑： 刘士武丨36氪游戏主编（主持） 庄明浩丨趣丸科技",
-      "tags": [
-        "创业",
-        "智能制造",
-        "产业",
-        "AI"
-      ],
-      "url": "https://36kr.com/p/3824154127093892?f=rss"
-    },
-    {
-      "id": "a5d3bf1ffa907299",
-      "title": "四月全球风能太阳能发电量超过天然气发电量",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-05-25T05:14:07.000Z",
-      "priority": "normal",
-      "summary": "四月全球风能太阳能发电量超过了天然气发电量。根据能源智库 Ember 的分析，四月风能和太阳能发电量占全球总发电量的 22%，天然气发电量占 20%。四月风能和太阳能总发电量达到创纪录的 531 TWh，比天然气总发电量 477 TWh 高出 54 TWh。而五年前的 2021 年 4 月，天然气总发电量 476 TWh，和今天几乎完全一致。但当时的风能和太",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=84386"
-    },
-    {
-      "id": "e9932a7c4afc4f46",
-      "title": "《星际公民(Star Citizen)》筹款突破十亿美元",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-05-25T03:27:38.000Z",
-      "priority": "normal",
-      "summary": "开发了 14 年但发布日期未知的《星际公民(Star Citizen)》的筹款突破了十亿美元达到 1,003,408,183 美元。《星际公民》由《银河飞将》创始人 Chris Roberts 领导开发，试图复兴太空模拟飞行游戏，允许玩家在广袤的宇宙空间内探险，交易和战斗。它于 2012 年在 Kickstarter 上成功众筹，原计划的交付时间是 2014",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=84385"
-    },
-    {
-      "id": "a6abb788a389f56c",
-      "title": "Stocks are riding an earnings hot streak &#x2014; but investors are facing a summer that&#x2019;s rife with risks",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-24T22:23:00.000Z",
-      "priority": "high",
-      "summary": "The U.S. stock market has arrived at the unofficial start to summer with major benchmarks sitting at record highs. But a few factors could make for a bumpy ride in the months ahead",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories"
-    },
-    {
-      "id": "d9ae4d5dfe9a67f6",
-      "title": "Peacekeeping troop numbers fall to lowest in at least 25 years, SIPRI says",
-      "category": "security",
-      "region": "global",
-      "source": "Defense News Global",
-      "publishedAt": "2026-05-24T22:01:00.000Z",
-      "priority": "normal",
-      "summary": "The U.S. took “significant action” in 2025 to withdraw from, defund or challenge various UN bodies, think tank analysts wrote in the report.",
-      "tags": [
-        "防务",
-        "战争安全"
-      ],
-      "url": "https://www.defensenews.com/global/2026/05/24/peacekeeping-troop-numbers-fall-to-lowest-in-at-least-25-years-sipri-says/"
-    },
-    {
-      "id": "cf45cfd62842b1ee",
-      "title": "Everyone is navigating AI security in real time &#8212; even Google",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-24T21:39:21.000Z",
-      "priority": "high",
-      "summary": "We're in the transition period -- all of us.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/"
-    },
-    {
-      "id": "3e07b9dd2d557f89",
-      "title": "Xreal, Google&#8217;s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-24T19:00:00.000Z",
-      "priority": "normal",
-      "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/"
-    },
-    {
-      "id": "c1fa1f62a6a918fe",
-      "title": "SpaceX launches 29 Starlink satellites on Memorial Day",
-      "category": "aerospace",
-      "region": "global",
-      "source": "Spaceflight Now",
-      "publishedAt": "2026-05-24T17:54:29.000Z",
-      "priority": "high",
-      "summary": "The mission was SpaceX’s 60th orbital flight of the year, including one Falcon Heavy launch and 59 Falcon 9 flights. Liftoff of the Starlink 10-47 mission from pad 40 at Cape Canav",
-      "tags": [
-        "火箭",
-        "发射",
-        "航天",
-        "卫星"
-      ],
-      "url": "https://spaceflightnow.com/2026/05/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/"
-    },
-    {
-      "id": "a3f6193bffab2745",
-      "title": "6 kitchen gadgets that make adulting feel easier",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-24T17:00:00.000Z",
-      "priority": "normal",
-      "summary": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/"
-    },
-    {
-      "id": "19f79ca4f96c41db",
-      "title": "TechCrunch Mobility: Robotaxi reality check",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-24T16:05:00.000Z",
-      "priority": "normal",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/"
-    },
-    {
-      "id": "e7cfab2ec2a3d602",
-      "title": "On Trails is a wandering tale that blends hiking, science, and history",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-05-24T15:15:00.000Z",
-      "priority": "high",
-      "summary": "Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating. Unfortunately, ",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review"
-    },
-    {
-      "id": "4a49cf815f6d44ad",
-      "title": "Americans are 'entrenched' in financial stress amid debt and price pressures",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-05-24T15:00:01.000Z",
-      "priority": "normal",
-      "summary": "Inflation and high debt levels continue cause financial anxiety for many Americans. Nonprofits can help with debt mangement.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/05/24/americans-struggling-with-debt-inflation.html"
-    },
-    {
-      "id": "02da75fb0c0e2522",
-      "title": "I tried Amazon&#8217;s Bee wearable and am both intrigued and slightly creeped out",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-24T15:00:00.000Z",
-      "priority": "high",
-      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"
-    },
-    {
-      "id": "4e114e19a5249f9c",
-      "title": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-05-24T15:00:00.000Z",
-      "priority": "high",
-      "summary": "If you’re looking for a laptop that’ll still perform well several years from now, Apple’s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as ",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale"
-    },
-    {
-      "id": "e45b9c4c816fb39d",
-      "title": "Boosting retirement savings has a less-appreciated benefit",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-05-24T13:30:01.000Z",
-      "priority": "normal",
-      "summary": "Saving more money has a dual benefit that often goes unnoticed, according to financial advisors.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/05/24/retirement-savings-contributions.html"
-    },
-    {
-      "id": "616e6e02f04c41a1",
-      "title": "The Dreamie alarm clock got me to stop using my phone in bed",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-24T13:00:00.000Z",
-      "priority": "normal",
-      "summary": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/"
-    },
-    {
-      "id": "cc09eb87a07d29fb",
-      "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-05-24T12:00:00.000Z",
-      "priority": "high",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscriber",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots"
-    },
-    {
-      "id": "267fa091e757b8ac",
-      "title": "Whatever the mirror test tells us, beluga whales pass it",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-24T11:15:38.000Z",
-      "priority": "normal",
-      "summary": "The white whales join the short, contested list of animals that see themselves.",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/"
-    },
-    {
-      "id": "aae4212408bf0384",
-      "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-05-24T11:00:00.000Z",
-      "priority": "normal",
-      "summary": "Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Z",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo"
-    },
-    {
-      "id": "69c0786245b55696",
-      "title": "SolarSquare in talks to raise up to $60M as India&#8217;s rooftop solar market draws major VC interest",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-23T20:03:13.000Z",
-      "priority": "high",
-      "summary": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件",
-        "市场"
-      ],
-      "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/"
-    },
-    {
-      "id": "0dd6a1754172cb38",
-      "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-23T17:54:54.000Z",
-      "priority": "normal",
-      "summary": "SpaceX has more to prove before flying Starship all the way to low-Earth orbit.",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/"
-    },
-    {
-      "id": "0e975b56b64c189b",
-      "title": "How Settlement Amounts Vary in Motorcycle Accident Cases",
-      "category": "automation",
-      "region": "global",
-      "source": "Robotics & Automation News",
-      "publishedAt": "2026-05-23T17:08:02.000Z",
-      "priority": "normal",
-      "summary": "California’s roads are known for their constant movement, from crowded urban freeways in Los Angeles to winding coastal highways traveled by commuters, tourists, and motorcycle ent",
-      "tags": [
-        "机器人",
-        "自动化"
-      ],
-      "url": "https://roboticsandautomationnews.com/2026/05/23/how-settlement-amounts-vary-in-motorcycle-accident-cases/101847/"
-    },
-    {
-      "id": "ac93a071d6743423",
-      "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-23T11:30:35.000Z",
-      "priority": "normal",
-      "summary": "\"Two astronauts whose careers embody excellence, leadership, and service.\"",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/"
-    },
-    {
-      "id": "317607c2aefa2267",
-      "title": "China’s shark finning could lead to US seafood sanctions",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-23T11:00:25.000Z",
-      "priority": "normal",
-      "summary": "A formal petition to the US government calls for sanctions on Chinese seafood imports.",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/"
-    },
-    {
-      "id": "262746984e25c816",
-      "title": "Musk praises &#8220;epic&#8221; Super Heavy-Starship launch",
-      "category": "aerospace",
-      "region": "global",
-      "source": "Spaceflight Now",
-      "publishedAt": "2026-05-23T02:47:56.000Z",
-      "priority": "high",
-      "summary": "The Starship upper stage was equipped with six third-generation Raptor engines and one of three optimized for operating in vacuum shut down early during the climb to space. The fli",
-      "tags": [
-        "火箭",
-        "发射",
-        "航天",
-        "AI"
-      ],
-      "url": "https://spaceflightnow.com/2026/05/23/musk-praises-epic-super-heavy-starship-launch/"
-    },
-    {
-      "id": "6d40d44d20a8022e",
-      "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-22T22:50:23.000Z",
-      "priority": "high",
-      "summary": "\"This capability is not common for satellites conducting typical missions.\"",
-      "tags": [
-        "计算机",
-        "科技",
-        "卫星"
-      ],
-      "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/"
-    },
-    {
-      "id": "17bf198d00f73198",
-      "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\"",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-22T22:24:03.000Z",
-      "priority": "normal",
-      "summary": "Ebola outbreak risk level increased as deaths reach 177 with nearly 750 cases.",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/"
-    },
-    {
-      "id": "643c563da45e0e67",
-      "title": "First-generation Chromecast users stressed by devices suddenly failing",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-22T21:42:59.000Z",
-      "priority": "high",
-      "summary": "Google tells Ars it fixed the first-gen Chromecast bug.",
-      "tags": [
-        "计算机",
-        "科技",
-        "AI"
-      ],
-      "url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/"
-    },
-    {
-      "id": "9d1be7cd10aaafdd",
-      "title": "U.S. Quantum Bet Puts Hardware First, But Utility Remains the Test",
-      "category": "electronics",
-      "region": "global",
-      "source": "EE Times",
-      "publishedAt": "2026-05-22T21:26:13.000Z",
-      "priority": "high",
-      "summary": "A $2 billion CHIPS Act package backs quantum hardware across major modalities, underscoring Washington’s view of quantum computing as strategic infrastructure. The harder task is t",
-      "tags": [
-        "芯片",
-        "电子工程",
-        "AI"
-      ],
-      "url": "https://www.eetimes.com/u-s-quantum-bet-puts-hardware-first-but-utility-remains-the-test/"
-    },
-    {
-      "id": "3c0f5b58152b238c",
-      "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-22T21:10:46.000Z",
-      "priority": "normal",
-      "summary": "FCC seeks opinions on whether ABC show's decisions are \"based on newsworthiness.\"",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/"
-    },
-    {
-      "id": "91b8057135c5decc",
-      "title": "All-female Senate delegation sets off for High North amid growing military tensions",
-      "category": "security",
-      "region": "global",
-      "source": "Defense News Global",
-      "publishedAt": "2026-05-22T20:24:36.000Z",
-      "priority": "normal",
-      "summary": "The itinerary is set to include briefings at Pituffik Space Base in Greenland on Arctic defense and strategic competition in the region.",
-      "tags": [
-        "防务",
-        "战争安全"
-      ],
-      "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/22/all-female-senate-delegation-sets-off-for-high-north-amid-growing-military-tensions/"
-    },
-    {
-      "id": "89a8852b20444610",
-      "title": "Rubio ratchets up pressure on NATO at key summit",
-      "category": "security",
-      "region": "global",
-      "source": "Defense News Global",
-      "publishedAt": "2026-05-22T20:15:15.000Z",
-      "priority": "normal",
-      "summary": "Secretary of State Marco Rubio is casting new doubt on NATO's relevance after key allies recoiled from backing Washington’s “Operation Epic Fury.”",
-      "tags": [
-        "防务",
-        "战争安全"
-      ],
-      "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/22/rubio-ratchets-up-pressure-on-nato-at-key-summit/"
-    },
-    {
-      "id": "88d8778ef348d1a0",
-      "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-22T19:39:04.000Z",
-      "priority": "normal",
-      "summary": "Workaround flouts law that bans NTSB disclosures of cockpit audio recordings.",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/"
-    },
-    {
-      "id": "acc925c2bae3a8ce",
-      "title": "Congressional report tallies 42 US aircraft lost or damaged in Operation Epic Fury",
-      "category": "security",
-      "region": "global",
-      "source": "Defense News Global",
-      "publishedAt": "2026-05-22T17:49:18.000Z",
-      "priority": "high",
-      "summary": "Drones took the heaviest hit, accounting for 25 of the 42 aircraft losses listed in the report.",
-      "tags": [
-        "防务",
-        "战争安全",
-        "AI",
-        "无人系统"
-      ],
-      "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/"
-    },
-    {
-      "id": "531683f54d054d06",
-      "title": "Kawasaki launches Silicon Valley hub to accelerate deployment of physical AI",
-      "category": "automation",
-      "region": "global",
-      "source": "Robotics & Automation News",
-      "publishedAt": "2026-05-22T16:35:32.000Z",
-      "priority": "high",
-      "summary": "Kawasaki Heavy Industries has launched a new physical AI development center in Silicon Valley as part of a broader push to accelerate collaboration between Japanese and American co",
-      "tags": [
-        "机器人",
-        "自动化",
-        "AI",
-        "火箭"
-      ],
-      "url": "https://roboticsandautomationnews.com/2026/05/22/kawasaki-launches-silicon-valley-hub-to-accelerate-deployment-of-physical-ai/101844/"
-    },
-    {
-      "id": "a532a2561a85dcba",
-      "title": "Stellantis expands Qualcomm partnership for AI-powered vehicle platforms",
-      "category": "automation",
-      "region": "global",
-      "source": "Robotics & Automation News",
-      "publishedAt": "2026-05-22T16:25:45.000Z",
-      "priority": "high",
-      "summary": "Stellantis and Qualcomm Technologies have announced an expansion of their multi-year technology collaboration to power next-generation Stellantis vehicles with Qualcomm Technologie",
-      "tags": [
-        "机器人",
-        "自动化",
-        "AI"
-      ],
-      "url": "https://roboticsandautomationnews.com/2026/05/22/stellantis-expands-qualcomm-partnership-for-ai-powered-vehicle-platforms/101840/"
-    },
-    {
-      "id": "fbe5e286d29c6640",
-      "title": "ESA’s Prodex programme brings scientific research to space",
-      "category": "aerospace",
-      "region": "global",
-      "source": "ESA Space News",
-      "publishedAt": "2026-05-22T16:10:00.000Z",
-      "priority": "high",
-      "summary": "The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency (ESA) programme which enables highly skilled research instit",
-      "tags": [
-        "ESA",
-        "航天",
-        "火箭"
-      ],
-      "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space"
-    },
-    {
-      "id": "5d9b7c13c4627128",
-      "title": "ESA at GLOBSEC 2026",
-      "category": "aerospace",
-      "region": "global",
-      "source": "ESA Space News",
-      "publishedAt": "2026-05-22T15:36:00.000Z",
-      "priority": "normal",
-      "summary": "ESA Director General Josef Aschbacher participated in the 21st edition of the GLOBSEC Forum, held from 21 to 23 May in Prague, Czechia, under the theme ‘The Global Systemic Transfo",
-      "tags": [
-        "ESA",
-        "航天"
-      ],
-      "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_GLOBSEC_2026"
     }
   ]
 }
