@@ -1,54 +1,666 @@
 {
-  "updatedAt": "2026-09-12T03:23:20.163Z",
+  "updatedAt": "2026-09-13T03:29:07.462Z",
   "items": [
     {
-      "id": "e56c84fb710d9e35",
-      "title": "算力服务加速涌现 成为今年服贸会亮点",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-12T03:04:34.000Z",
+      "id": "014b0fffb81552b3",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-12T23:25:38.000Z",
       "priority": "high",
-      "summary": "2026年中国国际服务贸易交易会，正在北京首钢园进行。在今年的服贸会现场，围绕人工智能技术的升级迭代，相关的算力服务加速涌现，成为今年服贸会的一大亮点，也在打开服务贸易发展的新空间。",
+      "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
       "tags": [
-        "国内金融",
-        "经济",
-        "AI"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695144.shtml"
-    },
-    {
-      "id": "6b72892c438d8fae",
-      "title": "服贸会探新：生活里的这些难题，AI帮你来解决！",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-12T02:51:22.000Z",
-      "priority": "high",
-      "summary": "央广网北京9月12日消息(记者胡波 牛萌)据中央广播电视总台经济之声报道，购物时，纠结选择哪款产品；看中一款家具却不知放到家里的效果如何；家中失能老人常年卧床，翻身困难，需要帮助……在日常生活中，遇到这些困难，AI都能帮你解决。在2026年服贸会上，生活服务领域的AI应用创新案例随处可见。",
-      "tags": [
-        "国内金融",
-        "经济",
-        "AI"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695141.shtml"
-    },
-    {
-      "id": "0d95031794736991",
-      "title": "AI时代科技投资：从普涨到分化，资产怎么配？",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-12T02:50:18.000Z",
-      "priority": "high",
-      "summary": "央广网北京9月12日消息(记者郑国华)据中央广播电视总台经济之声报道，今年9月，科技赛道受到资金持续关注，相关金融产品密集推出。9月4日，首批8只创业板算力基础设施ETF集中开售，其中一只当日即宣告结束募集；9月9日，6只科技创新公司债券集中发行。",
-      "tags": [
-        "国内金融",
-        "经济",
+        "创业",
         "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
+    },
+    {
+      "id": "62b57998d2cfbfc0",
+      "title": "新大众文艺，如何走进“猜你喜欢”",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-12T23:24:48.000Z",
+      "priority": "normal",
+      "summary": "算法推荐、观众反馈与创作者的选择，共同参与作品传播",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695510.shtml"
+    },
+    {
+      "id": "6330808811ea0b69",
+      "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-12T23:20:43.000Z",
+      "priority": "high",
+      "summary": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html"
+    },
+    {
+      "id": "1b07ac5d0218bb06",
+      "title": "明星扎堆“入职”景区NPC，如何跳出短期引流噱头？",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-12T22:44:07.000Z",
+      "priority": "normal",
+      "summary": "表演功底深厚、满足游客“追星打卡”需求，但成本更高，热度周期有限",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695507.shtml"
+    },
+    {
+      "id": "58e45bfd8e53af18",
+      "title": "Why OpenAI&#x2019;s Sam Altman says an IPO isn&#x2019;t in the cards this year",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-12T21:50:00.000Z",
+      "priority": "high",
+      "summary": "Concerns about AI safety have ramped up, and OpenAI&#x2019;s CEO says now would be an &#x2018;ill-advised&#x2019; time for the ChatGPT creator to go public",
+      "tags": [
+        "市场",
+        "投资",
+        "AI"
+      ],
+      "url": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories"
+    },
+    {
+      "id": "4022c7a7f9b57883",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-12T21:41:36.000Z",
+      "priority": "high",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI a",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack"
+    },
+    {
+      "id": "fe9d508504e55624",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-12T21:16:28.000Z",
+      "priority": "high",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects in",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
+    },
+    {
+      "id": "e82b8a9af4fda703",
+      "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-12T20:19:16.000Z",
+      "priority": "high",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+    },
+    {
+      "id": "92390331b970ee93",
+      "title": "StarCraft returns in 2030 as an open-world shooter",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-12T20:08:09.000Z",
+      "priority": "normal",
+      "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard pr",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件"
+      ],
+      "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter"
+    },
+    {
+      "id": "7658eb64cf663b96",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-12T19:34:44.000Z",
+      "priority": "high",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+    },
+    {
+      "id": "94903067997a1428",
+      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-12T19:21:19.000Z",
+      "priority": "normal",
+      "summary": "Tesla’s halo sports car was first announced in November 2017.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/"
+    },
+    {
+      "id": "0cf785a6a48ec384",
+      "title": "Elon Musk backs Anthropic&#x2019;s call to slow down AI progress before rogue bots take over the entire internet",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-12T17:20:00.000Z",
+      "priority": "high",
+      "summary": "Leaders of major AI companies say they agree with Anthropic CEO Dario Amodei, who just called for the tech industry to move more slowly with model development.",
+      "tags": [
+        "市场",
+        "投资",
+        "AI"
+      ],
+      "url": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories"
+    },
+    {
+      "id": "17f0f87ae2012345",
+      "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-12T17:14:56.000Z",
+      "priority": "high",
+      "summary": "Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company.",
+      "tags": [
+        "金融",
         "市场"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695140.shtml"
+      "url": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html"
+    },
+    {
+      "id": "7f7116b99e251d18",
+      "title": "当物流装上“AI引擎” 如何跑出新速度？",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-12T17:03:56.000Z",
+      "priority": "high",
+      "summary": "网上下单、家门口收快递，早已融入普通人的日常生活。但亿万件包裹如何实现高效流转、精准投递？在服贸会上，记者发现，人工智能正在改变传统物流的运行逻辑。",
+      "tags": [
+        "国内金融",
+        "经济",
+        "AI"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml"
+    },
+    {
+      "id": "8dd40ffbc774cb6e",
+      "title": "Sylvan Esso think you should splurge on good-quality yogurt",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-12T16:35:00.000Z",
+      "priority": "normal",
+      "summary": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled de",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件"
+      ],
+      "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music"
+    },
+    {
+      "id": "63c0cf89a6d3bd7f",
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-12T16:23:40.000Z",
+      "priority": "high",
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to s",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development"
+    },
+    {
+      "id": "953f199b649ec075",
+      "title": "&#x2018;I still don&#x2019;t have my MRI&#x2019;: My health insurer canceled my plan without warning. Is that legal?",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-12T16:01:00.000Z",
+      "priority": "high",
+      "summary": "&#x201c;It wasn&#x2019;t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.&#x201d;",
+      "tags": [
+        "市场",
+        "投资"
+      ],
+      "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories"
+    },
+    {
+      "id": "c4e81d044113c8d1",
+      "title": "LG responds to TV spying allegations",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-12T15:19:44.000Z",
+      "priority": "high",
+      "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. N",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations"
+    },
+    {
+      "id": "839a79bf43a5c27a",
+      "title": "&#x2018;I&#x2019;m the executor&#x2019;: My two siblings and I inherited an IRA. Can we just cash it out?",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-12T15:00:00.000Z",
+      "priority": "normal",
+      "summary": "&#x201c;Am I required to create three new inherited IRAs so that the firm can divide it equally?&#x201d;",
+      "tags": [
+        "市场",
+        "投资"
+      ],
+      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories"
+    },
+    {
+      "id": "9e2152d865f077ae",
+      "title": "Trump is giving data centers a pass to pollute",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-12T14:41:27.000Z",
+      "priority": "high",
+      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former ",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa"
+    },
+    {
+      "id": "07e30d1ae0c54331",
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-12T14:40:00.000Z",
+      "priority": "high",
+      "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
+    },
+    {
+      "id": "517143334eb2d185",
+      "title": "第48届世界技能大赛将在上海启幕 创多项历届之最",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-12T14:28:24.000Z",
+      "priority": "normal",
+      "summary": "中新社上海9月12日电 (范宇斌)距离9月22日启幕的第48届世界技能大赛(简称“世赛”)仅剩10天，各项筹备工作已进入收官冲刺阶段。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695482.shtml"
+    },
+    {
+      "id": "6d3a7e252ac47aa6",
+      "title": "My 87-year-old mother wants to pay for my brother&#x2019;s kids&#x2019; education. I don&#x2019;t have children. How is that fair?",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-12T14:01:00.000Z",
+      "priority": "high",
+      "summary": "&#x201c;Over the years, my mother and I have supplemented his income.&#x201d;",
+      "tags": [
+        "市场",
+        "投资",
+        "AI"
+      ],
+      "url": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories"
+    },
+    {
+      "id": "6a588a7514813f38",
+      "title": "Trump's America-first world is pushing other powers to hedge their bets",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-12T13:24:33.000Z",
+      "priority": "high",
+      "summary": "Xi, Putin and Modi meet in New Delhi as U.S. tariffs, sanctions and the Iran war test whether BRICS members can find more common ground.",
+      "tags": [
+        "金融",
+        "市场"
+      ],
+      "url": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html"
+    },
+    {
+      "id": "1ceca4c87a4763cb",
+      "title": "多国好物跨越疆界 服贸会联通中外互惠共享",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-12T13:22:14.000Z",
+      "priority": "normal",
+      "summary": "中新社北京9月12日电 (记者 周兆军 陈杭)埃塞俄比亚咖啡、斯里兰卡红茶、叙利亚阿勒颇古皂……正在北京举行的2026年中国国际服务贸易交易会上，第十一届“炫彩世界”文化展示交流活动集中展示环球风物，将不同国家的风味、工艺与文化带到前来参观的各国观众身边。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695445.shtml"
+    },
+    {
+      "id": "f3527d7476b7f251",
+      "title": "Buffett's confidence in troubled decade-old acquisition finally pays off",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-12T13:20:04.000Z",
+      "priority": "high",
+      "summary": "Warren Buffett has said he paid too much for Precision Castparts in 2016. Now its complex metal castings are in high demand.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/09/12/buffetts-confidence-in-troubled-decade-old-acquisition-finally-pays-off.html"
+    },
+    {
+      "id": "a52e4592ea4a551e",
+      "title": "广西首个“用机器人造机器人”工厂投产",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-12T13:19:28.000Z",
+      "priority": "normal",
+      "summary": "中新社广西柳州9月12日电 (林馨)柳州优必选工业人形机器人超级智慧工厂投产仪式12日在广西柳州市举行。该项目依托工业仿真系统智能规划、数字化“智慧大脑”全域调度，成为广西首个实现“用机器人造机器人”闭环的智造工厂。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695446.shtml"
+    },
+    {
+      "id": "bbd42f914b591c41",
+      "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-12T13:15:04.000Z",
+      "priority": "high",
+      "summary": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html"
+    },
+    {
+      "id": "25360a18e2ef8992",
+      "title": "服贸会期间多项法商服务成果在北京发布",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-12T13:15:02.000Z",
+      "priority": "normal",
+      "summary": "中新网北京9月12日电 (记者 陈杭)2026年中国国际服务贸易交易会期间，第一届“一带一路”法商服务保障发布会11日在北京举办，集中发布《全球数据跨境流动治理实践》等法商服务成果。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695450.shtml"
+    },
+    {
+      "id": "cd6ea1135c036169",
+      "title": "服贸会期间北京石景山具身智能训练中心升级亮相",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-12T13:14:10.000Z",
+      "priority": "normal",
+      "summary": "中新网北京9月12日电 (记者 陈杭)记者12日从北京市石景山区获悉，2026年服贸会期间，北京市石景山区人形机器人数据训练中心一期正式升级，以石景山具身智能训练中心的全新身份亮相。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695436.shtml"
+    },
+    {
+      "id": "5f2959125ab93868",
+      "title": "（乡村行·看振兴）黑龙江勃利：近20万亩红松丰收 小松塔成“致富果”",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-12T13:14:04.000Z",
+      "priority": "normal",
+      "summary": "中新网七台河9月12日电 题：黑龙江勃利：近20万亩红松丰收 小松塔成“致富果”",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695456.shtml"
+    },
+    {
+      "id": "dd3f91ba6f078b16",
+      "title": "粤桂协作消费帮扶系列推介展示活动在广州启动",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-12T13:09:39.000Z",
+      "priority": "normal",
+      "summary": "中新网广州9月12日电 (记者 程景伟)由广东省农业农村厅、广东省委网信办、粤桂协作工作队主办的粤桂协作消费帮扶系列推介展示活动启动仪式，12日在位于广州的广东区域协作消费帮扶产品交易中心举行。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695471.shtml"
+    },
+    {
+      "id": "e52f502fe4135a06",
+      "title": "11块巨型“积木”精准拼装 狮子洋通道迎新进展",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-12T13:08:47.000Z",
+      "priority": "normal",
+      "summary": "中新网广州9月12日电 (记者 蔡敏婕)粤港澳大湾区核心枢纽工程——狮子洋通道跨西樵水道钢桁梁桥12日完成11个节段拼装，实现精准合龙。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695451.shtml"
+    },
+    {
+      "id": "0c45c7857136da50",
+      "title": "多国官员呼吁推动构建全球旅游安全治理新格局",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-12T13:08:25.000Z",
+      "priority": "normal",
+      "summary": "中新网三亚9月12日电 (张月和)全球公共安全合作论坛(连云港)2026年大会旅游安全分论坛12日在海南三亚开幕。与会官员聚焦旅游警务、执法合作、跨境旅游风险防范等，共商旅游安全局势对策，呼吁共建旅游安全合作网络，共享旅游安全发展成果，深入推动务实高效的全球旅游安全合作，推动构建全球旅游安全治理新格局。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695449.shtml"
+    },
+    {
+      "id": "96373668176f827d",
+      "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-12T13:00:00.000Z",
+      "priority": "high",
+      "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some ",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian"
+    },
+    {
+      "id": "963ce2fa01deccf7",
+      "title": "I want to pay for every customer at my late husband&#x2019;s favorite restaurant on his birthday. Could this backfire?",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-12T13:00:00.000Z",
+      "priority": "normal",
+      "summary": "&#x201c;I&#x2019;m concerned that my card issuers might freeze or flag the cards when they suddenly see an extraordinary number of transactions.&#x201d;",
+      "tags": [
+        "市场",
+        "投资"
+      ],
+      "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories"
+    },
+    {
+      "id": "72d094022dd923ae",
+      "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-12T12:49:15.000Z",
+      "priority": "high",
+      "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html"
+    },
+    {
+      "id": "0b1a75cb44aaa390",
+      "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-12T12:40:05.000Z",
+      "priority": "normal",
+      "summary": "The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May.",
+      "tags": [
+        "金融",
+        "市场"
+      ],
+      "url": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html"
+    },
+    {
+      "id": "6e0d1eb1740e0675",
+      "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-12T12:00:01.000Z",
+      "priority": "high",
+      "summary": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html"
+    },
+    {
+      "id": "6ee7edd929a91c0f",
+      "title": "Where to preorder the iPhone 18 Pro and Pro Max",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-12T12:00:00.000Z",
+      "priority": "normal",
+      "summary": "The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件"
+      ],
+      "url": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy"
+    },
+    {
+      "id": "55f9974596857bc2",
+      "title": "I spent $4,000 on a robot dog from China",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-12T11:00:53.000Z",
+      "priority": "normal",
+      "summary": "Unitree might be the world’s most important robotics company.",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/"
+    },
+    {
+      "id": "43166de57ac1e67a",
+      "title": "OpenAI just wants to win",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-12T11:00:00.000Z",
+      "priority": "high",
+      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a le",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition"
     },
     {
       "id": "5693dda069733096",
@@ -65,37 +677,6 @@
         "AI"
       ],
       "url": "https://www.eetimes.com/inside-architect-labs-two-week-chip-design/"
-    },
-    {
-      "id": "4db893dcb302b290",
-      "title": "地中海航运“信天翁”航线首航广州南沙港",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-12T01:52:18.000Z",
-      "priority": "normal",
-      "summary": "中新网广州9月12日电 (郭军 陈秀慧 黄大贤)9月10日，“地中海约瑟菲娜”轮(MSC JOSEFINA)在拖轮协助下，平稳驶离广州港南沙三期码头，标志着地中海航运(MSC)旗下核心亚欧干线——“信天翁”(Albatros)航线成功首航广州南沙港。该航线将为广州南沙港远洋干线布局注入全新动能，也为粤港澳大湾区及周边腹地外贸企业打通了一条直达欧洲核心港口的高",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695124.shtml"
-    },
-    {
-      "id": "5feafc4c1ee232a6",
-      "title": "AI加速赋能浙江宁波制造业 业界推出“陪跑”计划",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-12T01:36:34.000Z",
-      "priority": "high",
-      "summary": "中新网宁波9月12日电 (张斌)每8支笔只需1.4秒即可完成15类缺陷检测，产品不良率从3.2%降至0.5%，质检效率较以往提升42倍……在浙江宁波的文具生产企业，AI视觉笔检系统正在延伸效率的边界。这折射AI加速赋能当地制造业的生动图景。",
-      "tags": [
-        "国内金融",
-        "经济",
-        "AI"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695123.shtml"
     },
     {
       "id": "4ddd84a82b45e55b",
@@ -131,6 +712,21 @@
       "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/"
     },
     {
+      "id": "385b983c7f9cae38",
+      "title": "Cramer: This market has eerie parallels with 2018. Here's what investors should do",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-11T23:09:35.000Z",
+      "priority": "high",
+      "summary": "CNBC's Jim Cramer sees parallels between today’s market and the fall of 2018, when rising rates and geopolitical tensions preceded a 20% S&P 500 sell-off.",
+      "tags": [
+        "金融",
+        "市场"
+      ],
+      "url": "https://www.cnbc.com/2026/09/11/cramer-market-eerie-parallels-2018-what-it-means-for-investors.html"
+    },
+    {
       "id": "fad5f970d0508fcb",
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "category": "computing",
@@ -160,22 +756,6 @@
         "市场"
       ],
       "url": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html"
-    },
-    {
-      "id": "63ef2f6bb29ad74f",
-      "title": "Cramer’s week ahead: Falling oil could help stocks but Fed is the next big test",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-11T22:35:09.000Z",
-      "priority": "high",
-      "summary": "CNBC’s Jim Cramer said falling oil prices helped fuel Friday’s rebound, but warned next week’s Federal Reserve meeting will be the next test for stocks.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html"
     },
     {
       "id": "2ce98fe646139120",
@@ -239,22 +819,6 @@
         "AI"
       ],
       "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/"
-    },
-    {
-      "id": "a5fd00758f210673",
-      "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-11T21:35:14.000Z",
-      "priority": "high",
-      "summary": "Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.",
-      "tags": [
-        "金融",
-        "市场",
-        "无人系统"
-      ],
-      "url": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html"
     },
     {
       "id": "cde9010a3bb0514c",
@@ -352,21 +916,6 @@
       "url": "https://www.eetimes.com/fabships-aim-to-exploit-free-space-vacuum-for-compound-semiconductor-substrates/"
     },
     {
-      "id": "839a79bf43a5c27a",
-      "title": "&#x2018;I&#x2019;m the executor&#x2019;: My two siblings and I inherited an IRA. Can we just cash it out?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-11T21:00:00.000Z",
-      "priority": "normal",
-      "summary": "&#x201c;Am I required to create three new inherited IRAs so that the firm can divide it equally?&#x201d;",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories"
-    },
-    {
       "id": "2619d8ade240d7f3",
       "title": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
       "category": "computing",
@@ -430,71 +979,6 @@
       "url": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories"
     },
     {
-      "id": "63b479cff8df8f4c",
-      "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-11T20:48:19.000Z",
-      "priority": "high",
-      "summary": "Dell sold about $16.4 billion of AI servers in its second quarter, RBC said.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html"
-    },
-    {
-      "id": "44463df5c5020cf5",
-      "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-11T20:45:00.000Z",
-      "priority": "high",
-      "summary": "&#x201c;Several of Oracle&#x2019;s bear cases were addressed head on&#x201d; in the latest earnings report, according to an analyst.",
-      "tags": [
-        "市场",
-        "投资",
-        "AI"
-      ],
-      "url": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories"
-    },
-    {
-      "id": "eb3fa8e523801d75",
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-11T20:44:02.000Z",
-      "priority": "high",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a rep",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal"
-    },
-    {
-      "id": "601510ff2d83d302",
-      "title": "Salesforce&#x2019;s stock has been riding a wave of AI optimism. Here&#x2019;s what Wall Street wants to see next.",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-11T20:44:00.000Z",
-      "priority": "high",
-      "summary": "Salesforce&#x2019;s Dreamforce conference next week could offer a glimpse of how its recently announced Claudeforce partnership with Anthropic will play out.",
-      "tags": [
-        "市场",
-        "投资",
-        "AI"
-      ],
-      "url": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories"
-    },
-    {
       "id": "c9bc20e4988dc9cd",
       "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
       "category": "computing",
@@ -542,36 +1026,6 @@
       "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/"
     },
     {
-      "id": "7213da191b5b149b",
-      "title": "I&#x2019;m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-11T20:30:00.000Z",
-      "priority": "normal",
-      "summary": "&#x201c;I expect to receive at least $9,000 per month before federal and California state taxes.&#x201d;",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories"
-    },
-    {
-      "id": "a1a693c09ef52d22",
-      "title": "Why Dell and HPE were the S&P 500&#x2019;s top-performing stocks today",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-11T20:30:00.000Z",
-      "priority": "high",
-      "summary": "Oracle&#x2019;s earnings provided an upbeat read for hardware suppliers &#x2014; but the Fed&#x2019;s interest-rate moves could dictate just how much they continue benefitting.",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories"
-    },
-    {
       "id": "145b9fdb0deff157",
       "title": "Dan Chung rebuilt a decimated Alger Management after 9/11. He's still finding the market's winners",
       "category": "finance",
@@ -601,36 +1055,6 @@
         "AI"
       ],
       "url": "https://semiengineering.com/hw-information-flow-tracking-for-pre-silicon-security-testing-princeton-mit-epfl/"
-    },
-    {
-      "id": "f0786b00733af145",
-      "title": "Your Social Security COLA could go up another $71 a month in 2027. That&#x2019;s not necessarily good news.",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-11T20:08:00.000Z",
-      "priority": "normal",
-      "summary": "A higher COLA is a sign that persistent inflation isn&#x2019;t going anywhere.",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories"
-    },
-    {
-      "id": "0d444d4e751e1cb5",
-      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-11T19:48:09.000Z",
-      "priority": "normal",
-      "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invi",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/"
     },
     {
       "id": "83e605502ca51c89",
@@ -665,38 +1089,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/"
     },
     {
-      "id": "e6be10aaed13329c",
-      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-11T19:00:00.000Z",
-      "priority": "high",
-      "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make g",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/"
-    },
-    {
-      "id": "e1545db42b16d9fa",
-      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-11T18:58:01.000Z",
-      "priority": "high",
-      "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Batt",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/"
-    },
-    {
       "id": "96e9022e79416eae",
       "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
       "category": "computing",
@@ -728,21 +1120,6 @@
       "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/"
     },
     {
-      "id": "040ceee4968d8c51",
-      "title": "Social Security COLA for 2027 may be 3.5% to 3.6%, new estimates show — the highest in 3 years",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-11T18:07:21.000Z",
-      "priority": "normal",
-      "summary": "New government inflation data points to a higher Social Security cost-of-living adjustment for 2027. Here's what experts estimate the change may be.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/09/11/social-security-cola-2027-estimate.html"
-    },
-    {
       "id": "d1671fc9fd90f0b2",
       "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
       "category": "electronics",
@@ -756,85 +1133,6 @@
         "工程"
       ],
       "url": "https://spectrum.ieee.org/ieee-to-reward-sections"
-    },
-    {
-      "id": "0a6735592c496bbb",
-      "title": "NASA&#8217;s Chandra Spots Galactic Gem",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-11T17:19:47.000Z",
-      "priority": "normal",
-      "summary": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies we",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/"
-    },
-    {
-      "id": "0a00ea86dc7f105e",
-      "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-11T17:16:59.000Z",
-      "priority": "high",
-      "summary": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. WordPress ",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return"
-    },
-    {
-      "id": "e954e0d6f3ab3986",
-      "title": "Here’s the inflation breakdown for August 2026 — in one chart",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-11T17:14:27.000Z",
-      "priority": "high",
-      "summary": "Inflation remained stubbornly high in August, largely on the back of higher energy prices amid the Iran war, economists said.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html"
-    },
-    {
-      "id": "f8a82eb90fbbe18e",
-      "title": "Election officials ban certain public workers from trading on prediction markets ahead of midterms",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-11T17:00:48.000Z",
-      "priority": "high",
-      "summary": "Ahead of the midterms, election officials ban certain workers from using prediction markets to reassure the public they are committed to election integrity.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/09/11/election-officials-ban-employees-from-prediction-markets.html"
-    },
-    {
-      "id": "8c6aac75da240dc0",
-      "title": "I went to Caracas for Venezuela’s new oil deals. Here’s what stood out",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-11T16:59:05.000Z",
-      "priority": "normal",
-      "summary": "CNBC was one of just a handful of news organizations allowed to travel to Caracas with the U.S. secretary of energy.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/09/11/the-inside-story-on-the-historic-us-venezuela-oil-deal-and-how-it-will-work.html"
     },
     {
       "id": "c8dbca67033d4ab4",
@@ -853,22 +1151,6 @@
       "url": "https://www.solidot.org/story?sid=85357"
     },
     {
-      "id": "b8f06fc0f83627df",
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-11T16:46:25.000Z",
-      "priority": "high",
-      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"
-    },
-    {
       "id": "0ad953f9c593e76a",
       "title": "Saudi crown prince sought US military help with Houthis, sources say",
       "category": "security",
@@ -884,56 +1166,6 @@
       "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/11/saudi-crown-prince-sought-us-military-help-with-houthis-sources-say/"
     },
     {
-      "id": "049d405d285fc72d",
-      "title": "Bonds are going on tilt. How to play them, says Mike Khouw",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-11T16:26:14.000Z",
-      "priority": "high",
-      "summary": "Warren Buffett once said interest rates are to asset prices what gravity is to matter. If the options market is correct, things could get heavy, says Mike Khouw.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/09/11/bonds-are-going-on-tilt-how-to-play-them-says-mike-khouw.html"
-    },
-    {
-      "id": "04399cd0c7270f2b",
-      "title": "We unfolded the iPhone Duo",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-11T16:22:24.000Z",
-      "priority": "high",
-      "summary": "You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast t",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms"
-    },
-    {
-      "id": "807d17a05b699239",
-      "title": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-11T16:21:19.000Z",
-      "priority": "high",
-      "summary": "The White House claims the Donald Trump-owned Truth Social is the \"most powerful and popular social media platform in the world.\" The statement, provided to The New York Times by W",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful"
-    },
-    {
       "id": "af40d725e2ce705d",
       "title": "NASA moving at warp speed to set up US Space Academy",
       "category": "computing",
@@ -947,55 +1179,6 @@
         "科技"
       ],
       "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/"
-    },
-    {
-      "id": "c18234270271e78e",
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-11T16:09:14.000Z",
-      "priority": "high",
-      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attac",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity"
-    },
-    {
-      "id": "b1c3ef60a7d94968",
-      "title": "Microsoft’s head of comms is leaving after almost 20 years",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-11T16:01:34.000Z",
-      "priority": "normal",
-      "summary": "Frank Shaw is leaving Microsoft after 17 years as chief communications officer. In an internal note to his team, Shaw says he's \"decided it is time for me to move on and try new th",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms"
-    },
-    {
-      "id": "419def7ceab9786c",
-      "title": "Meta may have leaked the first look at its slim &#8216;Project Phoenix&#8217; headset",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-11T15:38:31.000Z",
-      "priority": "normal",
-      "summary": "Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's \"Project Phoenix\" headset. The images, which U",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak"
     },
     {
       "id": "6bf674de35ddcc56",
@@ -1015,24 +1198,6 @@
       "url": "https://www.solidot.org/story?sid=85356"
     },
     {
-      "id": "f4742f30da76316c",
-      "title": "Where to preorder the Apple AirPods 5",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-11T15:31:00.000Z",
-      "priority": "high",
-      "summary": "The Apple AirPods 5 are bringing active noise cancellation to the masses, and they're now available for preorder at a variety of retailers. They'll officially launch on September 1",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI",
-        "火箭"
-      ],
-      "url": "https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy"
-    },
-    {
       "id": "6b5104f4aeac5eea",
       "title": "Polish prime minister: Poland to develop its own Starlink",
       "category": "security",
@@ -1048,38 +1213,6 @@
         "火箭"
       ],
       "url": "https://www.defensenews.com/global/europe/2026/09/11/polish-prime-minister-poland-to-develop-its-own-starlink/"
-    },
-    {
-      "id": "a7478d391b78dac4",
-      "title": "百公里11.5度电！2030年新能源汽车什么样？",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-11T15:21:17.000Z",
-      "priority": "normal",
-      "summary": "工业和信息化部等九部门今天(11日)发布了《智能网联新能源汽车产业发展“十五五”规划》。规划中提到“纯电动乘用车平均电能消耗量达到每百公里11.5千瓦时左右”、“高速公路、城市快速路、部分城市道路等场景实现高度自动驾驶”、国内市场新能源乘用车新车总销量占比达到70%……可以说目标相当明确。",
-      "tags": [
-        "国内金融",
-        "经济",
-        "市场"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695088.shtml"
-    },
-    {
-      "id": "32dab8dab57e6ade",
-      "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he&#8217;s back in control after CEO ouster",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-11T15:19:00.000Z",
-      "priority": "normal",
-      "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet c",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/"
     },
     {
       "id": "e2480cdb522feba8",
@@ -1098,67 +1231,6 @@
       "url": "https://www.solidot.org/story?sid=85355"
     },
     {
-      "id": "e4183ab8302bc0f5",
-      "title": "Anime reaction YouTubers are at war with copyright enforcers",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-11T15:12:58.000Z",
-      "priority": "high",
-      "summary": "On September 6th, YouTuber Nicholas Light posted a video to one of his channels that made it seem like all of his content was about to be removed from the platform. In the video - ",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media"
-    },
-    {
-      "id": "a3bdc474e1fea39f",
-      "title": "Iran, Russia condemn Western economic sanctions and urge BRICS bloc to deepen economic ties",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-11T15:10:45.000Z",
-      "priority": "normal",
-      "summary": "Iranian President Masoud Pezeshkian and Russian President Vladimir Putin criticized Western sanctions and asked the BRICS bloc to deepen trade ties.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/09/11/iran-russia-brics-sanctions-energy.html"
-    },
-    {
-      "id": "61abb4d7ced89bb9",
-      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-11T15:05:20.000Z",
-      "priority": "normal",
-      "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/"
-    },
-    {
-      "id": "730942a6039b8c4f",
-      "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-11T14:56:25.000Z",
-      "priority": "normal",
-      "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. Tha",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/"
-    },
-    {
       "id": "2629ecc517022d4d",
       "title": "科学家利用高压和逾 2000 高温制造超离子冰",
       "category": "computing",
@@ -1173,22 +1245,6 @@
         "科技"
       ],
       "url": "https://www.solidot.org/story?sid=85354"
-    },
-    {
-      "id": "70f5f578bcddfc30",
-      "title": "The wireless earbuds with unbeatable call quality got their first discount",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-11T14:43:26.000Z",
-      "priority": "normal",
-      "summary": "Anker’s Soundcore Liberty 5 Pro came out swinging in May with incredible call quality, something that competing ear buds have struggled to get right. They’ve become part of our rev",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale"
     },
     {
       "id": "fd441e00eaa815f8",
@@ -1223,37 +1279,6 @@
       "url": "https://www.eetimes.com/soc-planner-a-new-generation-of-automated-soc-design-exploration-managing-cost-effectiveness-and-sustainability/"
     },
     {
-      "id": "c52e8c68ede237ab",
-      "title": "服务消费如何高质量发展？多方共探新路径",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-11T14:31:12.000Z",
-      "priority": "normal",
-      "summary": "中新网北京9月11日电 (钟余)2026年中国国际服务贸易交易会主题论坛——2026国际消费趋势大会暨服务消费高质量发展论坛日前在首钢园举行，本次论坛以“开放合作共赢 创新服务消费”为主题，围绕内外市场融通、服务消费创新等议题展开研讨，探寻服务消费高质量发展新路径。",
-      "tags": [
-        "国内金融",
-        "经济",
-        "市场"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695074.shtml"
-    },
-    {
-      "id": "0b9211b8ad4f41ab",
-      "title": "lululemon营收下滑，千元瑜伽裤不香了？",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-11T14:22:39.000Z",
-      "priority": "normal",
-      "summary": "中新网北京9月11日电(记者 谢艺观)一条瑜伽裤卖到近千元，照样有人抢着买——lululemon，一个在高净值人群口中高频出现的品牌，最近被浇了冷水：最新一季财报全球收入下滑、71岁的创始人奇普·威尔逊被外媒曝出正与妻子办理离婚手续。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695070.shtml"
-    },
-    {
       "id": "c81ec3b7ec31e8f3",
       "title": "US refutes claims that Iran captured Saildrone USV",
       "category": "security",
@@ -1269,66 +1294,6 @@
         "无人系统"
       ],
       "url": "https://www.defensenews.com/industry/techwatch/2026/09/11/us-refutes-claims-that-iran-captured-saildrone-usv/"
-    },
-    {
-      "id": "0010a16059f96d68",
-      "title": "中越跨境游持续升温 云南铁路河口北站服务越南旅客增幅明显",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-11T14:05:36.000Z",
-      "priority": "normal",
-      "summary": "中新网昆明9月11日电 (王一翔 刘昊亮)据中国铁路昆明局集团有限公司消息，今年前8个月，位于中国与越南边境的云南铁路河口北站累计服务越南跨境旅客达9.4万人次，较2025年同期的7.4万人次增长2万人次，增幅达27%，中越跨境游热度持续攀升。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695050.shtml"
-    },
-    {
-      "id": "79d75ee79348807c",
-      "title": "2026广东旅博会开幕 首次设立国际医疗旅游展区",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-11T14:05:16.000Z",
-      "priority": "normal",
-      "summary": "中新网广州9月11日电 (记者 程景伟)2026广东国际旅游产业博览会11日在广州广交会展馆开幕。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695027.shtml"
-    },
-    {
-      "id": "032a50f819efc75a",
-      "title": "中方介绍APEC能源安全合作具体成果",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-11T14:04:52.000Z",
-      "priority": "normal",
-      "summary": "中新社北京9月11日电 (记者 王梦瑶)为期两天的第十六次亚太经合组织能源部长会议11日在北京闭幕。2026年亚太经合组织能源部长会议主席、中国国家能源局局长王宏志在会后召开的新闻发布会上介绍本次会议在能源安全合作等方面的具体成果。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695034.shtml"
-    },
-    {
-      "id": "321e6cf37a8eec2e",
-      "title": "全球首创智能封闭式海洋养殖网箱在广东建成出口挪威",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-11T14:04:44.000Z",
-      "priority": "normal",
-      "summary": "中新社广东揭阳9月11日电 (记者 方伟彬)记者11日从广东揭阳市政府获悉，全球首创的第二代高端智能封闭式海洋养殖网箱，当日从惠来县正式启航发运挪威。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695046.shtml"
     },
     {
       "id": "a9f85853dcfda78c",
@@ -1360,22 +1325,6 @@
         "AI"
       ],
       "url": "https://www.defensenews.com/global/europe/2026/09/11/german-military-eyes-cruise-missiles-from-covenant-a-surprise-vendor-setting-up-shop/"
-    },
-    {
-      "id": "a0079c3c10407c5a",
-      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-11T13:32:54.000Z",
-      "priority": "high",
-      "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/"
     },
     {
       "id": "499c7eee1e277f11",
@@ -1469,22 +1418,6 @@
         "科技"
       ],
       "url": "https://www.solidot.org/story?sid=85351"
-    },
-    {
-      "id": "93b35ee610e33ebb",
-      "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-11T11:00:44.000Z",
-      "priority": "high",
-      "summary": "ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
-      "tags": [
-        "计算机",
-        "科技",
-        "火箭"
-      ],
-      "url": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/"
     },
     {
       "id": "0cb61e383c65cdd3",
@@ -1647,67 +1580,6 @@
       "url": "https://semiengineering.com/chip-industry-week-in-review-155/"
     },
     {
-      "id": "24db770b88032860",
-      "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-11T04:05:00.000Z",
-      "priority": "normal",
-      "summary": "APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmo",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/"
-    },
-    {
-      "id": "de1db0e49888df02",
-      "title": "Monterrey Amid Mountains",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-11T04:01:00.000Z",
-      "priority": "high",
-      "summary": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental.",
-      "tags": [
-        "NASA",
-        "航天",
-        "AI"
-      ],
-      "url": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/"
-    },
-    {
-      "id": "21beb6e48b1b0d1b",
-      "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-10T21:11:32.000Z",
-      "priority": "normal",
-      "summary": "The Republic of Djibouti will sign the Artemis Accords during a ceremony at 11 a.m. EDT, Monday, Sept. 14, at NASA Headquarters in Washington, becoming the 72nd country signatory. ",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/"
-    },
-    {
-      "id": "d692cc0bd259a8bc",
-      "title": "NASA Answers President’s Call to Establish United States Space Academy",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-10T20:26:52.000Z",
-      "priority": "normal",
-      "summary": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the ",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/"
-    },
-    {
       "id": "bd5069b62d85a334",
       "title": "From AI-Assisted EDA to AI-Mediated Engineering",
       "category": "electronics",
@@ -1740,21 +1612,6 @@
       "url": "https://www.defensenews.com/flashpoints/middle-east/2026/09/10/iran-attack-on-base-in-jordan-damaged-american-military-aircraft-us-official-says/"
     },
     {
-      "id": "99204928759028d5",
-      "title": "NASA&#8217;s Life-Saving Technology Where Cell Signals Can&#8217;t Go",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-10T20:12:39.000Z",
-      "priority": "normal",
-      "summary": "Search and rescue technology developed in part by NASA saved five lives",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/"
-    },
-    {
       "id": "7a24127ce8343c28",
       "title": "Codeveloper of Ethernet Predecessor Dies at 91",
       "category": "electronics",
@@ -1769,21 +1626,6 @@
         "AI"
       ],
       "url": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies"
-    },
-    {
-      "id": "ab9ad87606b16369",
-      "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-10T17:28:13.000Z",
-      "priority": "normal",
-      "summary": "Through a new collaboration between NASA and the National Football League (NFL), the agency will soon bring America’s strengths in space exploration and aeronautics innovation to t",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/"
     },
     {
       "id": "d9bf44a822386813",
@@ -1897,6 +1739,163 @@
         "AI"
       ],
       "url": "https://www.eetimes.com/what-six-hours-on-the-runway-told-me-about-air-traffic-control-resilience-and-ai/"
+    },
+    {
+      "id": "44924cfd021fc125",
+      "title": "Cincon High-Performance Power Modules for Edge AI &#038; IPCs",
+      "category": "electronics",
+      "region": "global",
+      "source": "EE Times",
+      "publishedAt": "2026-09-10T08:00:00.000Z",
+      "priority": "high",
+      "summary": "As AI moves to the edge, IPCs demand compact, rugged power. Cincon offers baseplate-cooled DC-DC &#038; AC-DC solutions for fanless, harsh AIoT environments. The post Cincon High-P",
+      "tags": [
+        "芯片",
+        "电子工程",
+        "AI"
+      ],
+      "url": "https://www.eetimes.com/cincon-high-performance-power-modules-for-edge-ai-ipcs/"
+    },
+    {
+      "id": "1f7e896090e6430c",
+      "title": "Redefining Processes At Sub-2nm",
+      "category": "electronics",
+      "region": "global",
+      "source": "Semiconductor Engineering",
+      "publishedAt": "2026-09-10T07:13:52.000Z",
+      "priority": "high",
+      "summary": "Discrete steps are being merged with others as dimensions shrink into the angstrom range. The post Redefining Processes At Sub-2nm appeared first on Semiconductor Engineering .",
+      "tags": [
+        "半导体",
+        "芯片"
+      ],
+      "url": "https://semiengineering.com/redefining-processes-at-sub-2nm/"
+    },
+    {
+      "id": "d85c4ceca85a6a5b",
+      "title": "Silent Data Errors Redefine Test Coverage And Fleet Maintenance Strategies",
+      "category": "electronics",
+      "region": "global",
+      "source": "Semiconductor Engineering",
+      "publishedAt": "2026-09-10T07:12:39.000Z",
+      "priority": "high",
+      "summary": "Through better manufacturing screening, DFT for systems and fleet monitors, this major scourge on data center hardware is gradually being tamed. The post Silent Data Errors Redefin",
+      "tags": [
+        "半导体",
+        "芯片",
+        "AI"
+      ],
+      "url": "https://semiengineering.com/silent-data-errors-redefine-test-coverage-and-fleet-maintenance-strategies/"
+    },
+    {
+      "id": "30521d9b853c2753",
+      "title": "Validation Gets Tested At 1kW",
+      "category": "electronics",
+      "region": "global",
+      "source": "Semiconductor Engineering",
+      "publishedAt": "2026-09-10T07:11:34.000Z",
+      "priority": "high",
+      "summary": "Kilowatt-class AI accelerators are forcing engineers to rethink what counts as adequate coverage across workload, thermal behavior, test hardware, and time. The post Validation Get",
+      "tags": [
+        "半导体",
+        "芯片",
+        "AI"
+      ],
+      "url": "https://semiengineering.com/validation-gets-tested-at-1kw/"
+    },
+    {
+      "id": "976cfa2785bad0cb",
+      "title": "SpaceX launches classified payload for the U.S. Space Force",
+      "category": "aerospace",
+      "region": "global",
+      "source": "Spaceflight Now",
+      "publishedAt": "2026-09-09T22:32:04.000Z",
+      "priority": "high",
+      "summary": "The mission, dubbed USSF-153 mission, launched an undisclosed number of satellites for the U.S. Space Force. Liftoff from pad 4E at Vandenberg Space Force Base happened at 8:42 a.m",
+      "tags": [
+        "火箭",
+        "发射",
+        "航天",
+        "卫星"
+      ],
+      "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/"
+    },
+    {
+      "id": "412805f24cccc406",
+      "title": "Saab tapped to continue work on Sweden’s next flagship fighter jet",
+      "category": "security",
+      "region": "global",
+      "source": "Defense News Global",
+      "publishedAt": "2026-09-09T15:52:02.000Z",
+      "priority": "normal",
+      "summary": "The Swedish government has tapped Saab to continue work on a next-generation fighter jet concept, keeping a wholly domestic iron in the fire.",
+      "tags": [
+        "防务",
+        "战争安全"
+      ],
+      "url": "https://www.defensenews.com/global/europe/2026/09/09/saab-tapped-to-continue-work-on-swedens-next-flagship-fighter-jet/"
+    },
+    {
+      "id": "28c6f8d14c260528",
+      "title": "Iran and US hit tankers in biggest wave of attacks on shipping since war began",
+      "category": "security",
+      "region": "global",
+      "source": "Defense News Global",
+      "publishedAt": "2026-09-09T15:30:08.000Z",
+      "priority": "high",
+      "summary": "Recent attacks by the U.S. and Iran have shattered a month of relative calm, with both hitting military, shipping and energy assets.",
+      "tags": [
+        "防务",
+        "战争安全"
+      ],
+      "url": "https://www.defensenews.com/news/your-military/2026/09/09/iran-and-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-began/"
+    },
+    {
+      "id": "6685112da35d87a4",
+      "title": "An Engineer’s Guide to Surviving a Layoff",
+      "category": "electronics",
+      "region": "global",
+      "source": "IEEE Spectrum",
+      "publishedAt": "2026-09-09T15:03:38.000Z",
+      "priority": "normal",
+      "summary": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech ca",
+      "tags": [
+        "电子信息",
+        "工程"
+      ],
+      "url": "https://spectrum.ieee.org/how-to-survive-a-layoff"
+    },
+    {
+      "id": "db60f15bed9d76b4",
+      "title": "Anduril doubles down on Poland with autonomous aircraft pitch for F-35, Apache",
+      "category": "security",
+      "region": "global",
+      "source": "Defense News Global",
+      "publishedAt": "2026-09-09T13:38:38.000Z",
+      "priority": "high",
+      "summary": "U.S. tech company Anduril is pitching two drone types to accompany Poland's envisioned fleets of F-35 fighter jets and Apache attack helicopters.",
+      "tags": [
+        "防务",
+        "战争安全",
+        "AI",
+        "无人系统"
+      ],
+      "url": "https://www.defensenews.com/global/europe/2026/09/09/anduril-doubles-down-on-poland-with-autonomous-aircraft-pitch-for-f-35-apache/"
+    },
+    {
+      "id": "ce4953ef6380f9ae",
+      "title": "MTM's selfie footage of BepiColombo's eight-year journey",
+      "category": "aerospace",
+      "region": "global",
+      "source": "ESA Space News",
+      "publishedAt": "2026-09-09T12:00:00.000Z",
+      "priority": "normal",
+      "summary": "Video: 00:04:20 Witness how over the last eight years, the ESA/JAXA BepiColombo mission has been travelling through the inner Solar System and aligning itself with Mercury's orbit.",
+      "tags": [
+        "ESA",
+        "航天"
+      ],
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey"
     }
   ]
 }
