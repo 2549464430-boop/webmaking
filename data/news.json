@@ -1,564 +1,1306 @@
 {
-  "updatedAt": "2026-09-14T03:39:39.275Z",
+  "updatedAt": "2026-09-15T03:40:29.442Z",
   "items": [
     {
-      "id": "307762df5bcaebb4",
-      "title": "新国标发布！进一步健全智能网联汽车软件安全治理体系",
+      "id": "f12efff129f4c5d0",
+      "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-15T03:40:11.000Z",
+      "priority": "high",
+      "summary": "China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html"
+    },
+    {
+      "id": "49388e13086b6939",
+      "title": "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-15T03:30:20.000Z",
+      "priority": "high",
+      "summary": "Oil and 10-year Treasury yields are moving in near lockstep, with their correlation at its strongest since 2019.",
+      "tags": [
+        "金融",
+        "市场"
+      ],
+      "url": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html"
+    },
+    {
+      "id": "a2b7d2e94d97fea7",
+      "title": "国家统计局谈固定资产投资下降：不能简单用增速高低来评判投资成效",
       "category": "finance",
       "region": "domestic",
       "source": "中新网财经",
-      "publishedAt": "2026-09-14T03:32:26.000Z",
+      "publishedAt": "2026-09-15T03:25:21.000Z",
       "priority": "normal",
-      "summary": "中新网9月14日电 据“市说新语”微信公众号消息，市场监管总局(国家标准委)近日批准发布《汽车软件质量与缺陷管理规范》国家标准(GB/T 48140—2026)。",
+      "summary": "中新网9月15日电 9月15日，国新办就2026年8月份国民经济运行情况举行新闻发布会，国家统计局新闻发言人、国民经济综合统计司副司长王冠华表示，今年前八个月我国固定资产投资同比下降7.2%，这是多方面因素共同作用的结果。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696666.shtml"
+    },
+    {
+      "id": "d6d870de6e86dfac",
+      "title": "FLEX and Sentinel-3C launched",
+      "category": "aerospace",
+      "region": "global",
+      "source": "ESA Space News",
+      "publishedAt": "2026-09-15T03:25:00.000Z",
+      "priority": "high",
+      "summary": "The European Space Agency’s FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in Fre",
+      "tags": [
+        "ESA",
+        "航天",
+        "卫星",
+        "火箭"
+      ],
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched"
+    },
+    {
+      "id": "66a4c8257cb4be1f",
+      "title": "县域消费扩容更要提质",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-15T03:23:50.000Z",
+      "priority": "normal",
+      "summary": "商务部等9部门近期联合印发《关于进一步激发下沉市场活力 活跃县域消费的意见》，提出“促进同品同款商品城乡‘同质同享’”。这一部署直面当前县域消费市场发展瓶颈，有望充分释放消费动能。",
       "tags": [
         "国内金融",
         "经济",
         "市场"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696000.shtml"
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696667.shtml"
     },
     {
-      "id": "158ad6b44b9e098f",
-      "title": "Baker Hughes sees no slowdown in energy projects despite higher rates as AI buildouts stoke LNG demand",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-14T03:27:58.000Z",
-      "priority": "high",
-      "summary": "Baker Hughes has yet to see higher borrowing costs slow investment in major energy projects.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/09/14/baker-hughes-ceo-no-slowdown-in-energy-projects-despite-higher-rates-.html"
-    },
-    {
-      "id": "0950d0116bee734b",
-      "title": "共享中国市场机遇 共促全球服贸发展",
+      "id": "5be4041251e09f06",
+      "title": "全球可持续交通高峰论坛（2026）9月下旬将在北京举办",
       "category": "finance",
       "region": "domestic",
       "source": "中新网财经",
-      "publishedAt": "2026-09-14T03:24:24.000Z",
+      "publishedAt": "2026-09-15T03:22:06.000Z",
       "priority": "normal",
-      "summary": "9月13日，2026年中国国际服务贸易交易会在北京闭幕，本届服贸会达成7类共1200余项成果，举办200场论坛会议及洽谈推介活动，共有1830余家企业线下参展、5300余家企业线上参展。从物流货运到医疗健康，从消费贸易到专业服务，各国企业和机构在服贸会上展示创新成果、洽谈务实合作、共享市场机遇。一份份沉甸甸的“收获清单”，展现这场服务贸易盛会创新、开放、共赢",
+      "summary": "中新网北京9月15日电(记者 张尼)记者从交通运输部获悉，交通运输部将于9月22日至23日在北京举办全球可持续交通高峰论坛(2026)，论坛主题为“可持续交通：人享其行、物畅其流”，旨在进一步凝聚国际社会推动可持续交通发展合作的共识与合力。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696663.shtml"
+    },
+    {
+      "id": "d32ece5ff3a58036",
+      "title": "国家统计局：8月份经济运行呈现“三稳两快”的特点",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-15T03:13:28.000Z",
+      "priority": "normal",
+      "summary": "中新网9月15日电 9月15日，国新办就2026年8月份国民经济运行情况举行新闻发布会，国家统计局新闻发言人付凌晖表示，从8月份主要指标来看，经济运行主要呈现“三稳两快”的特点。“三稳”表现在生产稳、就业稳、物价稳。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696654.shtml"
+    },
+    {
+      "id": "6999e512eb16eee7",
+      "title": "国家统计局：1-8月全国固定资产投资（不含农户）293092亿元",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-15T03:05:54.000Z",
+      "priority": "normal",
+      "summary": "中新网9月15日电 据国家统计局网站消息，1—8月份，全国固定资产投资(不含农户)293092亿元，同比下降7.2%。其中，知识产权产品投资同比增长9.2%。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696594.shtml"
+    },
+    {
+      "id": "b7734d95c193e80f",
+      "title": "金融总量合理增长 有力支撑经济向新向优向好发展",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-09-15T03:05:11.000Z",
+      "priority": "normal",
+      "summary": "央视网消息(新闻联播)：中国人民银行9月14日公布的数据显示，8月末，广义货币(M2)余额356.81万亿元，同比增长7.5%；社会融资规模存量为464.8万亿元。其中，对实体经济发放的人民币贷款余额278.63万亿元，同比增长5%。我国金融总量合理增长，社会融资条件保持宽松，为经济稳定增长和高质量发展营造了适宜的货币金融环境。",
       "tags": [
         "国内金融",
         "经济",
         "市场"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696023.shtml"
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696655.shtml"
     },
     {
-      "id": "bb95cfad9c0f41b5",
-      "title": "达成1200余项成果 多国客商为服贸会点赞",
+      "id": "5f6b56251f506e54",
+      "title": "2026山东民营企业百强系列榜单发布",
       "category": "finance",
       "region": "domestic",
       "source": "中新网财经",
-      "publishedAt": "2026-09-14T03:21:54.000Z",
+      "publishedAt": "2026-09-15T02:53:18.000Z",
       "priority": "normal",
-      "summary": "2026年中国国际服务贸易交易会昨天(13日)下午闭幕。本届服贸会务实合作成果丰硕，国际影响力持续提升。",
+      "summary": "中新网济宁9月15日电 (吕妍 赵加山)2026山东民营企业百强系列榜单发布会暨全省优强民企助力济宁高质量发展大会9月14日在济宁举行。山东魏桥创业集团有限公司等200家企业入围山东民营企业200强，齐鲁制药集团有限公司等100家企业入围山东民营企业创新100强，万达国贸集团有限公司等100家企业入围山东民营企业服务业100强，歌尔股份有限公司等100家企业",
       "tags": [
         "国内金融",
         "经济"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696021.shtml"
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696643.shtml"
     },
     {
-      "id": "feb1acaa19ace2a7",
-      "title": "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-14T03:03:58.000Z",
-      "priority": "high",
-      "summary": "Z.ai shares tumbled after the Chinese AI company announced its second major fundraising in two months.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html"
-    },
-    {
-      "id": "f977506e30aaa233",
-      "title": "Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-14T03:01:13.000Z",
-      "priority": "high",
-      "summary": "Trump said revenue from the Venezuela arrangement has \"paid for the war many times.\"",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html"
-    },
-    {
-      "id": "6fd57b84edffd054",
-      "title": "服贸会期间2026数字人民币技术与应用论坛在北京举办",
+      "id": "15642a52aec93282",
+      "title": "国家统计局：1-8月全国房地产开发投资总额47979亿元",
       "category": "finance",
       "region": "domestic",
       "source": "中新网财经",
-      "publishedAt": "2026-09-14T02:59:32.000Z",
+      "publishedAt": "2026-09-15T02:51:26.000Z",
       "priority": "normal",
-      "summary": "中新网北京9月14日电 (记者 陈杭 蒋启明)作为2026年中国国际服务贸易交易会重要活动之一，2026数字人民币技术与应用论坛暨北京全球数字经济标杆城市建设研讨会13日在北京首钢园举行，集中发布多项具有代表性的研究成果，展现数字金融服务产业创新、赋能城市发展的新实践。",
+      "summary": "中新网9月15日电 据国家统计局网站消息，2026年1—8月份全国房地产市场基本情况公布，具体如下：",
       "tags": [
         "国内金融",
         "经济",
         "市场"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695956.shtml"
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696610.shtml"
     },
     {
-      "id": "b9b2fbb58a3971a9",
-      "title": "服贸会折射中非数字与绿色合作新图景",
+      "id": "a4d561b42b323d0e",
+      "title": "广东数智社会治理研究院揭牌成立",
       "category": "finance",
       "region": "domestic",
       "source": "中新网财经",
-      "publishedAt": "2026-09-14T02:57:04.000Z",
+      "publishedAt": "2026-09-15T02:50:10.000Z",
       "priority": "normal",
-      "summary": "新华社北京9月13日电 题：服贸会折射中非数字与绿色合作新图景",
+      "summary": "中新网广州9月15日电 (记者 许青青)据广州大学15日介绍，广东数智社会治理研究院(下称“研究院”)在近日举行的首届广东数智社会治理论坛上揭牌成立。广东省委社会工作部与广州大学作为共建双方正式签署合作协议，明确在理论研究、政策咨询、人才培养、实践创新等领域开展长期深度协同。",
       "tags": [
         "国内金融",
         "经济"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695993.shtml"
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696642.shtml"
     },
     {
-      "id": "d603742a1ae9491a",
-      "title": "无废赋能服贸会 北京石景山助力国际会展小镇绿色发展",
+      "id": "2f72f43eedddbda1",
+      "title": "卡塔尔BH EPIC项目在山东青岛开工建造 合同总金额约40亿美元",
       "category": "finance",
       "region": "domestic",
       "source": "中新网财经",
-      "publishedAt": "2026-09-14T02:53:54.000Z",
+      "publishedAt": "2026-09-15T02:49:02.000Z",
       "priority": "normal",
-      "summary": "中新网北京9月14日电 (记者 陈杭)由废弃牛奶盒制成的再生材料座椅、可利用太阳能发电的展馆光伏幕墙、全程零废水排放的直饮水驿站……在2026年服贸会上，北京市石景山区将“无废”理念植入场馆建设、展馆搭建、观众服务等多个环节，为本届展会打上了鲜明的“绿色标签”。",
+      "summary": "中新网青岛9月15日电 (记者 胡耀杰)中国海油所属海洋石油工程股份有限公司(简称“海油工程”)15日对外宣布，卡塔尔伯哈尼(Bul Hanine)油田再开发工程总承包项目(简称“卡塔尔BH EPIC项目”)在山东省青岛西海岸新区开工建造。该项目是中国企业承揽合同金额最大、业务范围最广、综合施工难度最高的国际海洋油气工程总承包项目。",
       "tags": [
         "国内金融",
         "经济"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695962.shtml"
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696641.shtml"
     },
     {
-      "id": "abf7142f56e8629a",
-      "title": "北京—泰国经贸合作推介洽谈会在曼谷举办",
+      "id": "dd8ac098234f6c84",
+      "title": "国家统计局：8月规上工业原煤产量3.6亿吨，同比下降7.7%",
       "category": "finance",
       "region": "domestic",
       "source": "中新网财经",
-      "publishedAt": "2026-09-14T02:53:14.000Z",
+      "publishedAt": "2026-09-15T02:43:04.000Z",
       "priority": "normal",
-      "summary": "中新网曼谷9月14日电(记者 李映民)北京—泰国经贸合作推介洽谈会暨“京品出海”泰国专场活动近日在曼谷举办。本次活动由北京市贸促会、北京国际商会、中国贸促会驻泰国代表处和泰国北京总商会联合主办，泰国工业联合会、泰中商务委员会协办，来自中泰两国政府机构、商协会及企业等各界代表参会。",
+      "summary": "中新网9月15日电 据国家统计局网站消息，8月份，规模以上工业(以下简称规上工业)原煤生产降幅收窄，原油生产稳定增长，天然气生产由降转增，电力生产保持平稳。",
       "tags": [
         "国内金融",
         "经济"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695969.shtml"
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696621.shtml"
     },
     {
-      "id": "c59e917c53017ee5",
-      "title": "四大优势叠加，让廊坊算力“最划算”",
+      "id": "3cde984050a12086",
+      "title": "向实而行——从25297份评价问卷中看辽宁营商之变",
       "category": "finance",
       "region": "domestic",
       "source": "中新网财经",
-      "publishedAt": "2026-09-14T02:52:22.000Z",
+      "publishedAt": "2026-09-15T02:31:35.000Z",
       "priority": "normal",
-      "summary": "中新网廊坊9月14日电(赵丹媚 杨贵明)“我们廊坊有句口号是‘天算地算廊坊都能算，东算西算廊坊最划算’，欢迎全国各地的企业家、科研团队来廊坊看一看、算一算，亲身体验一下廊坊算力的速度、温度和力度。”河北省廊坊市人民政府党组成员、副市长王涛说。",
+      "summary": "中新网沈阳9月15日电 (刘家良)营商环境建设非一日之功。《2026上半年辽宁营商环境成效跟踪评价报告》在客观记录全省营商环境稳步进步的同时，不回避、不遮掩经营主体集中反映的各类痛点、堵点、难点。数据向好只是全新起点，想要实现彻底突围、塑造核心竞争优势，仍需啃下多项改革“硬骨头”。",
       "tags": [
         "国内金融",
         "经济"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695963.shtml"
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696627.shtml"
     },
     {
-      "id": "167cd00054998ebe",
-      "title": "世界500强广药集团深耕美妆产业 “广药大美丽” 正式揭牌启航",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-14T02:50:31.000Z",
-      "priority": "normal",
-      "summary": "9月12日，广药大美丽生物科技(广州)有限公司揭牌仪式暨白云山化妆品合资公司启航盛典在广州鸣泉居酒店举行。广州医药集团有限公司党委委员、总会计师唐和平，厦门海尼集团董事长徐勇寒出席，高校科研机构、行业权威机构代表及合作伙伴约150位嘉宾共同见证。广药集团战略科学家刘建博士受聘为广药大美丽研发总顾问，为企业创新发展注入核心动能。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695932.shtml"
-    },
-    {
-      "id": "8b957e4d18648444",
-      "title": "武汉打造具有全球竞争力的开放创新生态",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-14T02:49:29.000Z",
-      "priority": "normal",
-      "summary": "中新网武汉9月14日电 (张芹 熊欢 陈雅岚)武汉将通过“三步走”实现建成具有全球竞争力的开放创新生态的目标，到2028年基本成型，2030年更加成熟，2035年全面形成，将武汉区域科创中心建设成为引领中部、辐射全国、融入世界的创新增长极。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695913.shtml"
-    },
-    {
-      "id": "fd04f15b4a2c8d5a",
-      "title": "红色热土育红椒 小特产撑起大产业",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-14T02:47:43.000Z",
-      "priority": "normal",
-      "summary": "视频：红色热土育红椒 小特产撑起大产业来源：新华社",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695989.shtml"
-    },
-    {
-      "id": "afea7b9ed71837a0",
-      "title": "会“唱歌”的黄河泥（活力中国调研行）",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-09-14T02:14:36.000Z",
-      "priority": "normal",
-      "summary": "一捧黄河泥，可以幻化成多少模样？秋日的豫北，天高云淡。9月10日，“活力中国调研行”河南站采访团走进浚县伾山街道西杨玘屯村，国家级非物质文化遗产泥塑(浚县泥咕咕)代表性传承人、“90后”李卫雪告诉记者：“这款‘包子泥咕咕’在海外十分畅销，我们正在为美国客户赶制2000多件的订单。以前泥咕咕都是传统造型，我们进行创新后，深受年轻人喜欢。”",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695970.shtml"
-    },
-    {
-      "id": "dbeca33ba16ba9a6",
-      "title": "The 10-year Treasury is closing in on 5%. How it gets there matters more",
+      "id": "b79c7a696bedd7dd",
+      "title": "Oil extends gains following Houthi strikes on Saudi Arabia",
       "category": "finance",
       "region": "global",
       "source": "CNBC Business",
-      "publishedAt": "2026-09-14T01:39:13.000Z",
-      "priority": "normal",
-      "summary": "The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Strategists say the drivers behind higher yields are more important.",
+      "publishedAt": "2026-09-15T01:55:53.000Z",
+      "priority": "high",
+      "summary": "Oil extended gains amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.",
       "tags": [
         "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html"
-    },
-    {
-      "id": "349b02fe42870c35",
-      "title": "Prediction markets are becoming more professionalized, but also harder to beat",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-14T01:37:44.000Z",
-      "priority": "high",
-      "summary": "The institutionalization of prediction markets threatens to erode the edge of skilled traders who earn off mispricing and market inefficiencies, experts say.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/09/14/prediction-markets-efficient-win-lose-beat.html"
-    },
-    {
-      "id": "6d3a7e252ac47aa6",
-      "title": "My 87-year-old mother wants to pay for my brother&#x2019;s kids&#x2019; education. I don&#x2019;t have children. How is that fair?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-14T01:30:00.000Z",
-      "priority": "high",
-      "summary": "&#x201c;Over the years, my mother and I have supplemented his income.&#x201d;",
-      "tags": [
         "市场",
-        "投资",
         "AI"
       ],
-      "url": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html"
     },
     {
-      "id": "953f199b649ec075",
-      "title": "&#x2018;I still don&#x2019;t have my MRI&#x2019;: My health insurer canceled my plan without warning. Is that legal?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-14T01:00:00.000Z",
-      "priority": "high",
-      "summary": "&#x201c;It wasn&#x2019;t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.&#x201d;",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories"
-    },
-    {
-      "id": "8dd937f03eb92163",
-      "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-13T21:56:52.000Z",
-      "priority": "normal",
-      "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/"
-    },
-    {
-      "id": "6fd9e5216d219636",
-      "title": "Insight Partners&#8217; Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "id": "cf4c6f0aac19055d",
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
       "category": "computing",
       "region": "global",
       "source": "TechCrunch",
-      "publishedAt": "2026-09-13T21:30:00.000Z",
-      "priority": "high",
-      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI an",
+      "publishedAt": "2026-09-15T01:50:48.000Z",
+      "priority": "normal",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
       "tags": [
         "创业",
         "AI",
         "软件"
       ],
-      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/"
+      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
     },
     {
-      "id": "9ed9013225e7f706",
-      "title": "These are the 10 biggest retirement fears &#x2014; and what you can do about them",
+      "id": "602365ea69d7fbfd",
+      "title": "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule",
       "category": "finance",
       "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-13T21:10:00.000Z",
-      "priority": "normal",
-      "summary": "No amount of wealth can erase retirement worries.",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories"
-    },
-    {
-      "id": "e223c4d79e216c74",
-      "title": "I&#x2019;m locked into a 10-year annuity and now I&#x2019;m strapped for cash. What are my options?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-13T20:59:00.000Z",
-      "priority": "normal",
-      "summary": "A self-described &#x201c;spender&#x201d; is concerned about taxes.",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories"
-    },
-    {
-      "id": "57910f71290d3b50",
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-13T20:49:38.000Z",
-      "priority": "normal",
-      "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件",
-        "市场"
-      ],
-      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/"
-    },
-    {
-      "id": "f0786b00733af145",
-      "title": "Your Social Security COLA could go up another $71 per month in 2027. That&#x2019;s not necessarily good news.",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-13T20:40:00.000Z",
-      "priority": "normal",
-      "summary": "A higher COLA is a sign that persistent inflation isn&#x2019;t going anywhere.",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories"
-    },
-    {
-      "id": "d92fdb7bce2c6605",
-      "title": "This simple mistake can give your money to the wrong person when you die. Here&#x2019;s how to protect your estate.",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-13T20:30:00.000Z",
-      "priority": "normal",
-      "summary": "Estate-planning crises usually come down to small oversights.",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories"
-    },
-    {
-      "id": "79a6f03939008d6a",
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-13T20:28:00.000Z",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-15T00:48:36.000Z",
       "priority": "high",
-      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+      "summary": "Justice Brett Kavanaugh said that applying the U.S. Postal Service rule in the 2026 midterm elections \"would be arbitrary and capricious.\"",
       "tags": [
-        "创业",
-        "AI",
-        "软件",
-        "芯片"
-      ],
-      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/"
-    },
-    {
-      "id": "084d14ebe97d265a",
-      "title": "How to trade a well-paying job for more work-life balance &#x2014; without going broke",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-13T20:17:00.000Z",
-      "priority": "normal",
-      "summary": "As caregiving demands rise, many professionals are rethinking what success means to them.",
-      "tags": [
+        "金融",
         "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/how-to-trade-a-well-paying-job-for-more-work-life-balance-without-going-broke-794de555?mod=mw_rss_topstories"
-    },
-    {
-      "id": "e29b8720894bdcde",
-      "title": "The future of retirement? Work until you die.",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-13T19:56:00.000Z",
-      "priority": "normal",
-      "summary": "Social Security, once seen as &#x201c;old-age insurance,&#x201d; will eventually disappear, this author predicts.",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories"
-    },
-    {
-      "id": "2ce98fe646139120",
-      "title": "This investment is safe from both Trump and the Democrats &#x2014; and it pays 4.7%",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-13T19:55:00.000Z",
-      "priority": "high",
-      "summary": "There&#x2019;s a safe haven hiding in plain sight.",
-      "tags": [
-        "市场",
-        "投资",
         "AI"
       ],
-      "url": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html"
     },
     {
-      "id": "76cfee61f91f2857",
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "id": "764c6e93c3037cbf",
+      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
       "category": "computing",
       "region": "global",
       "source": "The Verge",
-      "publishedAt": "2026-09-13T19:41:48.000Z",
+      "publishedAt": "2026-09-15T00:13:47.000Z",
       "priority": "high",
-      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both",
+      "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck ",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "火箭"
+      ],
+      "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when"
+    },
+    {
+      "id": "7ea538c6fefeb5c1",
+      "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-14T23:30:02.000Z",
+      "priority": "high",
+      "summary": "Dutch startup Euclyd raised the funding in a round co-led by Samsung, Somerset Capital Partners, the Scaleup Europe Fund and Innovation Industries.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI",
+        "芯片"
+      ],
+      "url": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html"
+    },
+    {
+      "id": "e4b50f354b69134d",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-14T22:59:41.000Z",
+      "priority": "high",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI developm",
       "tags": [
         "科技",
         "软件",
         "硬件",
         "AI"
       ],
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
     },
     {
-      "id": "89769e5f1d2df580",
-      "title": "What&#8217;s behind the AI industry’s latest warnings of doom?",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-13T19:40:15.000Z",
-      "priority": "high",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
-    },
-    {
-      "id": "64ffec6b2bad6854",
-      "title": "Fed rate hikes won&#x2019;t bring down gas prices. Why the bond market is pushing for them anyway.",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-13T19:00:00.000Z",
-      "priority": "high",
-      "summary": "The 10-year Treasury yield is sitting on the doorstep of 5%, and that&#x2019;s a warning sign for stocks.",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories"
-    },
-    {
-      "id": "8b6c5a92da638f26",
-      "title": "Apple is reportedly working on iPhone game controllers",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-13T18:30:16.000Z",
-      "priority": "normal",
-      "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game control",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers"
-    },
-    {
-      "id": "a47918347f45abf3",
-      "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+      "id": "fb264a33be35afb5",
+      "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
       "category": "finance",
       "region": "global",
       "source": "CNBC Business",
-      "publishedAt": "2026-09-13T17:48:53.000Z",
+      "publishedAt": "2026-09-14T22:43:25.000Z",
       "priority": "high",
-      "summary": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.",
+      "summary": "Broadcom CEO Hock Tan said demand for AI infrastructure remains strong despite growing concerns about increasingly powerful models.",
       "tags": [
         "金融",
         "市场",
         "AI"
       ],
-      "url": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html"
+      "url": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html"
     },
     {
-      "id": "b5ed0a654b077198",
-      "title": "The Units’ Digital Stimulation is synthpunk perfection",
+      "id": "3ca7ed1825fc35d9",
+      "title": "Apple Home’s new security camera features cost as much as $60 a month",
       "category": "computing",
       "region": "global",
       "source": "The Verge",
-      "publishedAt": "2026-09-13T17:36:10.000Z",
+      "publishedAt": "2026-09-14T22:28:52.000Z",
+      "priority": "high",
+      "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription"
+    },
+    {
+      "id": "78c7338f0957dd2e",
+      "title": "Mitch McConnell returns to Senate after three-month health absence",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-14T22:23:38.000Z",
       "priority": "normal",
-      "summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.",
+      "summary": "The 84-year-old Kentucky Republican is back in Washington after a fall, hospitalization, pneumonia and weeks of rehabilitation kept him away from the Senate.",
+      "tags": [
+        "金融",
+        "市场"
+      ],
+      "url": "https://www.cnbc.com/2026/09/14/mitch-mcconnell-returns-senate-capitol-health-fall.html"
+    },
+    {
+      "id": "1a6c1543f535d450",
+      "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-14T22:06:24.000Z",
+      "priority": "normal",
+      "summary": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/"
+    },
+    {
+      "id": "2de70b0a37c01c7f",
+      "title": "Live coverage: Avio to launch spacecraft to monitor plant health and ocean conditions",
+      "category": "aerospace",
+      "region": "global",
+      "source": "Spaceflight Now",
+      "publishedAt": "2026-09-14T22:05:37.000Z",
+      "priority": "high",
+      "summary": "The mission, with the shorthand VV30, is the second launch of a Vega-C rocket managed solely by Avio without Arianespace. Liftoff from Ensemble de Lancement Vega at Europe’s Spacep",
+      "tags": [
+        "火箭",
+        "发射",
+        "航天"
+      ],
+      "url": "https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/"
+    },
+    {
+      "id": "2b3aa79e42444827",
+      "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-14T21:51:02.000Z",
+      "priority": "high",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+    },
+    {
+      "id": "cc86a3849c5811b5",
+      "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-14T21:32:22.000Z",
+      "priority": "high",
+      "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
+      "tags": [
+        "计算机",
+        "科技",
+        "火箭"
+      ],
+      "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/"
+    },
+    {
+      "id": "aca68d0b8fdf48fb",
+      "title": "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-14T21:32:03.000Z",
+      "priority": "high",
+      "summary": "President Trump has been using his social media site to sound off on Anthropic CEO Dario Amodei's suggestion that the AI industry slow its pace of development.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html"
+    },
+    {
+      "id": "fa0bf0a9d2fe12e2",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-14T21:21:42.000Z",
+      "priority": "high",
+      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development shou",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei"
+    },
+    {
+      "id": "d8b99408754bd1d9",
+      "title": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-14T21:15:56.000Z",
+      "priority": "high",
+      "summary": "The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html"
+    },
+    {
+      "id": "6758d03842f78c1d",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-14T21:04:32.000Z",
+      "priority": "high",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "tags": [
+        "计算机",
+        "科技",
+        "AI"
+      ],
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
+    },
+    {
+      "id": "41b6d7a1cb40903b",
+      "title": "Trump administration repeals Biden era greenhouse gas requirements for power plants",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-14T20:45:52.000Z",
+      "priority": "normal",
+      "summary": "President Donald Trump has systemically dismantled regulations implemented by the Obama and Biden administrations that sought to fight climate change.",
+      "tags": [
+        "金融",
+        "市场"
+      ],
+      "url": "https://www.cnbc.com/2026/09/14/trump-epa-carbon-dioxide-power-plant-climate-change.html"
+    },
+    {
+      "id": "036dfabe9171537e",
+      "title": "Trump throws out power plant climate pollution rules",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-14T20:45:00.000Z",
+      "priority": "high",
+      "summary": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The m",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers"
+    },
+    {
+      "id": "8fa040b2b2e269dc",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-14T20:44:14.000Z",
+      "priority": "high",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+    },
+    {
+      "id": "4f69af1203108fc3",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia&#8217;s dominance",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-14T20:07:37.000Z",
+      "priority": "high",
+      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件",
+        "芯片"
+      ],
+      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"
+    },
+    {
+      "id": "0b4285d3340b48bf",
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-14T20:03:37.000Z",
+      "priority": "normal",
+      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the pres",
       "tags": [
         "科技",
         "软件",
         "硬件"
       ],
-      "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review"
+      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit"
+    },
+    {
+      "id": "c649bc11d7543522",
+      "title": "Valve&#8217;s virtual reality plans hit actual reality",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-14T19:48:06.000Z",
+      "priority": "normal",
+      "summary": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordab",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件"
+      ],
+      "url": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact"
+    },
+    {
+      "id": "858286a35aab5c95",
+      "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-14T19:47:42.000Z",
+      "priority": "high",
+      "summary": "Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.",
+      "tags": [
+        "金融",
+        "市场"
+      ],
+      "url": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html"
+    },
+    {
+      "id": "95b4d8eb74520349",
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-14T19:45:13.000Z",
+      "priority": "high",
+      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+      "tags": [
+        "计算机",
+        "科技",
+        "AI"
+      ],
+      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/"
+    },
+    {
+      "id": "9f9bcb95fb907dbd",
+      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-14T19:38:46.000Z",
+      "priority": "normal",
+      "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/"
+    },
+    {
+      "id": "0410dea45e1ff453",
+      "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-14T19:30:58.000Z",
+      "priority": "normal",
+      "summary": "As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Apprecia",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件"
+      ],
+      "url": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale"
+    },
+    {
+      "id": "1ae9b9badf470914",
+      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-14T19:28:42.000Z",
+      "priority": "high",
+      "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
+      "tags": [
+        "计算机",
+        "科技",
+        "AI"
+      ],
+      "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/"
+    },
+    {
+      "id": "0ae42235b746e806",
+      "title": "AI leaders want to hit the brakes after years of reckless speed",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-14T19:06:13.000Z",
+      "priority": "high",
+      "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+      "tags": [
+        "计算机",
+        "科技",
+        "AI"
+      ],
+      "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/"
+    },
+    {
+      "id": "f7be9f051dbc45b0",
+      "title": "Online hate researcher keeps hammering X despite deportation threat",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-14T18:24:09.000Z",
+      "priority": "normal",
+      "summary": "US won’t back down from fight to deport technology researchers.",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/"
+    },
+    {
+      "id": "f5f567e59f5a5264",
+      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-14T18:14:29.000Z",
+      "priority": "normal",
+      "summary": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/"
+    },
+    {
+      "id": "69d234ef748cb212",
+      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-14T18:08:43.000Z",
+      "priority": "normal",
+      "summary": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/"
+    },
+    {
+      "id": "0ec4f76c4e01f7bf",
+      "title": "A new solar cell could generate electricity underwater",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-14T18:03:16.000Z",
+      "priority": "normal",
+      "summary": "The trick isn't using perovskites—the trick is making them last.",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/"
+    },
+    {
+      "id": "01e068e63701af1e",
+      "title": "Countries Seek to Curb Social Media Addiction for Kids",
+      "category": "electronics",
+      "region": "global",
+      "source": "IEEE Spectrum",
+      "publishedAt": "2026-09-14T18:00:04.000Z",
+      "priority": "normal",
+      "summary": "Social media plays a significant, multifaceted role in adolescents’ development, influencing how they communicate, learn, socialize, and express themselves. The benefits, however, ",
+      "tags": [
+        "电子信息",
+        "工程"
+      ],
+      "url": "https://spectrum.ieee.org/countries-seek-to-curb-social-media-addiction-for-kids"
+    },
+    {
+      "id": "d2339aaa4c3c2d4b",
+      "title": "Volkswagen&#8217;s crazy-efficient EV borrows an idea from Slate",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-14T17:41:20.000Z",
+      "priority": "high",
+      "summary": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/"
+    },
+    {
+      "id": "70968cb3a6e47180",
+      "title": "TIFF 2026: The latest movie reviews from Toronto",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-14T17:30:00.000Z",
+      "priority": "normal",
+      "summary": "If you want an idea of what&#8217;s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around th",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件"
+      ],
+      "url": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews"
+    },
+    {
+      "id": "7d69374969455963",
+      "title": "As the oil surge continues, trader Mike Khouw sees more upside in this surging name",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-09-14T17:16:23.000Z",
+      "priority": "normal",
+      "summary": "Michael Khouw breaks down how he's trading this energy name.",
+      "tags": [
+        "金融",
+        "市场"
+      ],
+      "url": "https://www.cnbc.com/2026/09/14/as-the-oil-surge-continues-trader-mike-khouw-sees-more-upside-in-this-surging-name.html"
+    },
+    {
+      "id": "251d7255daa7eec2",
+      "title": "Digital Keys and Radio Technology in Smart Buildings",
+      "category": "electronics",
+      "region": "global",
+      "source": "EE Times",
+      "publishedAt": "2026-09-14T17:12:56.000Z",
+      "priority": "normal",
+      "summary": "The direction of travel seems clear enough: Digital keys are likely to replace physical ones entirely over time. The post Digital Keys and Radio Technology in Smart Buildings appea",
+      "tags": [
+        "芯片",
+        "电子工程"
+      ],
+      "url": "https://www.eetimes.com/digital-keys-and-radio-technology-in-smart-buildings/"
+    },
+    {
+      "id": "a2cc74dc8f3137fc",
+      "title": "Prehistoric builders transported Devil's Arrows 11 miles",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-14T17:10:54.000Z",
+      "priority": "normal",
+      "summary": "Isotopic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/"
+    },
+    {
+      "id": "f7b5c9275411d360",
+      "title": "With iOS 27, I&#8217;m actually using Siri again",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-14T17:10:30.000Z",
+      "priority": "high",
+      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
+    },
+    {
+      "id": "d0ec5ffb4c083e22",
+      "title": "macOS 27 is available now",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-09-14T17:10:13.000Z",
+      "priority": "high",
+      "summary": "Apple released macOS 27 Golden Gate on Monday, which brings the new Siri AI assistant, Liquid Glass improvements, improved performance, and more. The update is compatible with all ",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now"
+    },
+    {
+      "id": "9770214954a28df7",
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-14T17:10:09.000Z",
+      "priority": "high",
+      "summary": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/"
+    },
+    {
+      "id": "e69e384e05ff41b3",
+      "title": "Steam Frame: The Ars Technica review",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-14T17:00:07.000Z",
+      "priority": "high",
+      "summary": "Valve's new $1,059 VR hardware tries to revive an abandoned VR \"revolution.\"",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/"
+    },
+    {
+      "id": "8ee3050f866da495",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-14T17:00:00.000Z",
+      "priority": "high",
+      "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening t",
+      "tags": [
+        "创业",
+        "AI",
+        "软件",
+        "火箭"
+      ],
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
+    },
+    {
+      "id": "7bc5e1d475c16048",
+      "title": "\"Offensively cheap\": Solar power is looking up",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-14T16:29:18.000Z",
+      "priority": "normal",
+      "summary": "Chinese-made panels on rooftops across the world are changing the facts of life for big utilities.",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/"
+    },
+    {
+      "id": "c0a7526f25c4f979",
+      "title": "Microsoft&#8217;s new AI &#8216;code of conduct&#8217; tells models not to hack systems or trick humans",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-14T16:27:53.000Z",
+      "priority": "high",
+      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourish",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
+    },
+    {
+      "id": "6a09bf6fe25465b2",
+      "title": "Polish minister proposes drills near Kaliningrad to draw Russian troops from Ukraine",
+      "category": "security",
+      "region": "global",
+      "source": "Defense News Global",
+      "publishedAt": "2026-09-14T16:06:06.000Z",
+      "priority": "high",
+      "summary": "NATO allies could hold drills near Russia’s Kaliningrad exclave in an attempt to push Moscow to draw troops from Ukraine, Poland's top diplomat proposed.",
+      "tags": [
+        "防务",
+        "战争安全",
+        "AI"
+      ],
+      "url": "https://www.defensenews.com/global/europe/2026/09/14/polish-minister-proposes-drills-near-kaliningrad-to-draw-russian-troops-from-ukraine/"
+    },
+    {
+      "id": "d2e83745e3e80160",
+      "title": "Waymo opens robotaxi service in Las Vegas",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-14T16:04:16.000Z",
+      "priority": "high",
+      "summary": "Las Vegas will be Waymo's 15th commercial robotaxi market.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件",
+        "市场"
+      ],
+      "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/"
+    },
+    {
+      "id": "fc65404cda968110",
+      "title": "非洲野犬完成了横跨大陆的 4000 公里之旅",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-09-14T15:51:58.000Z",
+      "priority": "normal",
+      "summary": "根据发表在《Ecology》期刊上的一项研究，一群非洲野犬完成了横跨大陆、创纪录的 4000 公里之旅。科学家表示这是有记录以来非洲陆生哺乳动物为寻找配偶而行进的最远距离。三只雄犬行进的直线距离大约为 418 公里，但为了绕过人类活动区域它们迂回走了 4000 公里路。非洲野犬是非洲最稀有的捕食者之一，目前野外仅存约 6000 只。它们生活在高度社会化的家族",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=85376"
+    },
+    {
+      "id": "2c6a91a4de6ca727",
+      "title": "US, South Korean officials to broach thorny Hormuz mission at talks this week",
+      "category": "security",
+      "region": "global",
+      "source": "Defense News Global",
+      "publishedAt": "2026-09-14T15:30:15.000Z",
+      "priority": "normal",
+      "summary": "The meeting comes at a tense time in the U.S.-South Korean alliance, with Seoul in no position to turn down a U.S. request for help, according to analysts.",
+      "tags": [
+        "防务",
+        "战争安全"
+      ],
+      "url": "https://www.defensenews.com/global/asia-pacific/2026/09/14/us-south-korean-officials-to-broach-thorny-hormuz-mission-at-talks-this-week/"
+    },
+    {
+      "id": "6674d3a8e7acc637",
+      "title": "越南关联服务器泄漏了 2.2 亿条旅客信息",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-09-14T14:49:51.000Z",
+      "priority": "normal",
+      "summary": "Kinryū Labs 发现了一个因错误配置而能被访问的数据库，该数据库 Advance Passenger Information 记录了过去九年进出越南的几乎所有旅客和机组人员的信息。在接到通知之后该数据库的访问于 2026 年 6 月关闭。Kinryu Labs 是在 6 月 3 日发现了名为 pax-info 的 Elasticsearch 集群，该",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=85375"
+    },
+    {
+      "id": "9fe82e237d64658a",
+      "title": "Responsible AI for Higher Education",
+      "category": "electronics",
+      "region": "global",
+      "source": "IEEE Spectrum",
+      "publishedAt": "2026-09-14T14:18:11.000Z",
+      "priority": "high",
+      "summary": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students abo",
+      "tags": [
+        "电子信息",
+        "工程",
+        "AI"
+      ],
+      "url": "https://webinars.on24.com/wileyevents/ResponsibleAI"
+    },
+    {
+      "id": "14bf01c4a18a496b",
+      "title": "Questions? Ask our Hera Space Companion!",
+      "category": "aerospace",
+      "region": "global",
+      "source": "ESA Space News",
+      "publishedAt": "2026-09-14T14:00:00.000Z",
+      "priority": "high",
+      "summary": "Meet a key member of our Hera asteroid mission team: the Hera Space Companion , not just an AI chatbot but a dynamic mission-linked communication platform, designed to make the Eur",
+      "tags": [
+        "ESA",
+        "航天",
+        "AI"
+      ],
+      "url": "https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion"
+    },
+    {
+      "id": "35f28b03b8c734bf",
+      "title": "Ambient IoT: From Battery-Free Promise to Mass-Market Reality",
+      "category": "electronics",
+      "region": "global",
+      "source": "EE Times",
+      "publishedAt": "2026-09-14T12:26:58.000Z",
+      "priority": "high",
+      "summary": "Surging investment, maturing tech, and emerging standards are pushing ambient IoT toward mainstream deployment. The post Ambient IoT: From Battery-Free Promise to Mass-Market Reali",
+      "tags": [
+        "芯片",
+        "电子工程",
+        "AI",
+        "市场"
+      ],
+      "url": "https://www.eetimes.com/ambient-iot-from-battery-free-promise-to-mass-market-reality/"
+    },
+    {
+      "id": "a1068393fdef2459",
+      "title": "China changes law to mobilize all resources in case of conflict. Should neighbors worry?",
+      "category": "security",
+      "region": "global",
+      "source": "Defense News Global",
+      "publishedAt": "2026-09-14T12:26:56.000Z",
+      "priority": "high",
+      "summary": "China’s military will get every possible resource from the home front if needed during a war, according to a change in the law to take effect in October.",
+      "tags": [
+        "防务",
+        "战争安全"
+      ],
+      "url": "https://www.defensenews.com/global/asia-pacific/2026/09/14/china-changes-law-to-mobilize-all-resources-in-case-of-conflict-should-neighbors-worry/"
+    },
+    {
+      "id": "af23118500475ab9",
+      "title": "中国地震局与苹果公司沟通推进地震预警信息接入 iOS",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-09-14T11:01:57.000Z",
+      "priority": "normal",
+      "summary": "中国地震局监测司上周五表示，中国地震台网中心正在与苹果公司沟通，力争加快推进地震预警信息接入 iOS 系统。苹果手机用户目前可通过微信小程序获取该局统一发布的地震预警信息。今年 8 月 24 日，四川宜宾长宁发生 4.7 级地震，但成都高新减灾研究所用自己的系统生成了一个“7.7级”的地震预警，并以“中国地震预警网”的名义，通过荣耀、vivo、魅族手机以及小",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=85374"
+    },
+    {
+      "id": "967ccdb6fb254151",
+      "title": "养狗有助于降低老人患认知症风险",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-09-14T10:49:35.000Z",
+      "priority": "normal",
+      "summary": "日本国立环境研究所等机构从 2016 年起，历时 7 年半对约 1.1 万名老年人开展了调查。他们在学术期刊上发表了研究成果。养狗的老年人因认知症需要接受护理的风险比从未养狗的人群低 48%。研究认为，遛狗带来的身体活动以及社交往来起到了积极作用。曾经养过狗的人患认知症的风险也低于从未养过狗的人群。虽然该差异在统计学上并不显著，但推测养狗时期建立的人际联系等",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=85373"
+    },
+    {
+      "id": "42e8a4b55a66db1c",
+      "title": "律师在谋杀案中捏造了证词，他将此归咎于 ChatGPT",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-09-14T10:35:37.000Z",
+      "priority": "high",
+      "summary": "律师在法律文件中使用 AI 工具捏造不存在的信息不是什么大新闻，AI 捏造的通常是不存在的案例，然而本案的特殊之处在于 AI 捏造了证词。律师 Stephen Aaron 在一起谋杀案中代表其客户提起上诉，在递交的法律文件中包含了捏造的警方证词以及虚构的证人。Aaron 声称他将一份由计算机生成的庭审记录及其它案卷材料输入了 ChatGPT，想当然地认为它会",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技",
+        "AI"
+      ],
+      "url": "https://www.solidot.org/story?sid=85372"
+    },
+    {
+      "id": "482de76a6dac2943",
+      "title": "日本无意结婚的男女比例都超两成",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-09-14T09:56:36.000Z",
+      "priority": "normal",
+      "summary": "日本国立社会保障与人口问题研究所公布了 2025 年出生动向基本调查。18-34 岁未婚人群“终生不打算结婚”的男女受访者比例首次都超过 2 成，其中男性为 24.0%，女性为 21.5%。表示“打算将来结婚”的人群中男性占 75.1%，女性占 77.8%。均首次跌破 8 成。回答结婚有好处的人群男性占 56.3%，女性占 63.4%，均创历史最低水平。夫妻",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=85371"
+    },
+    {
+      "id": "50a55c5189885af3",
+      "title": "ESA Space Environment Report 2026",
+      "category": "aerospace",
+      "region": "global",
+      "source": "ESA Space News",
+      "publishedAt": "2026-09-14T08:52:00.000Z",
+      "priority": "normal",
+      "summary": "来自公开源的最新动态：ESA Space Environment Report 2026",
+      "tags": [
+        "ESA",
+        "航天"
+      ],
+      "url": "https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2026"
+    },
+    {
+      "id": "b5dce0d7d5c41310",
+      "title": "AI 时代隐晦式安全已死",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-09-14T08:27:40.000Z",
+      "priority": "high",
+      "summary": "安全工程领域有一种名为隐晦式安全（Security through obscurity）的设计方式，即只要网络和系统的架构以及任何漏洞或弱点保密或不为人知，它们就是安全的。但在 AI 辅助 bug 发现的时代，这种设计方式过时了。软件供应商和独立研究人员正利用 AI 智能体在各种产品和开源代码中搜寻漏洞——其中一些漏洞极其隐蔽且存在已久。这导致安全漏洞披露和",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技",
+        "AI"
+      ],
+      "url": "https://www.solidot.org/story?sid=85370"
+    },
+    {
+      "id": "9decac5f30960712",
+      "title": "ESA’s FLEX mission reveals the secret glow of plants",
+      "category": "aerospace",
+      "region": "global",
+      "source": "ESA Space News",
+      "publishedAt": "2026-09-14T08:00:00.000Z",
+      "priority": "high",
+      "summary": "Video: 00:06:30 Plants may look still and silent, but every leaf is constantly responding to its environment. As plants photosynthesise, they emit an incredibly faint glow called f",
+      "tags": [
+        "ESA",
+        "航天",
+        "AI"
+      ],
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants"
+    },
+    {
+      "id": "88b710847d63572c",
+      "title": "微信蠕虫事件敲响 AI 安全警钟",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-09-14T07:39:45.000Z",
+      "priority": "high",
+      "summary": "微信在中国几乎已成为国家基础设施的一部分，融入了日常通信、政府服务和数字支付之中。正因如此加州一个小型研究团队最近的发现——一种利用人工智能构建的工具可以在短短几个小时内攻破数以百万计的账户——让专家和分析人士感到震惊。这证明，有了人工智能，即使是没有政府背景的小型团队也能对一款每月有 14 亿人使用的应用程序发起毁灭性的攻击。“从破坏力的角度来讲这个是非常",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技",
+        "AI"
+      ],
+      "url": "https://www.solidot.org/story?sid=85369"
+    },
+    {
+      "id": "3e190366ad663d36",
+      "title": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
+      "category": "aerospace",
+      "region": "global",
+      "source": "ESA Space News",
+      "publishedAt": "2026-09-14T07:20:00.000Z",
+      "priority": "high",
+      "summary": "Two Earth observation satellites – ESA’s Fluorescence Explorer (FLEX) satellite, and the third satellite for the Copernicus Sentinel-3 mission – are encapsulated inside the nose co",
+      "tags": [
+        "ESA",
+        "航天",
+        "卫星"
+      ],
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C"
+    },
+    {
+      "id": "cdcf971bcbb3afc8",
+      "title": "中国要求电动汽车显示屏配备物理按键",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-09-14T07:11:50.000Z",
+      "priority": "normal",
+      "summary": "今天越来越多的汽车都配备了中央显示屏，厂商也将越来越多的功能整合到触摸屏控制系统中。但中国工信部起草了新规定，要求新车恢复提供关键功能的物理控制。新规将于 2027 年 7 月 1 日生效，增加了对实体控制的要求，明确规定物理控制应易于触及和使用，支持在驾驶过程中进行盲操作——即驾驶员无需视线注视即可操作相应的按键与开关。将雨刷器启动、转向灯控制等功能从触摸",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=85368"
+    },
+    {
+      "id": "d5805060c9b10c8c",
+      "title": "青藏高原升温与加州的洪水相关",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-09-14T05:58:59.000Z",
+      "priority": "normal",
+      "summary": "受拉尼娜（La Niña）气候的影响，加州通常会在冬季面临干旱。然而 2016-2017 年和 2022-2023 年两个冬季虽然都是拉尼娜气候，加州却反常的出现了强降水、洪水、大量降雪以及反复的大气河流事件。研究人员发现，在加州遭遇洪水前，青藏高原上空都出现了异常的升温。研究人员将青藏高原升温因素纳入气候模拟，发现能解释加州及周边的异常降雨。青藏高原升温之",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=85367"
+    },
+    {
+      "id": "6373568d4a6852b5",
+      "title": "Small Indian Manufacturers Hit Data, Legacy-System Barriers to Scaling AI",
+      "category": "electronics",
+      "region": "global",
+      "source": "EE Times",
+      "publishedAt": "2026-09-14T05:53:04.000Z",
+      "priority": "high",
+      "summary": "AI adoption across manufacturing in India is progressing, but scaling it is running into structural problems across tiers. The post Small Indian Manufacturers Hit Data, Legacy-Syst",
+      "tags": [
+        "芯片",
+        "电子工程",
+        "AI"
+      ],
+      "url": "https://www.eetimes.com/small-indian-manufacturers-hit-data-legacy-system-barriers-to-scaling-ai/"
     },
     {
       "id": "d40f9b0545fd72e1",
@@ -578,439 +1320,38 @@
       "url": "https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/"
     },
     {
-      "id": "5a84f4505f06fb75",
-      "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-13T16:39:24.000Z",
-      "priority": "high",
-      "summary": "OpenAI CEO Sam Altman, Demis Hassabis, the chair of Google DeepMind, and Elon Musk have all welcomed Amodei's proposal.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html"
-    },
-    {
-      "id": "7e363c87d8ff72b8",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "id": "82c84b83c12d02f5",
+      "title": "宇树如何将机器狗的价格降至 2000 美元",
       "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-13T16:30:00.000Z",
-      "priority": "high",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s econ",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
-    },
-    {
-      "id": "8dd5fbf0fb91960c",
-      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-13T16:04:00.000Z",
-      "priority": "high",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/"
-    },
-    {
-      "id": "a195e107fc6aa966",
-      "title": "Waymo pulls over, calls cops on riders with a ghost gun",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-13T14:28:12.000Z",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-09-13T15:23:42.000Z",
       "priority": "normal",
-      "summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a",
+      "summary": "宇树的机器狗除了做些花哨动作外可能用处不大，但它拥有一个巨大的优势：价格极其平民。George Mason 大学的机器人专家 Xuesu Xiao 教授称，十年前只有少数团队从事四足机器人的运动控制研究，因为只有这些团队能制造四足机器人，宇树进入市场之后推动了四足机器人运动控制研究的普及化。他的实验室里有四台宇树的四足机器人，每台售价约 1.5 万美元，以及",
       "tags": [
+        "计算机",
+        "开源",
         "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun"
-    },
-    {
-      "id": "74acc10c46f51c00",
-      "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-13T13:38:23.000Z",
-      "priority": "high",
-      "summary": "The latest strike happened ahead of an expected meeting between Iranian and Gulf officials in Oman to sign an agreement for shipping through the strait.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html"
-    },
-    {
-      "id": "f107b633a8cb46bd",
-      "title": "Fusion power startups find new partners in the defense world",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-13T13:15:00.000Z",
-      "priority": "normal",
-      "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/"
-    },
-    {
-      "id": "412b3ff5ad986ffa",
-      "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-13T13:00:00.000Z",
-      "priority": "normal",
-      "summary": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), ",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026"
-    },
-    {
-      "id": "ed60bc70cf720c35",
-      "title": "Your car is selling your data",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-13T12:00:00.000Z",
-      "priority": "normal",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. ",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data"
-    },
-    {
-      "id": "fcee508a52c7536a",
-      "title": "Apple’s new phones are here",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-13T12:00:00.000Z",
-      "priority": "normal",
-      "summary": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read al",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones"
-    },
-    {
-      "id": "25f28b117e80cc43",
-      "title": "NFL and midterm elections set up prediction markets for a critical fall season",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-13T11:52:33.000Z",
-      "priority": "high",
-      "summary": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
-      "tags": [
-        "金融",
         "市场"
       ],
-      "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html"
+      "url": "https://www.solidot.org/story?sid=85366"
     },
     {
-      "id": "863af1ee1e465307",
-      "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-13T11:00:41.000Z",
-      "priority": "high",
-      "summary": "The manufacturer has a service that lets owners repair their own equipment.",
-      "tags": [
-        "计算机",
-        "科技",
-        "AI"
-      ],
-      "url": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/"
-    },
-    {
-      "id": "cedfaa2baa38ee65",
-      "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-13T04:05:00.000Z",
-      "priority": "normal",
-      "summary": "APOD Science APOD APOD: 2026 September 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmo",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/"
-    },
-    {
-      "id": "8198ae9b28d87261",
-      "title": "暴雪宣布 FPS 版《星际争霸》",
+      "id": "f4067ba5e86e7ec2",
+      "title": "Matt Mullenweg 据报道恢复了对 Automattic 的控制",
       "category": "computing",
       "region": "domestic",
       "source": "Solidot",
-      "publishedAt": "2026-09-13T03:10:07.000Z",
-      "priority": "normal",
-      "summary": "暴雪宣布了 FPS 版《星际争霸》，游戏仍然处于早期开发阶段，目标发售时间是在 2030 年。暴雪称，新作是一款开放世界、剧情驱动的科幻射击游戏，故事背景设定在《星际争霸 II》事件发生后数十年，是《星际争霸》宇宙中的一款全新作品。RTS 版《星际争霸》于 1998 年发布，2015 年发布了《星际争霸II》三部曲中的第三部《虚空之遗》，时隔 11 年之后宣",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=85362"
-    },
-    {
-      "id": "014b0fffb81552b3",
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-12T23:25:38.000Z",
+      "publishedAt": "2026-09-13T14:20:20.000Z",
       "priority": "high",
-      "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
-    },
-    {
-      "id": "4022c7a7f9b57883",
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-12T21:41:36.000Z",
-      "priority": "high",
-      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI a",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack"
-    },
-    {
-      "id": "fe9d508504e55624",
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-12T21:16:28.000Z",
-      "priority": "high",
-      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects in",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
-    },
-    {
-      "id": "e82b8a9af4fda703",
-      "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-12T20:19:16.000Z",
-      "priority": "high",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
-    },
-    {
-      "id": "92390331b970ee93",
-      "title": "StarCraft returns in 2030 as an open-world shooter",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-09-12T20:08:09.000Z",
-      "priority": "normal",
-      "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard pr",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter"
-    },
-    {
-      "id": "7658eb64cf663b96",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-12T19:34:44.000Z",
-      "priority": "high",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
-    },
-    {
-      "id": "94903067997a1428",
-      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-12T19:21:19.000Z",
-      "priority": "normal",
-      "summary": "Tesla’s halo sports car was first announced in November 2017.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/"
-    },
-    {
-      "id": "192d6c01d626ffca",
-      "title": "墨西哥毒贩涉足加密货币挖矿",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-09-12T16:49:02.000Z",
-      "priority": "high",
-      "summary": "墨西哥贩毒集团涉足了加密货币挖矿业务。墨西哥警方在 Puebla 州的 Sierra Norte 地区发现了一个用电量远超周边村庄的矿场，查获了 300 个 GPU、80 个中压终端设备以及 8 个卫星天线。虽然就国际商业规模而言，该矿场的规模相当有限，但这已是自去年年初以来该地区发现的第四个加密货币矿场。根据区块链分析公司 Chainalysis 对流向非",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技",
-        "AI",
-        "卫星"
-      ],
-      "url": "https://www.solidot.org/story?sid=85361"
-    },
-    {
-      "id": "bc2a591af2ec9452",
-      "title": "Waymo 举报了两名携带幽灵枪的青少年乘客",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-09-12T15:53:36.000Z",
-      "priority": "normal",
-      "summary": "Waymo 举报了两名携带幽灵枪的年轻乘客。事件发生在 9 月 3 日凌晨 4 点前，地点是旧金山的 Richmond 区。Waymo 发言人称，它在检测到乘客携带枪支之后，停下了无人出租车，通知了执法部门。旧金山警方拘留了两名未成年青少年，一名男孩和一名女孩，搜查汽车后发现了一支已上膛的 AR 风格突击步枪。两名乘客已被送往少年拘留中心。这不是 Waymo",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=85360"
-    },
-    {
-      "id": "3c335268ac594ac2",
-      "title": "克雷数学研究所就 Navier-Stokes 问题发表公开声明",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-09-12T15:31:13.000Z",
-      "priority": "high",
-      "summary": "OpenAI 本周早些时候宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。Navier-Stokes 问题是克雷数学研究所列出的七大千禧年数学问题之一，它为每道题的解决提供了一百万美元奖金。目前七大问题只有庞加莱猜想确认解决，但解决该问题的俄罗斯数学家格里戈里·佩雷尔",
+      "summary": "被董事会强制休假的 Matt Mullenweg 称恢复了 Automattic CEO 的职务。Automattic 可能发生了类似 OpenAI 的小型“未遂政变”。Automattic 旗下包括 Wordpress.com、Tumblr 和 Beeper 等业务。本周早些时候 Mullenweg 通过公司 Slack 频道指责首席财务官 Mark Da",
       "tags": [
         "计算机",
         "开源",
         "科技",
         "AI"
       ],
-      "url": "https://www.solidot.org/story?sid=85359"
-    },
-    {
-      "id": "07e30d1ae0c54331",
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-12T14:40:00.000Z",
-      "priority": "high",
-      "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
-    },
-    {
-      "id": "bbd42f914b591c41",
-      "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-12T13:15:04.000Z",
-      "priority": "high",
-      "summary": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html"
-    },
-    {
-      "id": "96c1300793a2d942",
-      "title": "25 名菲尔茨奖得主发表公开信批评 AI 公司",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-09-12T12:17:51.000Z",
-      "priority": "high",
-      "summary": "包括陶哲轩、新晋得主邓煜在内的 25 名菲尔茨奖得主发表公开信《A Severe Misalignment of AI in Mathematics》，批评 AI 公司最近的所作所为。公开信称，“过去几个月 LLM 的数学能力有飞跃式提升，甚至达到了能解决数学领域重大悬而未决问题的地步。但各大 AI 公司仅仅将解决数学问题作为基准测试（Benchmark）推",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技",
-        "AI"
-      ],
-      "url": "https://www.solidot.org/story?sid=85358"
-    },
-    {
-      "id": "55f9974596857bc2",
-      "title": "I spent $4,000 on a robot dog from China",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-12T11:00:53.000Z",
-      "priority": "normal",
-      "summary": "Unitree might be the world’s most important robotics company.",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/"
+      "url": "https://www.solidot.org/story?sid=85365"
     },
     {
       "id": "5693dda069733096",
@@ -1029,132 +1370,6 @@
       "url": "https://www.eetimes.com/inside-architect-labs-two-week-chip-design/"
     },
     {
-      "id": "4fb7c0b8bdda9ea1",
-      "title": "Some satellite companies still have an appetite for boutique launch services",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-11T23:34:45.000Z",
-      "priority": "high",
-      "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
-      "tags": [
-        "计算机",
-        "科技",
-        "卫星",
-        "火箭"
-      ],
-      "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/"
-    },
-    {
-      "id": "96e548aed8a94b10",
-      "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-11T22:42:14.000Z",
-      "priority": "normal",
-      "summary": "On Sept. 11, 2001, hijackers flew planes into the World Trade Center and the Pentagon, killing thousands. Photos capture those marking the 25th anniversary.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html"
-    },
-    {
-      "id": "c86fa025be212ab1",
-      "title": "Heterogeneous Memory Chiplets Accelerate Multi-Request LLM Inference (NUS)",
-      "category": "electronics",
-      "region": "global",
-      "source": "Semiconductor Engineering",
-      "publishedAt": "2026-09-11T21:56:01.000Z",
-      "priority": "high",
-      "summary": "Researchers at the National University of Singapore published a technical paper titled “CHIPSMORE: Compute-in-Interconnect and -Memory Chiplets for Multi-Mode Multi-Request LLM Inf",
-      "tags": [
-        "半导体",
-        "芯片"
-      ],
-      "url": "https://semiengineering.com/heterogeneous-memory-chiplets-accelerate-multi-request-llm-inference-nus/"
-    },
-    {
-      "id": "58252ab940258f2a",
-      "title": "Reducing HBM ECC Controller Overhead For AI Inference (RPI, IBM)",
-      "category": "electronics",
-      "region": "global",
-      "source": "Semiconductor Engineering",
-      "publishedAt": "2026-09-11T21:43:18.000Z",
-      "priority": "high",
-      "summary": "Researchers at Rensselaer Polytechnic Institute and IBM T.J. Watson Research Center published a technical paper titled “REACH: Controller-Managed Long-Span ECC for HBM AI Inference",
-      "tags": [
-        "半导体",
-        "芯片",
-        "AI"
-      ],
-      "url": "https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm/"
-    },
-    {
-      "id": "d7b2f7525c3f51ed",
-      "title": "Random rewards enrich classic game-theory insights",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-11T21:41:16.000Z",
-      "priority": "high",
-      "summary": "Simple games gain rich strategies in the face of noise.",
-      "tags": [
-        "计算机",
-        "科技",
-        "AI"
-      ],
-      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/"
-    },
-    {
-      "id": "cde9010a3bb0514c",
-      "title": "Molybdenum Quasi Phase-Only Masks Improve EUV Imaging (NYCU, TSMC)",
-      "category": "electronics",
-      "region": "global",
-      "source": "Semiconductor Engineering",
-      "publishedAt": "2026-09-11T21:28:44.000Z",
-      "priority": "normal",
-      "summary": "Researchers at National Yang Ming Chiao Tung University and TSMC published a technical paper titled “High contrast EUV imaging enabled by topological quasi phase-only masks.” Abstr",
-      "tags": [
-        "半导体",
-        "芯片"
-      ],
-      "url": "https://semiengineering.com/molybdenum-quasi-phase-only-masks-improve-euv-imaging-nycu-tsmc/"
-    },
-    {
-      "id": "23758e513507dfd2",
-      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-11T21:14:26.000Z",
-      "priority": "high",
-      "summary": "The strain lurking in the inflatable structure was hypervirulent.",
-      "tags": [
-        "计算机",
-        "科技",
-        "AI",
-        "火箭"
-      ],
-      "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/"
-    },
-    {
-      "id": "66dae98fd7358ca1",
-      "title": "Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven, ASM)",
-      "category": "electronics",
-      "region": "global",
-      "source": "Semiconductor Engineering",
-      "publishedAt": "2026-09-11T21:06:41.000Z",
-      "priority": "high",
-      "summary": "Researchers at imec, KU Leuven, and ASM published a technical paper titled “Dissecting the transition metal dichalcogenides-based metal-oxide-semiconductor structures charge compon",
-      "tags": [
-        "半导体",
-        "芯片"
-      ],
-      "url": "https://semiengineering.com/characterizing-charge-components-in-tmd-based-mos-structures-imec-ku-leuven-asm/"
-    },
-    {
       "id": "4a5bb6805699d902",
       "title": "Fabships Aim to Exploit ‘Free’ Space Vacuum for Compound Semiconductor Substrates",
       "category": "electronics",
@@ -1169,114 +1384,6 @@
         "AI"
       ],
       "url": "https://www.eetimes.com/fabships-aim-to-exploit-free-space-vacuum-for-compound-semiconductor-substrates/"
-    },
-    {
-      "id": "f05fa7ec6ea92255",
-      "title": "Modeling Predicts Cure And Thermal Endurance Of Advanced Packaging Underfill (NIST, UCSD et al.)",
-      "category": "electronics",
-      "region": "global",
-      "source": "Semiconductor Engineering",
-      "publishedAt": "2026-09-11T20:54:59.000Z",
-      "priority": "normal",
-      "summary": "Researchers at the NIST, UCSD et al. published a technical paper titled “Predicting Cure Evolution and Thermal Endurance of a Highly Filled Epoxy Underfill for Advanced Packaging.”",
-      "tags": [
-        "半导体",
-        "芯片"
-      ],
-      "url": "https://semiengineering.com/modeling-predicts-cure-and-thermal-endurance-of-advanced-packaging-underfill-nist-ucsd-et-al/"
-    },
-    {
-      "id": "c9ae2a448b444450",
-      "title": "Trump's forced coal plant extensions thrown out by judge",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-11T20:32:59.000Z",
-      "priority": "normal",
-      "summary": "The Department of Energy declared an \"emergency\" when none existed.",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/"
-    },
-    {
-      "id": "34cce52e60e03811",
-      "title": "HW Information-Flow Tracking for Pre-Silicon Security Testing (Princeton, MIT, EPFL)",
-      "category": "electronics",
-      "region": "global",
-      "source": "Semiconductor Engineering",
-      "publishedAt": "2026-09-11T20:15:35.000Z",
-      "priority": "high",
-      "summary": "Researchers at Princeton University, MIT CSAIL, and EPFL published a technical paper titled “Efficient Hardware Information-Flow Tracking for Pre-Silicon Security Testing.” Abstrac",
-      "tags": [
-        "半导体",
-        "芯片",
-        "AI"
-      ],
-      "url": "https://semiengineering.com/hw-information-flow-tracking-for-pre-silicon-security-testing-princeton-mit-epfl/"
-    },
-    {
-      "id": "0d444d4e751e1cb5",
-      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-11T19:48:09.000Z",
-      "priority": "normal",
-      "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invi",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/"
-    },
-    {
-      "id": "bdc78941dc3564da",
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-11T19:34:09.000Z",
-      "priority": "high",
-      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
-      "tags": [
-        "计算机",
-        "科技",
-        "AI"
-      ],
-      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/"
-    },
-    {
-      "id": "96e9022e79416eae",
-      "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-11T18:49:39.000Z",
-      "priority": "normal",
-      "summary": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/"
-    },
-    {
-      "id": "c34ea07e6f46d90e",
-      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-11T18:22:22.000Z",
-      "priority": "high",
-      "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
-      "tags": [
-        "计算机",
-        "科技",
-        "AI"
-      ],
-      "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/"
     },
     {
       "id": "d1671fc9fd90f0b2",
@@ -1294,37 +1401,6 @@
       "url": "https://spectrum.ieee.org/ieee-to-reward-sections"
     },
     {
-      "id": "0a6735592c496bbb",
-      "title": "NASA&#8217;s Chandra Spots Galactic Gem",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-11T17:19:47.000Z",
-      "priority": "normal",
-      "summary": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies we",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/"
-    },
-    {
-      "id": "c8dbca67033d4ab4",
-      "title": "因 NASA 削减预算 ESA 将独立完成金星探索项目",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-09-11T16:57:44.000Z",
-      "priority": "normal",
-      "summary": "因特朗普政府削减了 NASA 预算，难以兑现提供合成孔径雷达的承诺，欧洲 ESA 将独立推进金星探索项目 Envision。Envision 轨道探测器任务旨在对金星表面进行测绘，由于金星表面被厚厚的硫酸云层笼罩，需要使用雷达穿透云层。NASA 与 ESA 于 2024 年签署了一份谅解备忘录，NASA 提供美制合成孔径雷达，通过其深空网络提供跟踪与通信支持",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=85357"
-    },
-    {
       "id": "0ad953f9c593e76a",
       "title": "Saudi crown prince sought US military help with Houthis, sources say",
       "category": "security",
@@ -1338,38 +1414,6 @@
         "战争安全"
       ],
       "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/11/saudi-crown-prince-sought-us-military-help-with-houthis-sources-say/"
-    },
-    {
-      "id": "af40d725e2ce705d",
-      "title": "NASA moving at warp speed to set up US Space Academy",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-11T16:20:43.000Z",
-      "priority": "high",
-      "summary": "NASA asks US states to show them the money.",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/"
-    },
-    {
-      "id": "6bf674de35ddcc56",
-      "title": "尼泊尔用大疆无人机运送遗体和食物",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-09-11T15:38:18.000Z",
-      "priority": "high",
-      "summary": "在毁灭性的泥石流之后，尼泊尔正利用大疆无人机运送遇难者遗体，向幸存者运送食物。尼泊尔军方正使用中国捐赠的四架大疆 FlyCart 100 无人机，每天执行 10-16 次物资运送任务。FlyCart 100 配备了约 30 米长的绳索和绞盘系统，可用于吊装和投放重物。根据电池配置的不同，无人机载重能力在 85-100 公斤之间。尼泊尔军方使用无人机每趟运送约",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技",
-        "无人系统"
-      ],
-      "url": "https://www.solidot.org/story?sid=85356"
     },
     {
       "id": "6b5104f4aeac5eea",
@@ -1387,84 +1431,6 @@
         "火箭"
       ],
       "url": "https://www.defensenews.com/global/europe/2026/09/11/polish-prime-minister-poland-to-develop-its-own-starlink/"
-    },
-    {
-      "id": "e2480cdb522feba8",
-      "title": "远程办公增加了睡眠时间但减少了身体活动",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-09-11T15:17:41.000Z",
-      "priority": "normal",
-      "summary": "根据 Turku 大学的一项研究，远程办公增加了睡眠时间但减少了身体活动。研究人员分析了混合办公者在远程办公和去办公室办公之间的睡眠、久坐行为及身体活动差异。结果显示，相比去办公室办公，远程办公日的平均睡眠时间多了 15分钟，但坐姿或卧姿时间增加了 45 分钟。站立、轻度身体活动以及中高强度身体活动的时间都有所减少。研究还显示，办公室办公日的步行和骑行活动，",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=85355"
-    },
-    {
-      "id": "61abb4d7ced89bb9",
-      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-11T15:05:20.000Z",
-      "priority": "normal",
-      "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/"
-    },
-    {
-      "id": "730942a6039b8c4f",
-      "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-11T14:56:25.000Z",
-      "priority": "normal",
-      "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. Tha",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/"
-    },
-    {
-      "id": "2629ecc517022d4d",
-      "title": "科学家利用高压和逾 2000 高温制造超离子冰",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-09-11T14:43:58.000Z",
-      "priority": "normal",
-      "summary": "水是人类文明中最常见也最不可或缺的物质，但如果单纯以理化的视角来看，它其实是太阳系中最怪异的液体之一。结冰时体积膨胀密度变小、高得离奇的表面张力和沸点，若仅按分子量计算，它在室温下甚至本该是气态。而当我们离开地球，将环境调至极端的高温与高压时，水分子的行为还会变得更加离奇。一个法国的研究团队，近期在实验室中成功打造出极端环境下的新型态冰结晶——六方密堆积超离",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=85354"
-    },
-    {
-      "id": "fd441e00eaa815f8",
-      "title": "中国科学家提议利用废弃煤矿展开农业试验",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-09-11T14:37:21.000Z",
-      "priority": "normal",
-      "summary": "中国各地分布着逾 12,000 座废弃煤矿，这些煤矿拥有巨大的地下空间和完善的基础设施，具备改造利用的潜力。太原理工大学、山西省煤基资源绿色高效开发工程中心等机构的研究人员在《中国矿业》期刊上发表论文，提议利用废弃煤矿展开农业试验。废弃煤矿的一个显而易见的缺陷是缺乏农作物所必须的阳光和降雨，但优点是地下环境能精确调控，不受天气波动、气候变化及自然灾害的影响。",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=85353"
     },
     {
       "id": "85a827c7f3a3c97a",
@@ -1531,22 +1497,6 @@
       "url": "https://www.defensenews.com/global/europe/2026/09/11/german-military-eyes-cruise-missiles-from-covenant-a-surprise-vendor-setting-up-shop/"
     },
     {
-      "id": "499c7eee1e277f11",
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-11T13:02:35.000Z",
-      "priority": "high",
-      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-      "tags": [
-        "计算机",
-        "科技",
-        "AI"
-      ],
-      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/"
-    },
-    {
       "id": "9d586aff05b3d74b",
       "title": "Week in images: 07-11 Sep 2026",
       "category": "aerospace",
@@ -1560,54 +1510,6 @@
         "航天"
       ],
       "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026"
-    },
-    {
-      "id": "ba60b3599a47b9d8",
-      "title": "儿童因经常将笔记本电脑放在腹部而出现烤肤症",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-09-11T12:46:03.000Z",
-      "priority": "normal",
-      "summary": "《BMJ Case Reports》报告了一起奇特的病例，一名儿童因腹部皮肤出现奇怪斑痕而送去急症。医生查找许久未发现病因，因此开了抗生素让他回家，叮嘱父母如果病情变化立即来复诊。两周后，这名儿童再次入院，他的病情出现恶化。皮肤斑块变大，颜色变深，且有触痛。这名儿童透露了一个情况，他是在家上学，经常使用笔记本电脑，他习惯将笔电放在腹部，有时一用就是八个小时，",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=85352"
-    },
-    {
-      "id": "8f66268b81b13eb1",
-      "title": "Sub-$100 smartphones becoming a rarity as AI memory prices soar",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-09-11T11:59:39.000Z",
-      "priority": "high",
-      "summary": "The days of the sub-$100 smartphone may be numbered, including in China.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/09/11/cheap-china-smartphones-rare-memory-ai-costs.html"
-    },
-    {
-      "id": "5bb9d799ec206a51",
-      "title": "Rust 语言成为微软的一级支持语言",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-09-11T11:04:52.000Z",
-      "priority": "normal",
-      "summary": "微软 Rust 工具团队首席工程师 Victor Ciura 在本周举行的 RustConf 大会宣布，微软已将 Rust 语言指定为“一级（Tier One）”支持语言，与 C++、C# 和 TypeScript 处于同一位置。Ciura 表示，微软构建了一套完善的工具和流程体系，为 Rust 语言在整个软件开发生命周期中的本地开发提供支持。Rust 语言",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=85351"
     },
     {
       "id": "1ed5b2c113f54fdc",
@@ -1626,22 +1528,6 @@
       "url": "https://www.defensenews.com/global/asia-pacific/2026/09/11/india-puts-domestic-industry-at-heart-of-new-military-equipment-orders/"
     },
     {
-      "id": "59b964a51c3880dd",
-      "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
-      "category": "aerospace",
-      "region": "global",
-      "source": "ESA Space News",
-      "publishedAt": "2026-09-11T08:00:00.000Z",
-      "priority": "high",
-      "summary": "On 15 September, two spacecraft will leave Earth together aboard the same launcher from Europe’s spaceport in Kourou: FLEX, ESA’s photosynthesis mission, and Sentinel-3C, Copernicu",
-      "tags": [
-        "ESA",
-        "航天",
-        "火箭"
-      ],
-      "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control"
-    },
-    {
       "id": "dc66a0ffd5dbde43",
       "title": "Indian Researchers Look Beyond GPUs to Neuromorphic AI Hardware",
       "category": "electronics",
@@ -1656,83 +1542,6 @@
         "AI"
       ],
       "url": "https://www.eetimes.com/indian-researchers-look-beyond-gpus-to-neuromorphic-ai-hardware/"
-    },
-    {
-      "id": "ac8e3674c2eea253",
-      "title": "Chip Industry Week in Review",
-      "category": "electronics",
-      "region": "global",
-      "source": "Semiconductor Engineering",
-      "publishedAt": "2026-09-11T07:01:29.000Z",
-      "priority": "high",
-      "summary": "12-inch high-NA EUV masks; Arm's edge AI push; Amkor's expansion; 3D memory; FeRAM startup makes waves; Qualcomm-AWS $60B custom silicon deal; Ayar Labs' scale-up deal; new iPhone ",
-      "tags": [
-        "半导体",
-        "芯片",
-        "AI"
-      ],
-      "url": "https://semiengineering.com/chip-industry-week-in-review-155/"
-    },
-    {
-      "id": "24db770b88032860",
-      "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-11T04:05:00.000Z",
-      "priority": "normal",
-      "summary": "APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmo",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/"
-    },
-    {
-      "id": "de1db0e49888df02",
-      "title": "Monterrey Amid Mountains",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-11T04:01:00.000Z",
-      "priority": "high",
-      "summary": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental.",
-      "tags": [
-        "NASA",
-        "航天",
-        "AI"
-      ],
-      "url": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/"
-    },
-    {
-      "id": "21beb6e48b1b0d1b",
-      "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-10T21:11:32.000Z",
-      "priority": "normal",
-      "summary": "The Republic of Djibouti will sign the Artemis Accords during a ceremony at 11 a.m. EDT, Monday, Sept. 14, at NASA Headquarters in Washington, becoming the 72nd country signatory. ",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/"
-    },
-    {
-      "id": "d692cc0bd259a8bc",
-      "title": "NASA Answers President’s Call to Establish United States Space Academy",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-10T20:26:52.000Z",
-      "priority": "normal",
-      "summary": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the ",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/"
     },
     {
       "id": "bd5069b62d85a334",
@@ -1767,21 +1576,6 @@
       "url": "https://www.defensenews.com/flashpoints/middle-east/2026/09/10/iran-attack-on-base-in-jordan-damaged-american-military-aircraft-us-official-says/"
     },
     {
-      "id": "99204928759028d5",
-      "title": "NASA&#8217;s Life-Saving Technology Where Cell Signals Can&#8217;t Go",
-      "category": "aerospace",
-      "region": "global",
-      "source": "NASA Breaking News",
-      "publishedAt": "2026-09-10T20:12:39.000Z",
-      "priority": "normal",
-      "summary": "Search and rescue technology developed in part by NASA saved five lives",
-      "tags": [
-        "NASA",
-        "航天"
-      ],
-      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/"
-    },
-    {
       "id": "7a24127ce8343c28",
       "title": "Codeveloper of Ethernet Predecessor Dies at 91",
       "category": "electronics",
@@ -1812,21 +1606,6 @@
         "AI"
       ],
       "url": "https://www.defensenews.com/global/2026/09/10/russia-sends-bones-of-medieval-warrior-prince-to-ukraine-front-to-boost-morale/"
-    },
-    {
-      "id": "ab2ecf5d538277fe",
-      "title": "Name our dino – ESA’s Hera asteroid mission mascot!",
-      "category": "aerospace",
-      "region": "global",
-      "source": "ESA Space News",
-      "publishedAt": "2026-09-10T14:00:00.000Z",
-      "priority": "normal",
-      "summary": "The European Space Agency’s Hera asteroid mission for planetary defence has a cartoon dinosaur for its mascot – because dinos were made extinct after an asteroid impact, but while ",
-      "tags": [
-        "ESA",
-        "航天"
-      ],
-      "url": "https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot"
     },
     {
       "id": "09fa6d8fd9169cc4",
@@ -1879,20 +1658,256 @@
       "url": "https://www.defensenews.com/global/europe/2026/09/10/us-radar-maker-echodyne-mulls-european-production-as-drone-warfare-fuels-demand/"
     },
     {
-      "id": "2fbd14d03046194d",
-      "title": "ADI Snaps Alif Semiconductor to Push AI into Physical Systems",
+      "id": "976cfa2785bad0cb",
+      "title": "SpaceX launches classified payload for the U.S. Space Force",
+      "category": "aerospace",
+      "region": "global",
+      "source": "Spaceflight Now",
+      "publishedAt": "2026-09-09T22:32:04.000Z",
+      "priority": "high",
+      "summary": "The mission, dubbed USSF-153 mission, launched an undisclosed number of satellites for the U.S. Space Force. Liftoff from pad 4E at Vandenberg Space Force Base happened at 8:42 a.m",
+      "tags": [
+        "火箭",
+        "发射",
+        "航天",
+        "卫星"
+      ],
+      "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/"
+    },
+    {
+      "id": "6685112da35d87a4",
+      "title": "An Engineer’s Guide to Surviving a Layoff",
       "category": "electronics",
       "region": "global",
-      "source": "EE Times",
-      "publishedAt": "2026-09-10T11:00:00.000Z",
-      "priority": "high",
-      "summary": "The $1.35 billion deal marks another edge AI leap of faith, combining analog sensing with low-power AI processors. The post ADI Snaps Alif Semiconductor to Push AI into Physical Sy",
+      "source": "IEEE Spectrum",
+      "publishedAt": "2026-09-09T15:03:38.000Z",
+      "priority": "normal",
+      "summary": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech ca",
       "tags": [
-        "芯片",
-        "电子工程",
+        "电子信息",
+        "工程"
+      ],
+      "url": "https://spectrum.ieee.org/how-to-survive-a-layoff"
+    },
+    {
+      "id": "ce4953ef6380f9ae",
+      "title": "MTM's selfie footage of BepiColombo's eight-year journey",
+      "category": "aerospace",
+      "region": "global",
+      "source": "ESA Space News",
+      "publishedAt": "2026-09-09T12:00:00.000Z",
+      "priority": "normal",
+      "summary": "Video: 00:04:20 Witness how over the last eight years, the ESA/JAXA BepiColombo mission has been travelling through the inner Solar System and aligning itself with Mercury's orbit.",
+      "tags": [
+        "ESA",
+        "航天"
+      ],
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey"
+    },
+    {
+      "id": "e253cef84f6b6f3e",
+      "title": "Rivian’s Gambit for Full Autonomy",
+      "category": "electronics",
+      "region": "global",
+      "source": "IEEE Spectrum",
+      "publishedAt": "2026-09-08T13:00:04.000Z",
+      "priority": "normal",
+      "summary": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif. , through areas crowded with touchstones of tech history. We cruise near the landmar",
+      "tags": [
+        "电子信息",
+        "工程"
+      ],
+      "url": "https://spectrum.ieee.org/rivian-self-driving"
+    },
+    {
+      "id": "0b06c749b54844a7",
+      "title": "The Growing Proof That Autonomous Cars Save Lives",
+      "category": "electronics",
+      "region": "global",
+      "source": "IEEE Spectrum",
+      "publishedAt": "2026-09-08T12:59:04.000Z",
+      "priority": "high",
+      "summary": "Plenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial o",
+      "tags": [
+        "电子信息",
+        "工程",
         "AI"
       ],
-      "url": "https://www.eetimes.com/adi-snaps-alif-semiconductor-to-push-ai-into-physical-systems/"
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe"
+    },
+    {
+      "id": "c442c456aaa7ec05",
+      "title": "Anak Krakatau eruption by Sentinel-3",
+      "category": "aerospace",
+      "region": "global",
+      "source": "ESA Space News",
+      "publishedAt": "2026-09-08T08:45:00.000Z",
+      "priority": "normal",
+      "summary": "Image: Copernicus Sentinel-3 captured a plume from the eruption of Anak Krakatau on Saturday, 5 September.",
+      "tags": [
+        "ESA",
+        "航天"
+      ],
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3"
+    },
+    {
+      "id": "ee3dca8998b1b38f",
+      "title": "Workshops Educate African Researchers On How to Publish With IEEE",
+      "category": "electronics",
+      "region": "global",
+      "source": "IEEE Spectrum",
+      "publishedAt": "2026-09-07T18:00:03.000Z",
+      "priority": "normal",
+      "summary": "Many researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees ",
+      "tags": [
+        "电子信息",
+        "工程"
+      ],
+      "url": "https://spectrum.ieee.org/ieee-workshop-xplore-africa"
+    },
+    {
+      "id": "115ac2aaff4cddbe",
+      "title": "SpaceX launches 80th Starlink mission of 2026",
+      "category": "aerospace",
+      "region": "global",
+      "source": "Spaceflight Now",
+      "publishedAt": "2026-09-05T22:06:47.000Z",
+      "priority": "high",
+      "summary": "SpaceX decided to shift all Starlink missions flying on Falcon 9 rockets to the West Coast as it pushes towards the debut of its Starship-Super Heavy in Florida. Liftoff of the Sta",
+      "tags": [
+        "火箭",
+        "发射",
+        "航天"
+      ],
+      "url": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/"
+    },
+    {
+      "id": "c44bf13fec8fdf8b",
+      "title": "Protecting Dynamic Industrial Robot Cable Carriers",
+      "category": "electronics",
+      "region": "global",
+      "source": "IEEE Spectrum",
+      "publishedAt": "2026-09-03T12:18:21.000Z",
+      "priority": "normal",
+      "summary": "This article is brought to you by Tsubaki KabelSchlepp . In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demandi",
+      "tags": [
+        "电子信息",
+        "工程"
+      ],
+      "url": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection"
+    },
+    {
+      "id": "35ce915052fc48b5",
+      "title": "Applying Different Forms of Mentorship",
+      "category": "electronics",
+      "region": "global",
+      "source": "IEEE Spectrum",
+      "publishedAt": "2026-09-02T19:45:58.000Z",
+      "priority": "normal",
+      "summary": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech ca",
+      "tags": [
+        "电子信息",
+        "工程"
+      ],
+      "url": "https://spectrum.ieee.org/forms-of-engineering-mentorship"
+    },
+    {
+      "id": "5b079050e8ad529d",
+      "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
+      "category": "electronics",
+      "region": "global",
+      "source": "IEEE Spectrum",
+      "publishedAt": "2026-09-02T18:00:03.000Z",
+      "priority": "high",
+      "summary": "In the 1960s NASA began developing a system of reusable space shuttles to make its work more efficient and to reduce costs. The shuttles could launch like rockets, maneuver in Eart",
+      "tags": [
+        "电子信息",
+        "工程",
+        "火箭"
+      ],
+      "url": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone"
+    },
+    {
+      "id": "99ce2b43767a1e82",
+      "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
+      "category": "electronics",
+      "region": "global",
+      "source": "IEEE Spectrum",
+      "publishedAt": "2026-09-02T13:00:04.000Z",
+      "priority": "high",
+      "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered",
+      "tags": [
+        "电子信息",
+        "工程",
+        "AI"
+      ],
+      "url": "https://spectrum.ieee.org/ai-engineer-skills"
+    },
+    {
+      "id": "50fb48948b206a88",
+      "title": "SpaceX launches Starlink mission from West Coast",
+      "category": "aerospace",
+      "region": "global",
+      "source": "Spaceflight Now",
+      "publishedAt": "2026-09-01T20:56:22.000Z",
+      "priority": "high",
+      "summary": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California occurred at 1:42 a.m. PDT (4:42 a.m. EDT / 0842 UTC).",
+      "tags": [
+        "火箭",
+        "发射",
+        "航天"
+      ],
+      "url": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/"
+    },
+    {
+      "id": "f4057af5cacd2f35",
+      "title": "Roman Space Telescope, NASA&#8217;s next &#8216;great observatory,&#8217; launched",
+      "category": "aerospace",
+      "region": "global",
+      "source": "Spaceflight Now",
+      "publishedAt": "2026-08-29T22:17:36.000Z",
+      "priority": "high",
+      "summary": "Using a donated Hubble-class mirror originally built for a spy satellite, NASA's Roman Space Telescope launched Sunday on a $4.3 billion mission to open a new window on the univers",
+      "tags": [
+        "火箭",
+        "发射",
+        "航天",
+        "卫星"
+      ],
+      "url": "https://spaceflightnow.com/2026/08/29/roman-space-telescope-nasas-next-great-observatory-poised-for-sunday-launch/"
+    },
+    {
+      "id": "25a8302a69b937c9",
+      "title": "SpaceX launches 27 Starlink satellites on Falcon 9 rocket from Vandenberg",
+      "category": "aerospace",
+      "region": "global",
+      "source": "Spaceflight Now",
+      "publishedAt": "2026-08-25T22:28:32.000Z",
+      "priority": "high",
+      "summary": "The Falcon 9 rocket flew on a south-easterly trajectory upon launching from Vandenberg Space Force Base. Liftoff happened at 2:35 a.m. PDT (5:35 a.m. EDT / 0935 UTC).",
+      "tags": [
+        "火箭",
+        "发射",
+        "航天",
+        "卫星"
+      ],
+      "url": "https://spaceflightnow.com/2026/08/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/"
+    },
+    {
+      "id": "88064c600e7d46e2",
+      "title": "SpaceX launches Starlink mission on a Falcon booster’s record-breaking 37th flight",
+      "category": "aerospace",
+      "region": "global",
+      "source": "Spaceflight Now",
+      "publishedAt": "2026-08-24T19:19:59.000Z",
+      "priority": "high",
+      "summary": "The Starlink 10-49 mission is set to be the 100th launch of a Falcon 9 rocket in 2026. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 5:33 a.m. EDT (093",
+      "tags": [
+        "火箭",
+        "发射",
+        "航天"
+      ],
+      "url": "https://spaceflightnow.com/2026/08/24/live-coverage-spacex-to-launch-starlink-mission-on-a-falcon-boosters-record-breaking-37th-flight/"
     }
   ]
 }
