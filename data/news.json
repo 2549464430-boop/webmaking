@@ -1,20 +1,920 @@
 {
-  "updatedAt": "2026-11-14T05:11:27.279Z",
+  "updatedAt": "2026-11-15T05:03:48.573Z",
   "items": [
     {
-      "id": "1ccb5e642976de38",
-      "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
+      "id": "d25901da10e99218",
+      "title": "首次落地海南的“博博会”：一场展会与自贸港的“双向奔赴”",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-11-15T04:16:37.000Z",
+      "priority": "normal",
+      "summary": "中新网海口11月15日电(记者 王子谦)第十一届中国博物馆及相关产品与技术博览会(简称“博博会”)正在海口举办。在海南农垦博物馆展台，不同省份的业内人士汇聚，畅谈文博数字化建设、展陈升级与馆际协同发展新思路。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732306.shtml"
+    },
+    {
+      "id": "eb3d32e6c8f2ec01",
+      "title": "2026新华网思客年会在大同举办 聚焦能源安全与产业体系",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-11-15T04:13:04.000Z",
+      "priority": "normal",
+      "summary": "中新网大同11月15日电 (记者 胡健)2026新华网思客年会14日在山西大同举办。这座以煤炭闻名的城市在会上披露一组数据：全市已投运算力服务器超81万台，算力产业营收达117亿元人民币，新能源装机占比超过58%。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732304.shtml"
+    },
+    {
+      "id": "586f177a4dc20ba0",
+      "title": "BLG登顶S16全球总决赛冠军宝座，2000万人在B站见证LPL历史时刻",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-11-15T04:05:34.000Z",
+      "priority": "normal",
+      "summary": "11月15日，在2026英雄联盟全球总决赛(S16)中，哔哩哔哩旗下战队BLG(Bilibili Gaming)以3:1击败了韩国LCK赛区的Gen.G战队，夺得S16冠军宝座。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732302.shtml"
+    },
+    {
+      "id": "8e721209e6eed40b",
+      "title": "1至10月份中国国家铁路发送货物34.2亿吨",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-11-15T04:03:30.000Z",
+      "priority": "normal",
+      "summary": "中新社北京11月15日电 中国国家铁路集团有限公司(简称“国铁集团”)15日发布的数据显示，今年1至10月份，国家铁路累计发送货物34.2亿吨，日均装车18.92万车，同比分别增长1.1%、1.8%，为降低全社会物流成本、保障国民经济平稳运行提供了可靠运输支撑。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732295.shtml"
+    },
+    {
+      "id": "f1b08b31352f6905",
+      "title": "小辣椒大前景 “中国辣椒之乡”会龙把“椒”傲种进富民路",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-11-15T04:03:26.000Z",
+      "priority": "normal",
+      "summary": "中新网安徽阜阳11月15日电 (游蕾)伴随着淮河琴书《辣椒棚里笑声甜》等文艺节目的精彩上演，“椒香会龙迎丰收·产业富民助振兴”阜南辣椒丰收季活动14日在安徽省阜阳市阜南县会龙镇拉开帷幕。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732293.shtml"
+    },
+    {
+      "id": "c75e633b75eb6bd8",
+      "title": "贡面兴乡村 河北故城贡面制作匠人手工绝活“拉”出细密银丝",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-11-15T04:03:22.000Z",
+      "priority": "normal",
+      "summary": "中新网衡水11月15日电 (邢璐 王鹏 张凯)14日，“匠心传非遗·贡面兴乡村”故城县龙凤贡面技艺大赛在河北省衡水市故城县开赛，来自贡面生产企业及家庭工坊的参赛选手同台比拼手工制面技艺。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732294.shtml"
+    },
+    {
+      "id": "b2ebdd75ad2c884e",
+      "title": "博物馆的“焕新”之约：文创出圈 科技造境 故事入心",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-11-15T03:53:25.000Z",
+      "priority": "normal",
+      "summary": "中新网海口11月15日电 题：博物馆的“焕新”之约：文创出圈 科技造境 故事入心",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732292.shtml"
+    },
+    {
+      "id": "0610f6376f1b5393",
+      "title": "城企同频三十年：深圳与中兴把中国标准写进国际规则",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-11-15T03:52:15.000Z",
+      "priority": "normal",
+      "summary": "中新网深圳11月15日电 题：城企同频三十年：深圳与中兴把中国标准写进国际规则",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732290.shtml"
+    },
+    {
+      "id": "90efe7abd3ca47fe",
+      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
       "category": "finance",
       "region": "global",
       "source": "CNBC Business",
-      "publishedAt": "2026-11-14T05:08:24.000Z",
+      "publishedAt": "2026-11-15T02:53:59.000Z",
+      "priority": "high",
+      "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+    },
+    {
+      "id": "c2b158dae6c10f7b",
+      "title": "千亿产值之后 云南文山绿色铝求解“精深”之问",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-11-15T01:52:41.000Z",
       "priority": "normal",
-      "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
+      "summary": "中新网云南文山11月15日电 (肖弼钰)熔铸车间里，泛着橙红色微光的铝水沿流槽奔涌，经熔炼、铸轧，一圈圈银白的铝卷缓缓成形。在文山的铝产业园区内，这些铝水尽量“不落地”，由铝水抬包运输车直送下游企业，就地变成板带、型材等产品。这正是绿色铝产业链延伸最直观的样子。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732244.shtml"
+    },
+    {
+      "id": "d164e84ee6b18351",
+      "title": "高过姚明的章丘大葱 凭什么撑起35亿元产值？",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-11-15T01:49:41.000Z",
+      "priority": "normal",
+      "summary": "中新网山东章丘11月15日电(周艺伟 祁建月)“我参赛的大葱平均株高约2.43米，比姚明还高。”2026章丘大葱丰收季活动14日在山东济南章丘区举行，王金村大葱种植户苗发勇获得2026年章丘大葱种植能手综合评分第一名。“这是我第六次获得章丘大葱种植‘状元’称号，我种出的最高的一株大葱达2.68米，曾打破世界纪录。”",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732239.shtml"
+    },
+    {
+      "id": "bf51627981a126c4",
+      "title": "一老一小社区发展支持计划研讨会举行 专家建言优先培养综合人才",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-11-15T01:48:41.000Z",
+      "priority": "normal",
+      "summary": "中新网北京11月15日电 (张素 马广志)“设施条件可较快改善，运行机制调整难度更高，长期持续运行更具挑战。”近日举行的一场研讨会上，专家建言优先培养“一老一小”社区工作综合人才。",
+      "tags": [
+        "国内金融",
+        "经济"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732232.shtml"
+    },
+    {
+      "id": "2969ecda5da7b952",
+      "title": "金融机构外汇存款准备金率今起提高至6%",
+      "category": "finance",
+      "region": "domestic",
+      "source": "中新网财经",
+      "publishedAt": "2026-11-15T01:18:01.000Z",
+      "priority": "normal",
+      "summary": "今天，中国人民银行上调金融机构外汇存款准备金率正式生效，外汇存款准备金率由现行的4%提高到6%。本次上调有助于促进外汇市场供求平衡，打破人民币升值预期的自我实现。",
+      "tags": [
+        "国内金融",
+        "经济",
+        "市场"
+      ],
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732240.shtml"
+    },
+    {
+      "id": "ce3d0293b2355a53",
+      "title": "SpaceX returned its Starship rocket on Saturday—but there&#039;s a catch",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-15T00:40:59.000Z",
+      "priority": "high",
+      "summary": "It felt like stepping into the future.",
+      "tags": [
+        "计算机",
+        "科技",
+        "火箭"
+      ],
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+    },
+    {
+      "id": "194bae35f58c8ed1",
+      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-15T00:33:00.000Z",
+      "priority": "high",
+      "summary": "The historic first gets SpaceX closer to &#x201c;rapid reusability&#x201d; of rockets.",
+      "tags": [
+        "市场",
+        "投资",
+        "火箭"
+      ],
+      "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories"
+    },
+    {
+      "id": "acaf00569e865f08",
+      "title": "Where was Nvidia&#8217;s security team?",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-15T00:08:07.000Z",
+      "priority": "normal",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of fun",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+    },
+    {
+      "id": "daadbbb0bd006cb3",
+      "title": "SpaceX catches upper stage of Starship rocket in historic first",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-11-14T23:10:14.000Z",
+      "priority": "high",
+      "summary": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
+      "tags": [
+        "金融",
+        "市场",
+        "火箭"
+      ],
+      "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
+    },
+    {
+      "id": "7cd4b72a2ec51ac2",
+      "title": "$180 million Van Gogh tests the art market and collector confidence",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-11-14T22:34:07.000Z",
+      "priority": "high",
+      "summary": "The art auctions in New York next week could top $2 billion, as a treasure trove of masterpieces comes to the market for the first time in decades.",
       "tags": [
         "金融",
         "市场"
       ],
-      "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
+      "url": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html"
+    },
+    {
+      "id": "27928f03d6c1ea74",
+      "title": "How Digital Transformation is Changing Modern Business Management",
+      "category": "automation",
+      "region": "global",
+      "source": "Robotics & Automation News",
+      "publishedAt": "2026-11-14T22:27:28.000Z",
+      "priority": "normal",
+      "summary": "Most organizations have moved past the stage of isolated tech upgrades. What’s happening now is deeper: they’re redesigning the whole operating system of the company. Planning, exe",
+      "tags": [
+        "机器人",
+        "自动化"
+      ],
+      "url": "https://roboticsandautomationnews.com/2026/11/14/how-digital-transformation-is-changing-modern-business-management/107119/"
+    },
+    {
+      "id": "3af6c300efc9f4e3",
+      "title": "Why Mobile Technical Service Teams Are Essential to Modern Industrial Operations",
+      "category": "automation",
+      "region": "global",
+      "source": "Robotics & Automation News",
+      "publishedAt": "2026-11-14T22:17:10.000Z",
+      "priority": "high",
+      "summary": "Modern industrial facilities increasingly depend on automated machinery, robotic systems, and digitally connected equipment to maintain production efficiency. These technologies ca",
+      "tags": [
+        "机器人",
+        "自动化",
+        "AI"
+      ],
+      "url": "https://roboticsandautomationnews.com/2026/11/14/why-mobile-technical-service-teams-are-essential-to-modern-industrial-operations/107115/"
+    },
+    {
+      "id": "7e59a67d8036bc32",
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-11-14T21:44:44.000Z",
+      "priority": "high",
+      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company h",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "火箭"
+      ],
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
+    },
+    {
+      "id": "a4a92fbcda03532a",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-14T21:41:22.000Z",
+      "priority": "normal",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+    },
+    {
+      "id": "e03b3d1d1db0b33e",
+      "title": "I&#x2019;m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-14T21:31:00.000Z",
+      "priority": "normal",
+      "summary": "&#x201c;I have a net worth of $2.3 million and my only debt is a 15-year mortgage.&#x201d;",
+      "tags": [
+        "市场",
+        "投资"
+      ],
+      "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories"
+    },
+    {
+      "id": "05b92b8d7f93b8c5",
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-14T21:00:00.000Z",
+      "priority": "high",
+      "summary": "&#x201c;He has always said he wants his daughter to inherit a chunk of his estate, and I&#x2019;ve never objected to that.&#x201d;",
+      "tags": [
+        "市场",
+        "投资",
+        "AI"
+      ],
+      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories"
+    },
+    {
+      "id": "0f3c66386c82c288",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-14T20:04:44.000Z",
+      "priority": "high",
+      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+    },
+    {
+      "id": "2618677956bc0fe5",
+      "title": "&#x2018;It leaves me with a sour taste&#x2019;: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-14T20:00:00.000Z",
+      "priority": "high",
+      "summary": "&#x201c;I know older people can easily feel patronized, and I don&#x2019;t want that to happen.&#x201d;",
+      "tags": [
+        "市场",
+        "投资",
+        "AI"
+      ],
+      "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories"
+    },
+    {
+      "id": "316d0b3d71d10cd5",
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-11-14T19:47:40.000Z",
+      "priority": "normal",
+      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker,",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件"
+      ],
+      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series"
+    },
+    {
+      "id": "93f92bb58e46adf1",
+      "title": "&#x2018;I&#x2019;m sick of flying&#x2019;: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-14T19:30:00.000Z",
+      "priority": "high",
+      "summary": "&#x201c;Maybe next time I&#x2019;ll try the other approach: I&#x2019;ll board whenever I feel like it and drop my suitcase in the first open slot I see.&#x201d;",
+      "tags": [
+        "市场",
+        "投资",
+        "AI"
+      ],
+      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories"
+    },
+    {
+      "id": "ed60891a05bc3365",
+      "title": "Should a widow leave her late partner&#x2019;s home to her stepkids &#x2014; or cut off contact with them?",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-14T18:30:00.000Z",
+      "priority": "normal",
+      "summary": "&#x201c;It would be a less drastic step than selling the home now and splitting the proceeds.&#x201d;",
+      "tags": [
+        "市场",
+        "投资"
+      ],
+      "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories"
+    },
+    {
+      "id": "08ed142fce60c02f",
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-14T18:00:00.000Z",
+      "priority": "normal",
+      "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/"
+    },
+    {
+      "id": "3c4355507bc7e9ec",
+      "title": "&#x2018;He calls my plans a fantasy&#x2019;: My husband says we can&#x2019;t afford a $200,000-a-year retirement. Is he being cheap?",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-14T18:00:00.000Z",
+      "priority": "normal",
+      "summary": "&#x201c;We have $2 million saved in our retirement accounts and a house worth $1.3 million.&#x201d;",
+      "tags": [
+        "市场",
+        "投资"
+      ],
+      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
+    },
+    {
+      "id": "0fcece49c628e4ab",
+      "title": "Here&#x2019;s how Bernie Sanders wants to keep Social Security solvent &#x2018;for generations&#x2019;",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-14T17:50:00.000Z",
+      "priority": "high",
+      "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+      "tags": [
+        "市场",
+        "投资",
+        "AI"
+      ],
+      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories"
+    },
+    {
+      "id": "5a17e111c7ee41d4",
+      "title": "The trillion-dollar mistake corporate America is making about retirement",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-14T17:50:00.000Z",
+      "priority": "high",
+      "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+      "tags": [
+        "市场",
+        "投资"
+      ],
+      "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories"
+    },
+    {
+      "id": "2a290d2648a94148",
+      "title": "Retirees should be big beneficiaries of the midterms: &#x2018;Democrats will hold every gavel that matters for aging and public policy&#x2019;",
+      "category": "finance",
+      "region": "global",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-14T17:50:00.000Z",
+      "priority": "normal",
+      "summary": "Here&#x2019;s what might be coming for Social Security, Medicare and long-term care.",
+      "tags": [
+        "市场",
+        "投资"
+      ],
+      "url": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories"
+    },
+    {
+      "id": "9a2034b630808d91",
+      "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-11-14T17:46:06.000Z",
+      "priority": "normal",
+      "summary": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
+      "tags": [
+        "金融",
+        "市场"
+      ],
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+    },
+    {
+      "id": "2aae0ad36a1c0089",
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-14T17:45:04.000Z",
+      "priority": "high",
+      "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "tags": [
+        "创业",
+        "AI",
+        "软件"
+      ],
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
+    },
+    {
+      "id": "43a64e6ec908a093",
+      "title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-11-14T17:44:28.000Z",
+      "priority": "high",
+      "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire wit",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire"
+    },
+    {
+      "id": "7134e7e1ad670b60",
+      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-14T17:30:00.000Z",
+      "priority": "high",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件",
+        "火箭"
+      ],
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    },
+    {
+      "id": "d7794aa715c71b22",
+      "title": "美国失去麻疹消除地位",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-11-14T16:52:55.000Z",
+      "priority": "normal",
+      "summary": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过一年。今年美国已报告逾 5400 例麻疹",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=85889"
+    },
+    {
+      "id": "075bbfb634c2a8a5",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "category": "computing",
+      "region": "global",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-14T16:34:15.000Z",
+      "priority": "high",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "tags": [
+        "创业",
+        "AI",
+        "软件",
+        "芯片"
+      ],
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+    },
+    {
+      "id": "90e0a44e38f725c3",
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-11-14T15:50:43.000Z",
+      "priority": "high",
+      "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI",
+        "芯片"
+      ],
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html"
+    },
+    {
+      "id": "be9027e9137ab9a0",
+      "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-11-14T15:36:47.000Z",
+      "priority": "high",
+      "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"
+    },
+    {
+      "id": "9d893453c0dadee0",
+      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-11-14T15:00:00.000Z",
+      "priority": "high",
+      "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the b",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026"
+    },
+    {
+      "id": "d46b516a4c8344dc",
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-11-14T15:00:00.000Z",
+      "priority": "high",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on A",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+    },
+    {
+      "id": "e62244f38033a386",
+      "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-11-14T14:54:22.000Z",
+      "priority": "high",
+      "summary": "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI",
+        "火箭"
+      ],
+      "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html"
+    },
+    {
+      "id": "cafdcfb9c10c9fa6",
+      "title": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-11-14T14:30:01.000Z",
+      "priority": "high",
+      "summary": "With household budgets already squeezed by persistent inflation, some residents are seeking emergency help with heating oil bills before winter begins.",
+      "tags": [
+        "金融",
+        "市场",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html"
+    },
+    {
+      "id": "3fdf29b5c4eabeab",
+      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-11-14T14:18:36.000Z",
+      "priority": "high",
+      "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilde",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print"
+    },
+    {
+      "id": "94798e78f1306727",
+      "title": "天问四号将尝试登陆木卫四",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-11-14T14:12:32.000Z",
+      "priority": "high",
+      "summary": "11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。木卫四或 Callisto 是太阳系第三大卫星，也是木星第二大卫星，仅次于木卫三。木卫四的直径为水星直径的 99%，但是质量只有它的三分之一。木卫四由近乎等量的岩石和水所构成，其表面下 100 公里处可能有一个液态水构",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技",
+        "卫星"
+      ],
+      "url": "https://www.solidot.org/story?sid=85887"
+    },
+    {
+      "id": "8e6bc56f8d3599d6",
+      "title": "Juice your growth and save on taxes in this workplace investment account",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-11-14T14:08:17.000Z",
+      "priority": "normal",
+      "summary": "High-deductible medical benefit plans with health savings accounts are on the menu at many employers as enrollment season for 2027 continues.",
+      "tags": [
+        "金融",
+        "市场"
+      ],
+      "url": "https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html"
+    },
+    {
+      "id": "c3b558a2b152810a",
+      "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-11-14T14:02:39.000Z",
+      "priority": "normal",
+      "summary": "Berkshire Hathaway's red-hot shares are ending a strong week with four consecutive fresh record high closes.",
+      "tags": [
+        "金融",
+        "市场"
+      ],
+      "url": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html"
+    },
+    {
+      "id": "30ba9526ee506416",
+      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-11-14T14:00:00.000Z",
+      "priority": "normal",
+      "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, w",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件"
+      ],
+      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on"
+    },
+    {
+      "id": "36185f58851da9c2",
+      "title": "微软云服务宕机持续逾 24 小时",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-11-14T13:55:50.000Z",
+      "priority": "normal",
+      "summary": "微软周六表示，影响各国企业和政府所用 Microsoft 365 应用的全球服务中断已经结束，这次中断持续了超过 24 小时。微软在 X 上发文说：“我们已完成解决这一事件根本问题的工作，并为其余受影响的客户和地区恢复了服务。”Teams、Outlook 和 Copilot 等微软应用都受到了这次服务中断的影响，导致数十个国家出现通信问题。微软表示，“没有发",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=85886"
+    },
+    {
+      "id": "55993733a62a17bc",
+      "title": "美国历史上第三次航班大停飞",
+      "category": "computing",
+      "region": "domestic",
+      "source": "Solidot",
+      "publishedAt": "2026-11-14T13:24:23.000Z",
+      "priority": "normal",
+      "summary": "美国 FAA 本周五宣布了其历史上第三次全国航班停飞，持续 4.5 小时后解除。此举导致近 1 万架次航班被取消。FAA 历史上第一次全国航班停飞是 2001 年的 911 事件，第二次是 2023 年 1 月 11 日，持续不到 2 小时。对于最新的事件，美国交通部长 Sean Duffy 给出的理由是空管系统依赖的仍是几十年前的模拟设备，已完全无法满足 ",
+      "tags": [
+        "计算机",
+        "开源",
+        "科技"
+      ],
+      "url": "https://www.solidot.org/story?sid=85884"
+    },
+    {
+      "id": "f6ab18d54d4e8319",
+      "title": "A gadget to make your dumb house smarter",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-11-14T13:00:00.000Z",
+      "priority": "normal",
+      "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be h",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件"
+      ],
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer"
+    },
+    {
+      "id": "36a3bda3117215c3",
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-14T12:15:48.000Z",
+      "priority": "normal",
+      "summary": "Radiation and collisions reshape the planetary building materials.",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
+    },
+    {
+      "id": "c03a709644dfc92e",
+      "title": "Winemakers are learning that conservation can be good for business",
+      "category": "computing",
+      "region": "global",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-14T12:05:51.000Z",
+      "priority": "normal",
+      "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+      "tags": [
+        "计算机",
+        "科技"
+      ],
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
+    },
+    {
+      "id": "e4dfe4f27195beec",
+      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+      "category": "finance",
+      "region": "global",
+      "source": "CNBC Business",
+      "publishedAt": "2026-11-14T12:00:01.000Z",
+      "priority": "normal",
+      "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
+      "tags": [
+        "金融",
+        "市场"
+      ],
+      "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html"
+    },
+    {
+      "id": "567fa298898a17ca",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "category": "computing",
+      "region": "global",
+      "source": "The Verge",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "priority": "high",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person ar",
+      "tags": [
+        "科技",
+        "软件",
+        "硬件",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
     },
     {
       "id": "59a2c18b81b5552b",
@@ -31,36 +931,6 @@
         "AI"
       ],
       "url": "https://roboticsandautomationnews.com/2026/11/14/humble-robotics-raises-51-million-to-expand-autonomous-electric-freight-operations/107110/"
-    },
-    {
-      "id": "aea75b6fac1077a8",
-      "title": "四川首票进口南非油桃抵达成都",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-11-14T04:17:30.000Z",
-      "priority": "normal",
-      "summary": "中新网成都11月14日电 (记者 张浪)一批重约1556千克的南非油桃搭乘ET636航班13日飞抵成都天府国际机场，经成都海关所属双流机场海关监管验放后顺利通关。这是四川首票进口南非油桃。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731922.shtml"
-    },
-    {
-      "id": "74183b0dbf32626b",
-      "title": "宁夏前十月外贸额超222亿元 规模超去年全年",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-11-14T04:17:02.000Z",
-      "priority": "normal",
-      "summary": "中新网银川11月14日电 (记者 李佩珊)记者14日从银川海关获悉，今年前10个月，宁夏外贸总值222.1亿元，同比增长27.5%，增速高出全国7.5个百分点，在全国排名第七。目前，宁夏外贸规模已达到2025年全年的105.8%，提前两个月超越去年全年水平，整体呈现逐季抬升、年末加速向好的走势。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731920.shtml"
     },
     {
       "id": "c27a93545af3a966",
@@ -190,68 +1060,6 @@
       "url": "https://roboticsandautomationnews.com/2026/11/14/nexcom-expands-robowiz-robotics-platform-with-new-technology-partners/107080/"
     },
     {
-      "id": "0cc207e01dc594c1",
-      "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-14T02:42:00.000Z",
-      "priority": "high",
-      "summary": "Homeland Security Secretary Mullin said that there was &#x2018;zero evidence&#x2019; of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
-      "tags": [
-        "市场",
-        "投资",
-        "AI"
-      ],
-      "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories"
-    },
-    {
-      "id": "e9171974b345a56c",
-      "title": "国家统计局：11月上旬16种产品价格上涨，生猪价格环比下降6.5%",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-11-14T02:07:49.000Z",
-      "priority": "normal",
-      "summary": "中新网11月14日电 国家统计局11月14日在其官网发布2026年11月上旬流通领域重要生产资料市场价格变动情况。据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年11月上旬与10月下旬相比，16种产品价格上涨，32种下降，2种持平。",
-      "tags": [
-        "国内金融",
-        "经济",
-        "市场"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731905.shtml"
-    },
-    {
-      "id": "500ecb0599a37bb0",
-      "title": "聚焦APEC｜APEC深圳会议各项筹备工作已经就绪",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-11-14T02:06:45.000Z",
-      "priority": "normal",
-      "summary": "新华社深圳11月14日电(记者王丰、杨深深)广东省委常委、APEC会议广东省筹备工作领导小组副组长王曦14日在2026年APEC领导人会议周新闻中心首场吹风会上表示，目前，各项筹备工作已经就绪，我们满怀热忱，静候八方宾客到来。(完)",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731906.shtml"
-    },
-    {
-      "id": "669c23ed07c3737f",
-      "title": "14 dividend stocks selected for long-term growth",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-14T01:58:00.000Z",
-      "priority": "normal",
-      "summary": "These stocks feature attractive dividend payouts and are trading low to the companies&#x2019; intrinsic value, according to John Buckingham of Value87 Investment Partners.",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories"
-    },
-    {
       "id": "1ff2d9e323bc2f07",
       "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
       "category": "computing",
@@ -269,83 +1077,6 @@
       "url": "https://www.theverge.com/news/1033489/faa-ground-stop"
     },
     {
-      "id": "7098bda56f2e092d",
-      "title": "预计到2030年 我国新增清洁能源电量将覆盖新增用电量",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-11-14T01:41:50.000Z",
-      "priority": "normal",
-      "summary": "中国宏观经济研究院昨天(13日)发布《中国能源转型展望2026》。报告显示，目前，我国风电、光伏等清洁能源发电已成为新增装机的主体，并正在逐步成为发电主力。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731902.shtml"
-    },
-    {
-      "id": "be9027e9137ab9a0",
-      "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-11-14T01:34:11.000Z",
-      "priority": "high",
-      "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"
-    },
-    {
-      "id": "00a1f632da4373f8",
-      "title": "SpaceX launches Starship in key test flight of massive rocket",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-11-14T01:18:51.000Z",
-      "priority": "high",
-      "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
-      "tags": [
-        "金融",
-        "市场",
-        "火箭"
-      ],
-      "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
-    },
-    {
-      "id": "b06ccc65b5533757",
-      "title": "从汽车大国到汽车强国 底气藏在超级工厂看不见的硬功夫里",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-11-14T01:06:48.000Z",
-      "priority": "normal",
-      "summary": "在重庆两江新区的一座超级工厂里，如果一颗螺丝没拧到位，整条产线就会立刻“刹车”，保障生产过程中汽车质量过关。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731884.shtml"
-    },
-    {
-      "id": "f5823e351acc676d",
-      "title": "今年1至10月全国铁路发送旅客41.3亿人次 创历史同期新高",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-11-14T00:53:27.000Z",
-      "priority": "normal",
-      "summary": "中新网11月14日电 据“中国铁路”微信公众号消息，今年以来，中国国家铁路集团有限公司坚持以人民为中心的发展思想，精心组织旅客运输，统筹安排运力资源，优化客运产品供给，提升旅客服务品质，1至10月全国铁路累计发送旅客41.3亿人次，同比增长4.7%，创历史同期新高，全国铁路运输安全平稳有序。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731881.shtml"
-    },
-    {
       "id": "46f76adf161f546c",
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
       "category": "computing",
@@ -359,38 +1090,6 @@
         "科技"
       ],
       "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
-    },
-    {
-      "id": "ae3217570306e2c9",
-      "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-11-13T23:54:36.000Z",
-      "priority": "normal",
-      "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html"
-    },
-    {
-      "id": "04367a7d0b10c58a",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-11-13T23:49:11.000Z",
-      "priority": "high",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
     },
     {
       "id": "be0f439fc3d0da04",
@@ -424,21 +1123,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
     },
     {
-      "id": "89ded08b1778699b",
-      "title": "&#x2018;The thought of living to 100 terrifies me&#x2019;: Is Social Security a giant Ponzi scheme?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-13T23:12:00.000Z",
-      "priority": "normal",
-      "summary": "There is already a demographic &#x2018;run&#x2019; on Social Security.",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories"
-    },
-    {
       "id": "57ae9f9b1f7656d9",
       "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
       "category": "computing",
@@ -453,21 +1137,6 @@
         "软件"
       ],
       "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
-    },
-    {
-      "id": "336c8e2ac4226626",
-      "title": "4 expert tips for signing up for Medicare",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-13T22:45:00.000Z",
-      "priority": "normal",
-      "summary": "A day in the life of a Medicare counselor",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories"
     },
     {
       "id": "ec577d4c46a6d8ce",
@@ -486,36 +1155,6 @@
       "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
     },
     {
-      "id": "6265171fc13e0c25",
-      "title": "Nvidia&#x2019;s stock is on a losing streak not seen in 14 years. What comes next?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-13T22:21:00.000Z",
-      "priority": "high",
-      "summary": "Nvidia wiped out $573 billion in market capitalization this week &#x2014;&#xa0;its sixth consecutive week of stock declines.",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories"
-    },
-    {
-      "id": "00ccf51f4f6efee2",
-      "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-11-13T22:18:43.000Z",
-      "priority": "high",
-      "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
-    },
-    {
       "id": "fff0cde2aa5c306e",
       "title": "Why Build a Humanoid Robot From the Sensor Up? The Thinking Behind GENTO&#8217;s CoRL 2026 Debut",
       "category": "automation",
@@ -529,36 +1168,6 @@
         "自动化"
       ],
       "url": "https://roboticsandautomationnews.com/2026/11/13/why-build-a-humanoid-robot-from-the-sensor-up-the-thinking-behind-gentos-corl-2026-debut/107075/"
-    },
-    {
-      "id": "1fb504df866690c4",
-      "title": "Global oil supplies are suddenly flowing. Why a crude glut won&#x2019;t mean cheaper diesel.",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-13T22:04:00.000Z",
-      "priority": "high",
-      "summary": "It&#x2019;s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn&#x2019;t automatically l",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories"
-    },
-    {
-      "id": "3c4355507bc7e9ec",
-      "title": "&#x2018;He calls my plans a fantasy&#x2019;: My husband says we can&#x2019;t afford a $200,000-a-year retirement. Is he being cheap?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-13T22:00:00.000Z",
-      "priority": "normal",
-      "summary": "&#x201c;We have $2 million saved in our retirement accounts and a house worth $1.3 million.&#x201d;",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
     },
     {
       "id": "d1bdb0722f55f2a3",
@@ -591,21 +1200,6 @@
       "url": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside/"
     },
     {
-      "id": "b1bfd581acc28bd2",
-      "title": "Automated Warehouses: Why Safety Infrastructure Matters More Than Ever",
-      "category": "automation",
-      "region": "global",
-      "source": "Robotics & Automation News",
-      "publishedAt": "2026-11-13T21:48:47.000Z",
-      "priority": "high",
-      "summary": "Automated warehouses are changing how logistics work through intelligent material-handling systems, robotics and autonomous vehicles. However, increased automation in the workplace",
-      "tags": [
-        "机器人",
-        "自动化"
-      ],
-      "url": "https://roboticsandautomationnews.com/2026/11/13/automated-warehouses-why-safety-infrastructure-matters-more-than-ever/107070/"
-    },
-    {
       "id": "0c34c8f3387b63b7",
       "title": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances&#8217;",
       "category": "computing",
@@ -622,52 +1216,6 @@
       "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
     },
     {
-      "id": "dc8c49f5e4fc73be",
-      "title": "What Makes Modern Dentistry an Appealing Career Choice",
-      "category": "automation",
-      "region": "global",
-      "source": "Robotics & Automation News",
-      "publishedAt": "2026-11-13T21:38:23.000Z",
-      "priority": "normal",
-      "summary": "Modern dentistry combines patient care, practical problem-solving, and opportunities to work with evolving technology. It offers several professional directions, from general pract",
-      "tags": [
-        "机器人",
-        "自动化"
-      ],
-      "url": "https://roboticsandautomationnews.com/2026/11/13/what-makes-modern-dentistry-an-appealing-career-choice/107065/"
-    },
-    {
-      "id": "e35ff791eb7a8615",
-      "title": "&#x2018;She has a history of financial mismanagement&#x2019;: My brother cut our sister out of his will. I&#x2019;ll get everything. Do I tell her?",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-13T21:32:00.000Z",
-      "priority": "high",
-      "summary": "&#x201c;I&#x2019;m torn between respecting my brother&#x2019;s wishes and being fair to my sister.&#x201d;",
-      "tags": [
-        "市场",
-        "投资",
-        "AI"
-      ],
-      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories"
-    },
-    {
-      "id": "22e25ab09049868c",
-      "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-13T21:26:00.000Z",
-      "priority": "normal",
-      "summary": "Investors may have to sell some of their existing bets in crypto to make room in their portfolio for what could be one of the most sought-after stock offerings in history.",
-      "tags": [
-        "市场",
-        "投资"
-      ],
-      "url": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories"
-    },
-    {
       "id": "c479f2841d4a388a",
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
       "category": "computing",
@@ -682,89 +1230,6 @@
         "AI"
       ],
       "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
-    },
-    {
-      "id": "f8e3a2670000d8e9",
-      "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-11-13T21:18:30.000Z",
-      "priority": "high",
-      "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html"
-    },
-    {
-      "id": "af22ab90f67e0e2a",
-      "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
-      "category": "finance",
-      "region": "global",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-13T21:10:00.000Z",
-      "priority": "high",
-      "summary": "At first, it looked like Nvidia&#x2019;s pain might be the rest of the chip sector&#x2019;s gain. But now, investors aren&#x2019;t so sure.",
-      "tags": [
-        "市场",
-        "投资",
-        "AI",
-        "芯片"
-      ],
-      "url": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories"
-    },
-    {
-      "id": "951c84561943a913",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-11-13T20:45:10.000Z",
-      "priority": "high",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI",
-        "火箭"
-      ],
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
-    },
-    {
-      "id": "b251b3edf0eb059f",
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-11-13T20:30:00.000Z",
-      "priority": "high",
-      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF ",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale"
-    },
-    {
-      "id": "73c73a78d6371d97",
-      "title": "Hassett denies report he's leaving White House: 'Not true'",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-11-13T20:27:47.000Z",
-      "priority": "normal",
-      "summary": "National Economic Council Director Kevin Hassett poured cold water on a report that he's expected to leave the White House in the coming weeks.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html"
     },
     {
       "id": "c407c87afb3e1969",
@@ -798,21 +1263,6 @@
       "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/"
     },
     {
-      "id": "9a7e193fcc8bcca8",
-      "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-11-13T19:53:38.000Z",
-      "priority": "normal",
-      "summary": "Advisors say investors should weigh their Nvidia exposure, time horizon and risk tolerance before reacting to the leadership change.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html"
-    },
-    {
       "id": "61497b9e7ad86e53",
       "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren&#039;t good",
       "category": "computing",
@@ -844,22 +1294,6 @@
       "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
     },
     {
-      "id": "a663158ee53efe3f",
-      "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-11-13T19:30:36.000Z",
-      "priority": "high",
-      "summary": "By deploying a persistent covered call strategy, investors can leverage the exact fear driving the stock down to generate robust, risk-reducing income.",
-      "tags": [
-        "金融",
-        "市场",
-        "AI"
-      ],
-      "url": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html"
-    },
-    {
       "id": "7eafd996c8cbbc7f",
       "title": "Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown",
       "category": "aerospace",
@@ -867,46 +1301,13 @@
       "source": "Spaceflight Now",
       "publishedAt": "2026-11-13T19:15:11.000Z",
       "priority": "normal",
-      "summary": "Liftoff of the Starship vehicle from Starbase in Texas occurred at 4:48 p.m. CST (5:48 p.m. EST / 2248 UTC) on Friday, Nov. 13. The Ship could return to a landing at Starbase on Sa",
+      "summary": "Liftoff of the Starship vehicle from Starbase in Texas occurred at 4:47 p.m. CST (5:47 p.m. EST / 2247 UTC) on Friday, Nov. 13. The Ship could return to a landing at Starbase on Sa",
       "tags": [
         "火箭",
         "发射",
         "航天"
       ],
       "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/"
-    },
-    {
-      "id": "1e95014b591af476",
-      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-11-13T19:14:38.000Z",
-      "priority": "high",
-      "summary": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workar",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI",
-        "火箭"
-      ],
-      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale"
-    },
-    {
-      "id": "9abcd6109fea50e4",
-      "title": "Retirees sometimes tap savings for one-off expenses. Here’s what advisors say to consider first",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-11-13T19:01:12.000Z",
-      "priority": "normal",
-      "summary": "Retirees who need cash for a one-time expense may look to their 401(k) or IRA, but financial advisors say there are trade-offs to weigh first.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/11/13/retirement-401k-ira-withdrawal-taxes.html"
     },
     {
       "id": "0d9fae548b15d920",
@@ -923,55 +1324,6 @@
         "AI"
       ],
       "url": "https://spectrum.ieee.org/microcredentials-trustworthy-ai"
-    },
-    {
-      "id": "3dc626ea28ff3a7d",
-      "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-13T18:40:30.000Z",
-      "priority": "high",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件",
-        "芯片"
-      ],
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
-    },
-    {
-      "id": "d29d43d990e24726",
-      "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
-      "category": "finance",
-      "region": "global",
-      "source": "CNBC Business",
-      "publishedAt": "2026-11-13T18:18:28.000Z",
-      "priority": "normal",
-      "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
-      "tags": [
-        "金融",
-        "市场"
-      ],
-      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
-    },
-    {
-      "id": "3bf2cbe7ba32d632",
-      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-11-13T18:10:41.000Z",
-      "priority": "high",
-      "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The comp",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI"
-      ],
-      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable"
     },
     {
       "id": "d7de7a22c539da8d",
@@ -1003,24 +1355,6 @@
         "战争安全"
       ],
       "url": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/"
-    },
-    {
-      "id": "cfb5766d57c2fb9a",
-      "title": "Jensen Huang was reckless with the environment, too",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-11-13T17:44:22.000Z",
-      "priority": "high",
-      "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI",
-        "芯片"
-      ],
-      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution"
     },
     {
       "id": "743e8b03b2d96bb7",
@@ -1055,24 +1389,6 @@
       "url": "https://www.solidot.org/story?sid=85883"
     },
     {
-      "id": "ecbb932b99bcc642",
-      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-11-13T17:12:56.000Z",
-      "priority": "high",
-      "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids ",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件",
-        "AI",
-        "火箭"
-      ],
-      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain"
-    },
-    {
       "id": "22aacbb4f412fea4",
       "title": "非洲加速发展太阳能",
       "category": "computing",
@@ -1102,22 +1418,6 @@
         "战争安全"
       ],
       "url": "https://www.defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget/"
-    },
-    {
-      "id": "67b664462bb0ef6c",
-      "title": "The new Apple TV has a YouTube problem",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-11-13T16:55:57.000Z",
-      "priority": "normal",
-      "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only s",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error"
     },
     {
       "id": "1cbd2bca9bd58d1d",
@@ -1166,22 +1466,6 @@
       "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
     },
     {
-      "id": "4be096efb99e6f36",
-      "title": "Microsoft&#8217;s massive Outlook outage might be over",
-      "category": "computing",
-      "region": "global",
-      "source": "The Verge",
-      "publishedAt": "2026-11-13T16:17:11.000Z",
-      "priority": "normal",
-      "summary": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a",
-      "tags": [
-        "科技",
-        "软件",
-        "硬件"
-      ],
-      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage"
-    },
-    {
       "id": "17ce9d8841384021",
       "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
       "category": "aerospace",
@@ -1197,38 +1481,6 @@
       "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/"
     },
     {
-      "id": "c231d25e54b9ad3f",
-      "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-13T16:00:12.000Z",
-      "priority": "high",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
-    },
-    {
-      "id": "59c58e3f39cc6e58",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-13T15:58:00.000Z",
-      "priority": "high",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastru",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-    },
-    {
       "id": "625517f21d455e7b",
       "title": "Microsoft’s global outage may be worse than Amazon&#039;s or CrowdStrike&#039;s, expert says",
       "category": "computing",
@@ -1242,21 +1494,6 @@
         "科技"
       ],
       "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
-    },
-    {
-      "id": "d7619db8fed18da7",
-      "title": "It&#039;s the end of the world as we know it, per a physicist&#039;s 1960 prediction",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-13T15:09:39.000Z",
-      "priority": "normal",
-      "summary": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/"
     },
     {
       "id": "c597f8e4a4ec8ae5",
@@ -1275,22 +1512,6 @@
       "url": "https://www.eetimes.com/newspace-grade-nor-flash-right-sized-reliability-for-space-missions/"
     },
     {
-      "id": "a351355edf69d9b0",
-      "title": "Uber confirms hackers stole thousands of drivers&#8217; license information in data breach",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-13T14:57:55.000Z",
-      "priority": "high",
-      "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
-    },
-    {
       "id": "ca2fd698f8a84b28",
       "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
       "category": "electronics",
@@ -1305,67 +1526,6 @@
         "AI"
       ],
       "url": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/"
-    },
-    {
-      "id": "109e2cb06f811282",
-      "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-13T14:45:04.000Z",
-      "priority": "normal",
-      "summary": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/"
-    },
-    {
-      "id": "744da6a2871c93b3",
-      "title": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-13T14:44:48.000Z",
-      "priority": "high",
-      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
-    },
-    {
-      "id": "eb47d82ddda248fa",
-      "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
-      "category": "computing",
-      "region": "global",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-13T14:29:15.000Z",
-      "priority": "high",
-      "summary": "Climate action has stalled for five years as fossil fuel development keeps growing.",
-      "tags": [
-        "计算机",
-        "科技"
-      ],
-      "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/"
-    },
-    {
-      "id": "99866235dfed87e6",
-      "title": "全球首座半潜式风电制氢平台拖航启程",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-11-13T14:27:53.000Z",
-      "priority": "normal",
-      "summary": "中新社广东江门11月13日电 (记者 郭军)江门海事局13日完成全球首座半潜式风电制氢平台“申海氢能1号”离开广东江门新会水域的拖带护航任务，有力保障了这一国家级海洋新能源重大装备的安全离港。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731848.shtml"
     },
     {
       "id": "ae34f54cce907fd6",
@@ -1384,106 +1544,14 @@
       "url": "https://www.defensenews.com/global/mideast-africa/2026/11/13/turkey-and-egypt-weigh-joint-naval-shipbuilding-projects/"
     },
     {
-      "id": "9afeafdb163ac8b1",
-      "title": "海南首票“两头在外”保税航空煤油适用国际标准检验业务落地",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-11-13T13:55:21.000Z",
-      "priority": "normal",
-      "summary": "中新网海南洋浦11月13日电 (周爱玉)11月13日，在海口海关所属洋浦海关监管保障下，装载3.25万吨境外航空煤油的丽池轮顺利靠泊中石化(香港)海南石油有限公司成品油码头，海关按照相关国际标准实施检验通关。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731838.shtml"
-    },
-    {
-      "id": "726526fb16c9fd06",
-      "title": "引来全国新材料创新资源 广东茂名首届新材料创新创业大赛落幕",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-11-13T13:54:53.000Z",
-      "priority": "normal",
-      "summary": "中新网茂名11月13日电 (梁盛 周俊文)13日，广东茂名首届新材料创新创业大赛举行决赛，以赛引智、聚资、促落地，围绕化工新材料、金属新材料、电池新材料、电子化学品、合成生物及生物基材料五大赛道开展项目遴选、产研对接与招商引资，最终决出一等奖5名、二等奖6名、三等奖10名、最佳产业匹配奖5名。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731834.shtml"
-    },
-    {
-      "id": "7311168ada20157e",
-      "title": "浙江：到2030年全域旅游综合收入达1.5万亿元",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-11-13T13:42:30.000Z",
-      "priority": "normal",
-      "summary": "中新网杭州11月13日电(孙琳茹)浙江省“十五五”旅游业发展规划新闻发布会13日在杭州举行。浙江省文化广电和旅游厅党组书记、厅长陈广胜介绍，到“十五五”期末即2030年，浙江全省旅游产业增加值占GDP比重达7%左右，全域旅游人数达10亿人次，过夜游客人数达5.5亿人次，全域旅游综合收入达1.5万亿元。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731822.shtml"
-    },
-    {
-      "id": "ea3c9a1c33f98024",
-      "title": "科技赋能储粮 七台河市勃利县31万吨智慧粮库即将投用",
-      "category": "finance",
-      "region": "domestic",
-      "source": "中新网财经",
-      "publishedAt": "2026-11-13T13:42:28.000Z",
-      "priority": "normal",
-      "summary": "中新网七台河11月13日电(李奇晔 刘鹏)近日，黑龙江省七台河市勃利县国有智慧粮食储备库项目全面完工。这座以智能化为核心的粮库总仓容31.17万吨，投用后将一改传统储粮模式，依托自动化管控、全流程智能调度，让黑土地的粮食“存得稳、管得精、调得快”，为区域粮食安全筑牢硬件支撑。",
-      "tags": [
-        "国内金融",
-        "经济"
-      ],
-      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731794.shtml"
-    },
-    {
-      "id": "ab323bb591ac51e4",
-      "title": "Microsoft&#8217;s latest email outage turned into a full-blown global cloud crisis",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-13T13:15:20.000Z",
-      "priority": "high",
-      "summary": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
-    },
-    {
-      "id": "f240bb31094b1ee3",
-      "title": "Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil",
-      "category": "computing",
-      "region": "global",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-13T12:52:19.000Z",
-      "priority": "high",
-      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-      "tags": [
-        "创业",
-        "AI",
-        "软件"
-      ],
-      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"
-    },
-    {
       "id": "5459684a14c73740",
-      "title": "ULA delays to Saturday Vulcan rocket launch of 40 Leo satellites for Amazon",
+      "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
       "category": "aerospace",
       "region": "global",
       "source": "Spaceflight Now",
       "publishedAt": "2026-11-13T12:25:06.000Z",
       "priority": "high",
-      "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:32 p.m. EST (1732 UTC) on Saturday.",
+      "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
       "tags": [
         "火箭",
         "发射",
@@ -1635,23 +1703,6 @@
         "AI"
       ],
       "url": "https://www.solidot.org/story?sid=85876"
-    },
-    {
-      "id": "57574c2352fcb217",
-      "title": "微软云服务全球宕机",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-11-13T05:30:36.000Z",
-      "priority": "high",
-      "summary": "微软云服务全球宕机，受影响服务包括了 Outlook、Teams 和 OneDrive 等办公工具以及 AI 工具 Copilot。微软通过其社交媒体账号表示正全力解决该问题。根据 Downdetector 的报告，截至周四 18:00 GMT，全球报告的 Outlook 故障数量接近 14 万。目前无迹象表明此次大范围宕机是由网络攻击引起的。微软表示，受影",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技",
-        "AI"
-      ],
-      "url": "https://www.solidot.org/story?sid=85875"
     },
     {
       "id": "03c2d7073afef717",
@@ -1840,54 +1891,6 @@
         "AI"
       ],
       "url": "https://semiengineering.com/the-semiconductor-singularity/"
-    },
-    {
-      "id": "6a5c7d4c73df9e18",
-      "title": "Finland says it detects strike on Russian warship in Baltic Sea",
-      "category": "security",
-      "region": "global",
-      "source": "Defense News Global",
-      "publishedAt": "2026-11-12T15:06:31.000Z",
-      "priority": "high",
-      "summary": "Finland's military said on Thursday its forces had detected \"a strike\" on a Russian warship in the Baltic Sea a day earlier, but that the security situation in the area remained st",
-      "tags": [
-        "防务",
-        "战争安全",
-        "AI"
-      ],
-      "url": "https://www.defensenews.com/global/europe/2026/11/12/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea/"
-    },
-    {
-      "id": "50f5708cc0c1be46",
-      "title": "Design Smarter &#8211; Energy Harvesting for Battery-Free and Low-Maintenance Devices in Safety &#038; Security applications",
-      "category": "electronics",
-      "region": "global",
-      "source": "EE Times",
-      "publishedAt": "2026-11-12T15:00:00.000Z",
-      "priority": "high",
-      "summary": "Battery-powered sensors and detectors underpin modern safety and security systems, yet they create a constant maintenance burden. Hundreds of devices need manual battery swaps, oft",
-      "tags": [
-        "芯片",
-        "电子工程",
-        "AI"
-      ],
-      "url": "https://www.eetimes.com/design-smarter-energy-harvesting-for-battery-free-and-low-maintenance-devices-in-safety-security-applications/"
-    },
-    {
-      "id": "46874d09b9bfd1df",
-      "title": "用户抱怨难以在流媒体服务上找到想看的内容",
-      "category": "computing",
-      "region": "domestic",
-      "source": "Solidot",
-      "publishedAt": "2026-11-12T14:42:28.000Z",
-      "priority": "normal",
-      "summary": "根据尼尔森的 Gracenote 对美国、巴西、法国、德国、墨西哥和英国的 3000 名 18 岁及以上的流媒体用户进行的调查：虽然流媒体平台内容无比丰富，但用户经常找不到想要看的内容。逾 51% 的受访者表示：内容和流媒体服务的极度丰富，反而让人更难找到想看的东西。19.2% 的受访者表示，他们总是或经常遇到这种情况：不知道该看什么，也找不到想看的内容，最",
-      "tags": [
-        "计算机",
-        "开源",
-        "科技"
-      ],
-      "url": "https://www.solidot.org/story?sid=85874"
     }
   ]
 }
